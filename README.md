@@ -13,3 +13,6 @@ yarn dev
 ```
 yarn build
 ```
+
+Produces `dist/chat.js` for embedding in web pages.
+

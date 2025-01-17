@@ -1,35 +1,21 @@
 import { defineConfig } from 'vite';
 
-const htmlPlugin = () => {
-  return {
-    name: 'html-transform',
-    transformIndexHtml(html: string) {
-      return html.replace(
-        /<title>(.*?)<\/title>/,
-        `<title>Title replaced!</title>`,
-      )
-    },
-  }
-};
-
 export default defineConfig({
   build: {
     emptyOutDir: false,
+    copyPublicDir: false,
     rollupOptions: {
-      input: './public/demo.html', // Include demo.html in the build
+      input: 'index.html',
       output: {
-        entryFileNames: 'chat.js', // Output chat.js in the dist directory
-        format: 'iife', // This format will work well with <script> tags
+        entryFileNames: 'chat.js',
+        format: 'iife',
         assetFileNames: '[name].[ext]',
         dir: 'dist'
       },
     },
-    outDir: 'dist', // Output directory for production build
+    outDir: 'dist',
   },
   server: {
-    open: '/demo.html'
-  },
-  plugins: [
-    htmlPlugin()
-  ]
+    open: '/index.html'
+  }
 });
