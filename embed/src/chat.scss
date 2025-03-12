@@ -1,0 +1,195 @@
+@keyframes pulsate {
+  0% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.5;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#giraichat,
+#giraichat * {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  font-family: monospace;
+  font-size: 100%;
+  line-height: 1;
+  text-decoration: none;
+  list-style: none;
+  background: transparent;
+  color: inherit;
+}
+
+#giraichat {
+  z-index: 99;
+  box-sizing: border-box;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  font-family: Helvetica, Arial, sans-serif;
+  font-synthesis: none;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  text-rendering: optimizeLegibility;
+  position: fixed;
+  bottom: 15px;
+  right: 10px;
+  border-top-left-radius: 60px;
+  border-bottom-right-radius: 30px;
+
+  .pulsating-text {
+    animation: pulsate 1.5s infinite ease-in-out;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .chat {
+    color: #fff;
+    width: 60px;
+    height: 60px;
+    transition: width 0.5s ease-in-out, height 0.5s ease-in-out, opacity 0.5s ease-in-out;
+    border-top-left-radius: 60px;
+    border-bottom-right-radius: 30px;
+
+    &.open {
+      border: solid 2px rgba(0, 0, 0, 0.05);
+      background: rgba(1, 40, 109, 0.9);
+      width: 400px;
+      height: 50vh;
+
+      .chatContainer {
+        opacity: 1;
+      }
+    }
+
+    .activator {
+      border: solid 2px rgba(120, 22, 247, 0.5);
+      cursor: pointer;
+      background: rgba(12, 22, 247, 0.9);
+      border-radius: 100%;
+      bottom: 0;
+      right: 0;
+      position: absolute;
+      display: block;
+      width: 60px;
+      height: 60px;
+      transition: all 0.1s ease-in-out;
+
+      &:hover {
+        transform: rotate(5deg) scale(1.25);
+      }
+    }
+
+    .chatContainer {
+      opacity: 0;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      max-height: 75vh;
+      overflow: hidden;
+      padding-top: 10px;
+
+      .messages {
+        box-sizing: border-box;
+        border-top-left-radius: 60px;
+        flex-direction: column-reverse;
+        flex-grow: 1;
+        overflow-y: auto;
+        display: flex;
+        gap: 10px;
+        max-height: 435px;
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+        padding: 10px;
+        ;
+
+        &::-webkit-scrollbar {
+          display: none;
+        }
+
+        .messageContainer {
+          box-sizing: border-box;
+
+          border-radius: 10px;
+          display: flex;
+          flex-direction: row;
+          width: 100%;
+          align-items: center;
+          padding: 10px 0;
+
+          &.role-user {
+            background-color: rgba(0, 0, 0, 0.2);
+            flex-direction: row-reverse;
+            border-bottom: solid 1px rgba(255, 255, 255, 0.2);
+            border-top: solid 1px rgba(0, 0, 0, 0.5);
+
+
+            .role {
+              margin-right: 10px;
+            }
+
+            .message {
+              text-align: right;
+              font-family: monospace;
+            }
+          }
+
+          .message {
+            line-height: 20px;
+            flex-grow: 1;
+            padding-left: 10px;
+            word-break: break-word;
+
+            div {
+              line-height: 20px;
+            }
+          }
+
+          .role {
+            flex-shrink: 0;
+            width: 25px;
+            height: 25px;
+            margin-left: 10px;
+          }
+        }
+      }
+
+      .inputContainer {
+        border-top: solid 1px rgba(0, 0, 0, 0.5);
+
+        .input {
+          line-height: 20px;
+          overflow: hidden;
+          border: none;
+          border-top: solid 1px rgba(255, 255, 255, 0.1);
+          resize: none;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 100%;
+          height: 100%;
+          background-color: rgba(0, 0, 0, 0.2);
+          padding: 15px 65px 15px 15px;
+          font-family: monospace, Helvetica, Arial, sans-serif;
+
+          &:focus,
+          &:active {
+            outline: none;
+          }
+        }
+      }
+    }
+
+  }
+}
