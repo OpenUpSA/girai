@@ -1,0 +1,14 @@
+[build]
+  command = "yarn build"
+  publish = ".next"
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/next_api/:splat"
+  status = 200
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+[build.ignore]
+  command = "test -d embed && echo 'Ignoring /embed' || exit 0"
