@@ -1,5 +1,5 @@
 [build]
-  command = "yarn build"
+  command = "npm run build"
   publish = ".next"
 
 [[redirects]]
@@ -10,5 +10,5 @@
 [[plugins]]
   package = "@netlify/plugin-nextjs"
 
-[build.ignore]
-  command = "test -d embed && echo 'Ignoring /embed' || exit 0"
+[context.production]
+  ignore = "test -d embed && echo 'Ignoring /embed' || exit 0"
