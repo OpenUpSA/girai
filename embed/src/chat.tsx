@@ -71,12 +71,12 @@ export default function Chat() {
       setWaiting(false);
 
       for (const botMessage of newMessages) {
+        console.log(botMessage)
         await typeMessage(botMessage);
       }
 
     }
   };
-
 
   const typeMessage = async (message: CoreMessage) => {
     return new Promise<void>((resolve) => {
@@ -100,15 +100,13 @@ export default function Chat() {
 
       characters.forEach((char, index) => {
         setTimeout(() => {
+          currentText += char; // Update `currentText` first
+
           setMessages((currentMessages: CoreMessage[]) => {
             const updatedMessages = [...currentMessages];
-
-            updatedMessages[0] = { role: 'assistant', content: currentText + char };
-
+            updatedMessages[0] = { role: 'assistant', content: currentText };
             return updatedMessages;
           });
-
-          currentText += char;
 
           if (index === characters.length - 1) {
             resolve();
@@ -117,6 +115,7 @@ export default function Chat() {
       });
     });
   };
+
 
   const extractTextContent = (content: any): string => {
     if (Array.isArray(content)) {
