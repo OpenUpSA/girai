@@ -42,7 +42,7 @@ export default function Chat() {
   const [waiting, setWaiting] = useState<boolean>(false);
   const [input, setInput] = useState('');
   const [messages, setMessages] = useState<CoreMessage[]>([
-    { role: 'assistant', content: 'Hello, I am GIRAI, a knowlegeable AI bot here to guide you through the progress of different countries in implementing responsible AI practices. How can I help you?' },
+    { role: 'assistant', content: 'Hello, I am GIRAI, a knowlegeable AI bot from [The Global Index on Responsible AI](https://www.global-index.ai/) here to guide you through the progress of different countries in implementing responsible AI practices. How can I help you?' },
   ]);
 
   const [open, setOpen] = useState<boolean>(false);
@@ -68,7 +68,9 @@ export default function Chat() {
         }),
       });
 
-      const { messages: newMessages } = await response.json();
+      const responseJson = await response.json();
+
+      const { messages: newMessages } = responseJson;
 
       setWaiting(false);
 
