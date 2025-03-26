@@ -65,7 +65,7 @@
     &.open {
       background: #12182E;
       width: 400px;
-      height: 60vh;
+      height: 80vh;
 
       .chatContainer {
         opacity: 1;
@@ -175,13 +175,38 @@
           }
 
           .message {
-            line-height: 20px;
+            line-height: 1.5em;
             flex-grow: 1;
             padding-left: 10px;
             word-break: break-word;
 
-            div {
-              line-height: 20px;
+            div,
+            p,
+            ol,
+            ul,
+            li {
+              line-height: inherit;
+            }
+
+            p {
+              padding: 0.5em 1em;
+            }
+
+            ol, ul {
+              padding: 0.5em 1em 0.5em 1.5em;
+            }
+
+            li {
+              list-style-type: decimal;
+              padding: 0.5em 1em;
+
+              p {
+                padding: 0;
+              }
+            }
+
+            a {
+              text-decoration: underline;
             }
           }
 
