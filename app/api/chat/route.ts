@@ -1,14 +1,25 @@
 import { CoreMessage, generateText } from 'ai';
-import { openai } from '@ai-sdk/openai';
+import { openai, OpenAIResponsesProviderOptions } from '@ai-sdk/openai';
 
 export async function POST(req: Request) {
   const { messages }: { messages: CoreMessage[] } = await req.json();
 
-  const { response } = await generateText({
+  const gt = await generateText({
     model: openai.responses('gpt-4o-mini'),
-    system: 'You are a helpful assistant AI bot working for The Global Index on Responsible AI. You cover topics such as progress of different countries in implementing responsible AI practices, factors such as governance, infrastructure, innovation, and skills. This index is crucial in understanding how different nations are adapting to the rise of AI technology and ensuring its use is ethical, fair, and beneficial to all. Keep answers short, friendly, no markdown, and only about AI.',
+    providerOptions: {
+      openai: {
+        parallelToolCalls: false,
+        store: false,
+      } satisfies OpenAIResponsesProviderOptions,
+    },
+    tools: {
+      web_search_preview: openai.tools.webSearchPreview({
+        searchContextSize: 'high',
+      }),
+    },
+    system: `You are a helpful AI assistant for [The Global Index on Responsible AI](https://www.global-index.ai) website. Only ever link to pages from https://www.global-index.ai. You provide insights about AI governance, infrastructure, innovation, and skills across different countries. You only talk about AI, no other topics.`,
     messages,
   });
 
-  return Response.json({ messages: response.messages });
+  return Response.json({ messages: gt.response.messages });
 }

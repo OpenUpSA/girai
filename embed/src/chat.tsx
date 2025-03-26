@@ -1,6 +1,7 @@
 import './chat.scss';
 import { CoreMessage } from 'ai';
 import { SetStateAction, useState } from 'react';
+import ReactMarkdown from 'react-markdown';
 
 const PersonSvg = () => (
   <svg
@@ -59,7 +60,8 @@ export default function Chat() {
 
       setInput('');
 
-      const response = await fetch('/api/chat', {
+      //const response = await fetch('http://localhost:3000/api/chat', {
+      const response = await fetch('https://girai.openup.org.za/api/chat', {
         method: 'POST',
         body: JSON.stringify({
           messages: [...messages, userMessage],
@@ -71,7 +73,6 @@ export default function Chat() {
       setWaiting(false);
 
       for (const botMessage of newMessages) {
-        console.log(botMessage)
         await typeMessage(botMessage);
       }
 
@@ -100,7 +101,7 @@ export default function Chat() {
 
       characters.forEach((char, index) => {
         setTimeout(() => {
-          currentText += char; // Update `currentText` first
+          currentText += char;
 
           setMessages((currentMessages: CoreMessage[]) => {
             const updatedMessages = [...currentMessages];
@@ -115,6 +116,7 @@ export default function Chat() {
       });
     });
   };
+
 
 
   const extractTextContent = (content: any): string => {
@@ -148,20 +150,26 @@ export default function Chat() {
               </div>
             </div>
           )}
+
           {messages.map((message, index) => (
             <div key={`${message.role}-${index}`} className={`messageContainer role-${message.role}`}>
-              <div className="role">{message.role === 'assistant' ? <ChatSvg /> : <PersonSvg />}</div>
+              <div className="role">
+                {message.role === 'assistant' ? <ChatSvg /> : <PersonSvg />}
+              </div>
               <div className="message">
-                {typeof message.content === 'string'
-                  ? message.content
-                  : message.content
+                {typeof message.content === 'string' ? (
+                  <ReactMarkdown>{message.content}</ReactMarkdown>
+                ) : (
+                  message.content
                     .filter(part => part.type === 'text')
                     .map((part, partIndex) => (
-                      <div key={partIndex}>{part.text}</div>
-                    ))}
+                      <ReactMarkdown key={partIndex}>{part.text}</ReactMarkdown>
+                    ))
+                )}
               </div>
             </div>
           ))}
+
         </div>
         <div className="inputContainer">
           <textarea
