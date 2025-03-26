@@ -23,7 +23,7 @@ export async function POST(req: Request) {
   const vectorStoreIds = ["vs_67e3e69308e08191a5b7c073dbc88fcb"];
   const query = messages.map(msg => msg.content).join(' ');
 
-  let fileSearchResults = [];
+  let fileSearchResults: unknown = null;
   try {
     fileSearchResults = await searchFiles(vectorStoreIds, query);
   } catch (error) {
@@ -32,7 +32,7 @@ export async function POST(req: Request) {
 
   const fileMessages: CoreMessage[] = [{
     role: 'system',
-    content: `Results from fileSearch: ${fileSearchResults.output_text}`
+    content: `Results from fileSearch: ${fileSearchResults as {output_text: string}}`
   }];
 
   const gt = await generateText({
