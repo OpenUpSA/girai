@@ -23,17 +23,17 @@ export async function POST(req: Request) {
   const vectorStoreIds = ["vs_67e3e69308e08191a5b7c073dbc88fcb"];
   const query = messages.map(msg => msg.content).join(' ');
 
-  let fileSearchResults: unknown = null;
-  try {
-    fileSearchResults = await searchFiles(vectorStoreIds, query);
-  } catch (error) {
-    console.error('Error during file search:', error);
-  }
+  // let fileSearchResults: unknown = null;
+  // try {
+  //   fileSearchResults = await searchFiles(vectorStoreIds, query);
+  // } catch (error) {
+  //   console.error('Error during file search:', error);
+  // }
 
-  const fileMessages: CoreMessage[] = [{
-    role: 'system',
-    content: `Results from fileSearch: ${fileSearchResults as {output_text: string}}`
-  }];
+  // const fileMessages: CoreMessage[] = [{
+  //   role: 'system',
+  //   content: `Results from fileSearch: ${fileSearchResults as {output_text: string}}`
+  // }];
 
   const gt = await generateText({
     model: openai.responses('gpt-4o-mini'),
@@ -63,7 +63,7 @@ You have access to files in the fileSearch vector store for querying:
 - GIRAI_2024_Edition_Dictionary.html - GIRAI 2024 Dictionary in HTML tables
 - GIRAI_2024_Edition_Rankings_And_Scores.html - GIRAI 2024 Rankings and Scores in HTML tables
 `,
-    messages: [...messages, ...fileMessages],
+    messages: [...messages],
   });
 
   return Response.json({ messages: gt.response.messages})//, output: gt.response.body.output });
