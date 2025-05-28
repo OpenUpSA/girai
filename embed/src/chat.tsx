@@ -60,8 +60,8 @@ export default function Chat() {
 
       setInput('');
 
-      //const response = await fetch('http://localhost:3000/api/chat', {
-      const response = await fetch('https://girai.openup.org.za/api/chat', {
+      const response = await fetch('http://localhost:3000/api/chat', {
+      //const response = await fetch('https://girai.openup.org.za/api/chat', {
         method: 'POST',
         body: JSON.stringify({
           messages: [...messages, userMessage],
