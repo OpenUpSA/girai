@@ -45,12 +45,6 @@ export async function POST(req: Request) {
         store: true,
       } satisfies OpenAIResponsesProviderOptions,
     },
-    tools: {
-      web_search_preview: openai.tools.webSearchPreview({
-        searchContextSize: 'medium',
-        userLocation: { type: 'approximate' }
-      }),
-    },
     system: `
 You are a helpful AI assistant for [The Global Index on Responsible AI](https://www.global-index.ai) website. 
 You provide insights about AI governance, infrastructure, innovation, and skills across different countries. 
