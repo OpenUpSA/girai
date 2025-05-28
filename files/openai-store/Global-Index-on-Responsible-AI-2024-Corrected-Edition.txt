@@ -1,0 +1,5214 @@
+2024   1st Edition Report
+
+
+
+
+                 In Partnership
+                                                                                                     Acknowledgements
+
+
+
+
+Acknowledgements
+Authors
+
+Rachel Adams
+
+Fola Adeleke
+
+Ana Florido
+
+Larissa Galdino de Magalhães Santos
+
+Nicolás Grossman
+
+Leah Junck
+
+Kelly Stone
+
+
+Collaborating Organizations
+
+Applied AI Institute, Concordia University, Canada
+
+Balkan Investigative Reporting Regional Network (BIRN)
+
+Birzeit University, Palestine
+
+Caribbean Open Institute, Jamaica (COI)
+
+Centro Nacional de Inteligencia Artificial, Chile (Cenia)
+
+Derechos Digitales (DD)
+
+Digital Futures Lab, India (DFL)
+
+East West Management Institute (EWMI)
+
+Índice Latinoamericano de Inteligencia Artificial (ILIA)
+
+Iniciativa Latinoamericana por los Datos Abiertos, Uruguay (ILDA)
+
+Institute for Development of Freedom of Information, Georgia (IDFI Georgia)
+
+Local Development Research Institute, Kenya (LDRI)
+
+LIRNEasia, Sri Lanka
+
+Kwame Nkrumah University of Science and Technology, Ghana (KNUST)
+
+Global Research and Advocacy Group, Senegal (GRAG)
+
+Research ICT Africa (RIA)
+
+
+
+The authors of this report wish to thank the following people who generously reviewed the research:
+Matthew Smith, Abbey Gandhi, Paul Plantinga, Tim Davies and Aubra Anthony. 
+
+
+
+This work was carried out with the aid of a grant from the International Development Research Centre,
+Ottawa, Canada, funded in part by the Government of Canada, and an additional grant from USAID.
+
+
+
+How to Cite This Report
+
+Adams, R., Adeleke, F., Florido, A., de Magalhães Santos, L. G., Grossman, N., Junck, L., & Stone, K. (2024).
+Global Index on Responsible AI 2024 (1st Edition). South Africa: Global Center on AI Governance.
+
+
+
+This work is available under Creative Commons Attribution 4.0 International (CC BY 4.0): 
+
+https://creativecommons.org/licenses/by/4.0/deed.en
+
+
+
+
+GIRAI 1st Edition Report                                                                                           02
+                                                                                                                    Acknowledgements
+
+
+
+
+Acknowledgements
+The authors wish to thank the following people who contributed to
+the 1st Edition of the Global Index on Responsible AI:
+
+
+Abbey Gandhi
+                       Esmeranda Manful
+                     Lia Hernández
+                  Pierrinne Leukes
+
+Abdoul Malick Tapsoba
+              Fatma Mosaad
+                         Lila Graham
+                    Pilar Fiuza
+
+Abed Khooli
+                        Fatoumata Barry
+                      Linh Tong
+                      Pyrou Chung
+
+Adama Noumpounon Diarra
+            Fenwick Mckelvey
+                     Lisa Ann Vasciannie
+            Rachel Tritt
+
+Adina Florea
+                       Fernando Perini
+                      Lucia Cizmaziova
+               Rebecca Karagwa
+
+Ahmad Alhajdaoud
+                   Fitzgerald Yaw
+                       Luciano Borgoglio
+              Rostam J. Neuwirth
+
+Aimal Marjan
+                       Florence Toffa
+                       Madina Tursunova
+               Rugile Trumptye
+
+Akomian Steven Pacome Arnaud
+       Galiya Yelubayeva
+                    Maha Jouini
+                    Ruofei Wang
+
+Aleksandar Kostadinov
+              Gloria Guerrero
+                      Mahamou Sama Cherif
+            Rustam Muhamedov
+
+Alex Megelas
+                       Guillermo Movia
+                      Marco Russ
+                     Samah Kareem
+
+Alice de Perdigão Lana
+             Haritha Thilakarathne
+                Mariam Ayvazyan
+                Samik Kharel
+
+Alinafe Emmanuel Kaliwo
+            Helani Galpaya
+                       Maricarmen Sequera
+             Shachee Doshi
+
+Alison Gillwald
+                    Herman Ramos
+                         Marieke Peeters
+                Shashidhar KJ
+
+Ana Carmen Tudur Cairoi
+            Houda Chihi
+                          Marina Mijuskovic
+              Shurland George
+
+Andrew Merluzzi
+                    Hugo Miranda
+                         Mark Gaffley
+                   Silvana Fumega
+
+Andrew Sushko
+                      Huguette Diakabana
+                   Martin Ebers
+                   Silvana Sánchez Di Domenico
+
+Anisha Nitin Nadkarni
+              Ibrahim Kholilul Rohman
+              Marwan Tarazi
+                  Sofía Alemán
+
+Antonia Bogado
+                     Ibrahima Bah
+                         Mary Boatemaa Setrana
+          Soklay Heng
+
+Anushka Jain
+                       Ilenius Ildephonse
+                   Mary Grace Mirandilla-Santos
+   Stella Afi Makafui Yegblemenawo
+
+Archana Atmakuri
+                   Ilie Chirtoaca
+                       Mary Sefa Boampong
+             Stephen Walker
+
+Aslam Hayat
+                        Imane Hmiddou
+                        Maryama Elmi
+                   Subhan Hasanli
+
+Asylai Akisheva
+                    Irena Barkane
+                        Matteo Mastracci
+               Suchithra Suchithra
+
+Aziz Soltobaev
+                     Isidore Kalonji
+                      Matthew Smith
+                  Susana Cadena-Vela
+
+Babacar Ndiaye
+                     Ivan Begtin
+                          Maurice McNaughton
+             Susana Russell
+
+Bárbara da Rosa Lazarotto
+          Ivana Jeremic
+                        Meaghan Wester
+                 Suzana Brown
+
+Bernard Ampong
+                     Jackline Akello
+                      Merl Chandana
+                  Sylvain Bijimina Luadia
+
+Bidias Marie-Louise Félicité
+       Jamila Venturini
+                     Michelle McLeod
+                Tabriz Ahmadli
+
+Bojan Baskot
+                       Jean Louis Fendji Kedieng Ebongue
+    Miloš Ćirić
+                    Tadej Uršič
+
+Carlos Guerrero Argote
+             Joel Woolf
+                           Moe Miyashita
+                  Tahani Iqbal
+
+Carol Kawira Mukiira
+               Jompon Pitaksantayothin
+              Mohamed Al-Tai
+                 Tebkieta Alexandra Tapsoba
+
+Caroline Aku Akpene Yegblemenawo
+   Jones Opoku-Ware
+                     Mohammed Al-Farsi
+              Teki Akuetteh
+
+Catherine Setiawan
+                 Jorge Ortiz Claverol
+                 Moremi Nkosi
+                   Tenzin Dolma Norbu
+
+Cecila Mwende Mulu
+                 Juan Carlos Lara
+                     Muchiri Nyaggah
+                Teona Turashvili
+
+Charles Ikem
+                       Juan Ignacio Belbis
+                  Muslimbek Buriev
+               Tetiana Avdieieva
+
+Christophe Zoghbi.
+                 Juan Pablo Marín
+                     Nagla Rizk
+                     Theresa Schueltken
+
+Claude K. Migisha
+                  Juliana Galvis Nieto
+                 Nashilongo Gervasius
+           Thomas Yeboah
+
+Cristian León Coronado
+             Julio Herrera Toledo
+                 Nawal Omar
+                     Tom Barraclough
+
+Dafina Olluri
+                      Justice Richard Kwabena Owusu Kyei
+   Nelson Gyasi-Boadu
+             Tselmeg Garmaa
+
+Dafna Feinholz
+                     Kanta Dihal
+                          Nipuni Habaragamuwa
+            Uma Kalkar
+
+David Zamora
+                       Kanuma Marie-Rose Karlyne
+            Nokuthula Olorunju
+             Urvashi Aneja
+
+Dein Harry
+                         Karine Perset
+                        Oarabile Mudongo
+               Valentina Rozo
+
+Diana Nyakundi
+                     Kelle Howson
+                         Ofeibea Asare
+                  Varun Ramdas
+
+Domingos Soares Farinho
+            Kevin Nyamai
+                         Omar Luna
+                      Veszna Wessenauer
+
+Duje Prkut
+                         Keziah Munyao
+                        Owusu Kyei
+                     Victor Gonzalez
+
+Edgar Brutyan
+                      Khristophina Shilongo
+                Patrick Hajayandi
+              Vinath Mekthanavanh
+
+Eftichia Soufleri
+                  Lama Taha
+                            Paula Ricaurte
+                 Yacine Khelladi
+
+Elhadji Saala Madior Diop
+          Laura Sanclemente
+                    Pavlo Burdiak
+                  Yulu Pi
+
+Elizabeth Koomson-Yalley
+           Laurajan Obermuller
+                  Peter Dwumah
+                   Zara Schroeder
+
+Emilia Wesołowska
+                  Leena Azzam
+                          Peterking Quaye
+                Zinnya del Villar Islas
+
+Emmanuel Elolo Agbenonwossi
+        Leonard Francis Vibbi
+                Philippe Tunamsifu
+             Zwelithini Eugene Xaba
+Eric Wamugu Maina
+                  Leonida Mutuku
+                       Phyu Phyu Thi
+
+Erjon Curraj                        Lester Ramirez Irias
+                 Pia Groenewolt
+
+
+GIRAI 1st Edition Report                                                                                                                     03
+                                                      Disclaimer
+
+
+
+
+Disclaimer
+The data used to produce this report was
+compiled with the support of partner
+organizations listed in the Acknowledgements
+section. However, data and analysis do not
+necessarily represent the views, positions or
+opinions of those individual organizations, and
+any error or omission is the sole responsibility of
+the Global Index on Responsible AI project. In
+particular, the views expressed herein do not
+necessarily represent those of IDRC or its Board
+of Governors, the Government of Canada, or
+USAID. The data used in this report covers the
+period November 2021 - November 2023.
+
+
+
+
+GIRAI 1st Edition Report                                     04
+                                                                                                        Foreword
+
+
+
+
+FOREWORD
+
+
+Paris Peace Forum
+
+I hate to sound grandiose, but the Global Index on     The political approach is sound and spelled
+Responsible AI is a public service to humanity and     explicitly, and the methodology is transparent
+we should be grateful to Rachel Adams and her          and open for all to criticize. For having created
+team for providing it.
+                                an index myself in the past, I can testify that no
+ 
+                                                     methodology is flawless. All of them are more
+Let me explain. In the great wave of digital           akin to the famous sausage factory than any
+revolutions, AI stands out for being not just a new    scientific protocol – but the methodology
+technology, but a rare general purpose                 underpinning the results presented here is solid.
+technology, more akin to electricity and its myriad    And of course the heroes are the 138 in-country
+of applications than to cars or say, GMOs.
+            researchers, an amazing number, with the
+ 
+                                                     strongest presence in Africa.  
+
+Indeed, our entire day is now penetrated by AI,         
+
+whether we want it or not, and whether we use          The Paris Peace Forum - an initiative dedicated
+computers and smartphones or not. Policing and         to advancing global governance and international
+delivering justice, dating, buying stuff, driving,     cooperation on issues of critical importance -
+getting an insurance quote, being diagnosed, even      recognized the early potential of the Global
+fighting in a shooting war: AI is powering             Index on Responsible AI by awarding the project
+everything – or soon will be – and can’t be neatly     the PPF Scale Up Award in 2022. 
+
+put into one box.
+                                      
+
+ 
+                                                     As we navigate the complexities of AI
+Because it is everywhere, and concerns humanity        governance, the Global Index on Responsible AI
+as a whole, the political and moral challenges of AI   reminds us of the long road ahead. It calls on
+are magnified. If we get it wrong, there are lots of   powerful nations to leverage their influence for
+ways we will inflict suffering on ourselves. The       greater cooperation and on all countries to
+great merit of the Global Index on Responsible AI      adopt comprehensive, enforceable frameworks
+is to help us all get it right, and lay the            that prioritize human-centric and rights-based
+foundations for better policies and citizen            approaches to AI. The Paris AI Action Summit,
+awareness.
+                                            due to take place in February 2025, and to which
+ 
+                                                     the Paris Peace Forum will contribute
+It does so with a very smart and comprehensive         substantively, will take these objectives to heart.
+
+approach, by grading country performance on
+human rights, responsible AI governance and
+responsible AI capacities, and by taking into
+account existing frameworks, government actions
+and also what non-state actors are doing.
+
+                                                       Justin Vaïsse
+
+ 
+                                                     Fondateur et Directeur général | Founder and
+                                                       Director General
+
+                                                       Forum de Paris sur la Paix | Paris Peace Forum
+
+
+
+
+GIRAI 1st Edition Report                                                                                      05
+                                                                                                         Foreword
+
+
+
+
+FOREWORD
+
+
+
+
+CEIMIA, Expert Center for the
+
+
+Global Partnership on AI
+
+
+The landscape of Artificial Intelligence is           Responsible AI is our shared future, demanding a
+
+
+
+undergoing a period of rapid growth. Like pieces      comprehensive understanding of global
+
+
+
+of a vast puzzle, advancements in AI                  perspectives on AI, and an inclusive
+
+
+
+development and adoption are rapidly                  understanding of both its risks and its potential.
+
+
+
+assembling, shaping our world in profound ways.       Only through a collaborative effort , nationally
+
+
+
+However, this rapid progress comes with               and internationally, can we develop the
+
+
+
+significant challenges and high stakes. Safety,       appropriate tools to govern this powerful
+
+
+
+ethics, privacy, and fundamental rights all           technology. The success of Responsible AI relies
+
+
+
+demand careful consideration. Recognizing this        on our ability to understand and integrate a wide
+
+
+
+complex landscape, there is a need for a strong       range of practices and perspectives and on our
+
+
+
+and agile governance and the international            will to increase collaboration, knowledge sharing
+
+
+
+dialogue is paramount to forge common ground,         and capacity building through international
+
+
+
+foster trust and strengthen capacities to address     efforts. By embracing a truly global approach to
+
+
+
+these challenges.
+
+                                   Responsible AI, we can harness the immense
+
+
+
+                                                      potential of AI while ensuring it serves as a force
+
+
+
+While many initiatives surface in order to frame      for good, benefitting all of humanity.
+
+
+
+
+
+and regulate the development and adoption of
+
+
+
+AI, the concept of Responsible AI emerges as the      We are honored to have been involved in this
+
+
+
+inevitable next step. Only AI developed and           first edition of the Global Index on Responsible
+
+
+
+deployed with responsible principles can stand        AI. It is an important first step towards a real
+
+
+
+the test of time, complying with future legislation   global strategy on Responsible AI that would
+
+
+
+and fostering trust. Responsible AI is not merely     truly integrate Human rights as the fundament
+
+
+
+an add-on; it's the very foundation for a             for AI Governance. We look forward to continuing
+
+
+
+sustainable and ethical future of AI. However,        the discussions with other international
+
+
+
+development of Responsible AI also faces              organizations and Governments about how to
+
+
+
+challenges, like the absence of standardized          integrate the recommendations of the report
+
+
+
+ethical frameworks and the difficulty to balance      into their legislative efforts.
+
+
+
+
+rapid innovation with developing regulatory
+
+
+
+compliance. 
+
+
+
+
+
+
+This first edition of the Global Index on
+
+
+
+Responsible AI is a critical step in the crucial
+
+
+
+journey towards Responsible AI. It acts as a stark
+
+
+
+reminder of the significant gaps between the
+                                                                          Sophie Fallaha
+
+rapid development of AI and the advancement of
+
+
+                                                                          Executive Director, CEIMIA
+responsible practices.
+
+
+
+
+
+GIRAI   1st   Edition   Report                                                                                 06
+Contents
+Acknowledgements
+                                                    02
+
+Foreword: Paris Peace Forum
+                                         05
+
+Foreword: CEIMIA, Expert Centre for the Global Partnership on AI
+
+   06
+
+
+
+Executive Summary
+
+                                                  09
+
+
+
+How to Read this Report
+
+                                            14
+
+
+
+Part 1: Introduction & Background
+                                   15
+
+Defining the Problem: Why the Global Index on Responsible AI
+        16
+
+What the Global Index on Responsible AI Measures
+                    18
+
+Scope of the Global Index on Responsible AI
+
+                        19
+
+
+
+Part 2: Ranking and Scores
+
+                                         20
+
+
+
+Part 3: Global Trends
+                                               28
+
+Responsible AI and AI Governance
+                                    29
+
+Protecting Human Rights
+                                             31
+
+International Cooperation in Responsible AI
+                         35
+
+Responsible AI and Gender
+                                           38
+
+Responsible AI and Inequality
+                                       41
+
+AI and Labor Protections
+                                            44
+
+Cultural and Linguistic Diversity in AI
+                             47
+
+AI Safety
+                                                           50
+
+The Role of Civil Society and Universities in Responsible AI
+        53
+
+A Long Way To Go
+
+                                                   57
+
+
+
+Part 4: Future Outlook on Responsible AI
+                            59
+
+Recommendations: Diverse Pathways to Responsible AI
+                 60
+
+What’s Next?                                                         62
+
+
+
+GIRAI 1st Edition Report                                                    07
+Contents
+Tables
+
+Table 1: Ranking and Scores of the GIRAI
+                                    21
+
+Table 2: Recommendations of the GIRAI
+
+                                      61
+
+
+
+
+Figures
+
+Figure 1. Conceptual Framework of the GIRAI
+                                 10
+
+Figure 2. Heat map of the Global Index on Responsible Scores Range
+          13
+
+
+Figure 3. Country Scores in the Global Index on Responsible AI per
+Score Range
+                                                                 27
+
+
+
+Figure 4. Number of Countries with and without government
+frameworks for Access to Remedy and Redress, Impact Assessments
+and Public Procurement
+                                                      32
+
+Figure 5. Country scores distribution by thematic area and region
+           36
+
+
+Figure 6. Number of countries with and without evidence addressing
+Gender Equality by pillar
+
+                                                                             39
+
+
+
+Figure 7. Number of countries with evidence in the thematic areas of
+Bias and Unfair Discrimination, Children's Rights, Cultural and Linguistic
+Diversity, Gender Equality and Labor Protection and Right to Work, per
+pillar
+                                                                      42
+
+
+Figure 8. Percentage of countries with evidence on Labor Protections
+and Right to Work by region and pillar
+                                      45
+
+
+Figure 9. Percentage of countries with evidence on Cultural and
+Linguistic Diversity by region and pillar
+                                   48
+
+
+Figure 10. Percentage of countries with evidence on Safety, Accuracy
+and Reliability of AI across regions
+                                        51
+
+
+Figure 11. Thematic areas where more countries have shown evidence of
+initiatives by non-state actors than by the government
+                      54
+
+
+Figure 12. Distribution of population by Scores Range in the Global Index
+on Responsible AI                                                            58
+
+
+
+
+GIRAI 1st Edition Report                                                             08
+                                                                                                      Executive Summary
+
+
+
+
+         Executive Summary
+
+         Background
+         The Global Index on Responsible AI (GIRAI) is the first tool to set globally-relevant benchmarks
+         for responsible AI and assess them in countries around the world. This study constitutes the
+         largest global data collection on responsible AI to-date. In its first edition, the Global Index on
+         Responsible AI covers 138 countries and jurisdictions, including 41 countries from Africa.
+
+
+
+
+         Defining Responsible AI
+
+         Responsible AI refers to the design, development, deployment and governance of AI in a way
+         that respects and protects all human rights and upholds the principles of AI ethics through
+         every stage of the AI lifecycle and value chain. It requires all actors involved in the national AI
+         ecosystem to take responsibility for the human, social and environmental impacts of their
+         decisions.
+
+
+
+
+         The responsible design, deployment and governance of AI are proportionate to the purpose of
+         its use and meet the technological needs of the individuals and societies it seeks to serve.
+
+
+
+
+         Key Definitions
+         Thematic area = composite indicator                        Government actions = actions by
+         measuring the performance of the                           national or federal government that
+         responsible AI ecosystem in relation to a                  involve the development or
+         sub-component of responsible AI
+
+                          implementation of government
+                                                                    frameworks (see above), or
+         Dimension = cluster of thematic areas 
+
+                   government-led initiatives which
+                                                                    advance action within the identified
+         Pillar = separate category of evidence                     thematic area, even in the absence
+         collected and assessed in relation to the                  of a government framework
+
+
+         responsible AI ecosystem (see below)
+
+
+                                                                    Non-state actors = actors outside
+         Government frameworks = national or                        government (universities, civil
+         federal laws, regulations, policies, strategies            society organizations, and private
+         and/or guidelines that address the                         sector entities) who are actively
+         implications of AI with respect to a                       working on issues related to AI within
+         particular thematic area                                   the thematic area
+
+
+
+
+GIRAI 1st Edition Report                                                                                             09
+                                                                                                                                                                             Executive Summary
+
+
+
+
+        Measuring Responsible AI
+
+       The Global Index on Responsible AI measures 19 thematic areas of responsible AI, which are
+
+       clustered into 3 dimensions: Human Rights and AI, Responsible AI Governance and
+
+       Responsible AI Capacities. Each thematic area assesses the performance of 3 different
+
+       pillars of the responsible AI ecosystem: Government frameworks, Government actions,
+
+       and Non-state actors’ initiatives.
+
+
+
+
+                                                                                                                               Pillars
+                                                                                             G o v e r n m e n t
+           G o v e r n m e n t
+        N o n - S t a t e
+
+                                                                                             Frameworks                        Actions                     Actors
+
+
+
+
+                                                                                                                            National AI Policy
+
+                                                                                                                        Impact Assessment          s
+
+                                                responsible aI governance
+
+
+
+
+                                                                                                          Human Oversight and Determination
+
+                                                                                                            Responsibility an         d Accountability
+
+                                                                                                             Proportionality and Do No Harm
+
+                                                                                                                        Public Procurement
+
+                                                                                                             Transparency and Explainability
+
+                                                                                                                1 to Reme y an
+                                                                                                             Access                   d      d Redress
+
+                                                                                                                    f   ,
+                                                                                                             Sa ety Accuracy an            d Reliability
+                                                                            thematic areas
+
+
+
+
+                                                                                                                            Gender Equality
+
+                                   DIMENSIONS
+
+
+
+
+                                                                                                                Data Protection and Privacy
+
+                                                Human Rights and AI
+
+
+
+
+                                                                                                           Public Participation and Awareness
+
+
+                                                                                                               Bias and Unfair Discrimination
+
+                                                                                                                            Children’s Rights
+
+                                                                                                          Labour Protection and Right to Work
+
+                                                                                                             Cultural and Linguistic Diversity
+                                                Responsible AI Capacities
+
+
+
+
+                                                                                                                    Competitions Authorities
+
+                                                                                                            Public Sector Skills Development
+
+
+
+
+
+
+                                                                                                                    International     Cooperation
+
+
+
+
+       Figure 1. Conceptual Framework of the GIRAI
+
+
+
+
+GIRAI 1st Edition Report                                                                                                                                                                    10
+                                                                              Executive Summary
+
+
+
+
+              Methodology and Scoring
+
+              Data for the GIRAI was collected first-hand by 138 in-country
+
+              researchers. Researchers completed a comprehensive expert
+
+              survey containing 1862 questions (98 per thematic area)
+
+              designed to ascertain what conditions were in place and
+
+              what actions were being taken to advance responsible AI in
+
+              each country surveyed, between November 2021 and
+
+              November 2023. A global team of quality assessors
+
+              conducted an exhaustive review of all data collected.
+
+
+
+
+
+
+              GIRAI scores are derived from the primary data gathered
+
+              across the three pillars. Each thematic area is scored on
+
+              each pillar, scaled to a 0-100 range, and averaged to
+
+              compute pillar scores. These are then adjusted using a
+
+              coefficient built from secondary data for each country which
+
+              accounts for the effectiveness of government frameworks,
+
+              government actions, and the enabling environment for non-
+
+              state actors. Each pillar is assigned a specific weight and
+
+              aggregated into an overall score which allows a comparative
+
+              assessment of efforts made by countries to promote
+
+              responsible AI and to rank them accordingly.
+
+
+
+
+
+
+              The countries included in the 1st Edition of the Global Index
+
+              on Responsible AI were chosen based on where suitable
+
+              country-researchers were recruited and the existing
+
+              research network of institutional partners. Governments were
+
+              not involved in determining whether their country was
+
+              included in the Index.
+
+
+
+
+GIRAI   1st   Edition   Report                                                               11
+                                                                                                      Executive Summary
+
+
+
+
+         Key Findings
+
+         The First Edition of the GlRAI revealed that global progress toward responsible AI is lagging
+         far behind the development and adoption of AI. There are major gaps across many parts
+         of the world and in many core areas of responsible AI, especially those areas related to
+         protecting the rights of vulnerable or marginalized groups.
+
+
+
+          Top 10 Take-Aways of the Global Index on Responsible AI
+
+
+              1        AI governance does not translate into responsible AI
+
+
+
+
+                       Mechanisms ensuring the protection of human rights in the context of AI are
+              2        limited
+
+
+
+                       International cooperation is an important cornerstone of current responsible AI
+              3        practices
+                                                              1
+
+
+
+
+              4        Gender equality remains a critical gap in efforts to advance responsible AI
+
+
+
+
+              5        Key issues of inclusion and equality in AI are not being addressed
+
+
+
+
+              6        Workers in AI economies are not adequately protected
+
+
+
+
+              7        Responsible AI must incorporate cultural and linguistic diversity
+
+
+
+
+              8        There are major gaps in ensuring the safety, security and reliability of AI systems
+
+
+
+
+              9        Universities and civil society are playing crucial roles in advancing responsible AI
+
+
+
+
+             10        There is still a long way to achieve adequate levels of responsible AI worldwide
+
+
+
+
+GIRAI 1st Edition Report                                                                                             12
+                                                                                                   Executive Summary
+
+
+
+
+         Implications of the GIRAI for
+         Advancing Responsible AI
+         Three key insights were gleaned from the first Edition of the Global Index on Responsible
+         AI about the adoption of responsible AI around the world and how to measure progress in
+         this area
+
+              Many efforts to promote responsible AI are embedded in broader government AI
+              strategies which lack specific measures related to human rights considerations, such
+              as gender equality. This trend highlights the need for comprehensive policies,
+              recommendations, and guidelines based on human-centered approaches, with
+              particular attention to human rights
+
+              The measurement of responsible AI must take into account the responsibilities of
+              actors across the entire AI lifecycle and ecosystems, including government actions
+              beyond the setting of frameworks
+
+              As international cooperation on responsible AI is an area of shared commitment
+              between countries around the world, there is a key lever for strengthening the role of
+              global communities in collaboratively monitoring responsible AI progress in practice.
+
+
+
+             Heat map of the Global Index on Responsible AI Scores Range
+
+                                                                                              Scores range
+                                                                                                       0-25
+                                                                                                   >25-50
+                                                                                                   >50-75
+                                                                                                   >75-100
+
+
+
+
+         Figure 2. Heat map of the Global Index on Responsible Scores Range
+
+
+
+
+GIRAI 1st Edition Report                                                                                          13
+                                                                         Executive Summary
+
+
+
+
+         How to read this report
+         This report is structured into four parts. If you are
+         interested in the key findings and insights from the First
+         Edition of the Global Index on Responsible AI, you will find
+         them in the Executive Summary above. If you want to
+         learn more about the rationale for the Global Index on
+         Responsible AI, how we undertook our research and what
+         we sought to measure (and what we didn’t), you will find
+         this set out in Part 1: Introduction and Background below.
+         The ranking and scores for all 138 countries and
+         jurisdictions assessed are listed in Part 2. If you wish to
+         learn more about the data underpinning the top ten
+         takeaways of the Global Index on Responsible AI,
+         highlighted in the Executive Summary, you will find them in
+         Part 3: Global Trends. In each section you will find Bright
+         Spots which showcase the efforts of different countries in
+         advancing responsible AI. Next steps for the Global Index
+         on Responsible AI are described in Part 4: Future Outlook
+         on Responsible AI.
+
+
+
+         All information about the Global Index on Responsible AI,
+         including a full description of the methodology, approach
+         to scoring, definitions and scope of each thematic area is
+         available online at global-index.ai. You will also be able to
+         access freely and openly all the country-level data from
+         the First Edition there.
+
+
+
+
+GIRAI 1st Edition Report                                                                14
+            Part 1
+
+
+
+
+Introduction &
+Background
+                                                                                                 Introduction & Background
+
+
+
+
+              Defining the Problem: Why the
+
+              Global Index on Responsible AI
+
+
+
+              Grounded in principles of AI ethics, and              To move from principles to practice in
+
+
+              geared toward active governance of the                responsible AI we need to know what
+
+
+              design, development , use, monitoring                 efforts countries are making and to track
+
+
+              and evaluation of AI systems,                         and measure progress. Currently, there is
+
+
+              “responsible AI” has emerged as the key               a scarcity of globally representative data
+
+
+              concept for achieving peaceful and                    on what steps countries are taking to
+
+
+              equitable human futures with AI. As the               prepare for the challenges and
+
+
+              use of AI becomes more and more                       possibilities presented by AI, particularly
+
+
+              widespread around the world, it is                    with regard to the enjoyment and
+
+
+              becoming increasingly urgent to ensure                realization of human rights. In the
+
+
+              that its development , use and                        absence of measurements to track
+
+
+              governance are carried out responsibly.               commitments, practices and progress in
+
+
+              Without ensuring responsible AI, new AI-              countries around the world, the concept
+
+
+              enabled technologies will not serve                   of responsible AI remains abstract.
+
+
+
+
+              equitable futures everywhere nor
+
+
+              support the realization of the UN 2030                In response, the Global Index on
+
+
+              Sustainable Development Goals (SDGs). 
+
+              Responsible AI has established a
+
+
+                                                                    comprehensive set of measurable and
+
+
+              Despite growing recognition of the                    human rights-based benchmarks for
+
+
+              importance of responsible AI,                         responsible AI, and assessed
+
+
+              articulations of what governments                     performance toward these benchmarks in
+
+
+              around the world must do to advance                   138 countries and jurisdictions. This
+
+
+              and ensure it are disparate, and                      initiative constitutes the largest global
+
+
+              dominated by players from Europe and                  effort to collect data on the state of
+
+
+              North America. An exception to this was               responsible AI, filling major data gaps,
+
+
+              the development and adoption by all 193               particularly across Africa, South and
+
+
+              member states of the UNESCO                           Central America, Asia, the Middle East
+
+
+              Recommendation on the Ethics of AI in                 and the Caribbean.
+
+
+              November 2021, which established the
+
+
+              first set of global principles for AI ethics
+
+
+              following a globally-representative
+
+
+              consultation process.1
+
+
+
+
+               1 UNESCO Recommendation on the Ethics of AI, 2021.
+
+
+
+
+GIRAI   1st   Edition   Report                                                                                         16
+                                                                                                   Introduction & Background
+
+
+
+
+              The Global Index on Responsible AI provides
+
+              insights into the following questions:
+
+
+
+
+                    1            What is the global state of responsible AI?
+
+
+
+
+                                 What actions have countries taken to advance their commitment to
+
+                   2             practicing responsible governance, use and development of AI?
+
+
+
+
+                                 What are the evident regional and global trends emerging in relation to the
+                   3             implementation - or lack thereof - of responsible AI standards?
+
+
+
+
+                                 What are the major capacity gaps in advancing responsible AI
+                   4             governance and practice around the world?
+
+
+
+
+                                 What does and should responsible AI entail in different
+                   5             regions of the world?
+
+
+
+
+          The Global Index on Responsible AI will be published annually and will produce six further
+
+
+          annual editions in anticipation of the global review of data related to the SDGs targets in
+
+
+          2030. By establishing globally-representative measurement capabilities with which the
+
+
+          relationship between responsible AI and the realization of the SDGs by 2030 can be tracked,
+
+
+          the Global Index on Responsible AI aims to make a major contribution to the advancement of
+
+
+          responsible AI around the world.
+
+
+
+
+GIRAI   1st   Edition   Report                                                                                           17
+                                                                                          Introduction & Background
+
+
+
+
+         What the Global Index on
+         Responsible AI Measures
+          Responsible AI is a systemic challenge that           GIRAI collects primary data based on
+          cannot simply be met by creating frameworks           evidence within three pillars of the
+          or appropriate AI products. Rather, Responsible       responsible AI ecosystem: Government
+          AI emerges through an ecosystem that                  Frameworks, Government Actions, and
+          encourages active engagement and continuous           Non-State Actors. In order to accurately
+          dialogue among diverse stakeholders, including        measure the effectiveness of Government
+          government officials, the private sector, and         Frameworks and Government Actions, as well
+          various non-state actors such as academics            as the environment enabling Non-State
+          and students who question conventional                Actors to operate independently at a national
+          understandings of responsible AI.
+
+                   level, specific coefficients were applied to
+                                                                adjust the values obtained from primary data.
+          Accordingly, the Global Index on Responsible AI       These coefficients were derived from global
+          adopts a multifaceted approach to                     series from the World Bank and Freedom
+          measurement in order to generate insights on          House, measuring Rule of Law, Regulatory
+          the performance and competencies of the               Quality, Government Effectiveness, Control of
+          responsible AI ecosystem within each country          Corruption, Freedom of Expression & Belief
+          across the 19 thematic areas and 3 dimensions         and, Associational & Organizational Rights.
+          set out in Figure 1. While it recognizes the          The purpose was to contextualize the findings
+          importance of government leadership toward            of the GIRAI primary data collection and
+          responsible AI in establishing and implementing       provide a more precise reflection of the
+          frameworks, and protecting and promoting              effectiveness of the evidence assessed for
+          human rights in the context of AI, it also            each pillar at national level.
+          assesses the contribution of different non-
+          state actors within responsible AI ecosystems.
+
+
+
+         The Global Index on Responsible AI does not measure:
+
+             The degree to which AI systems are being designed and adopted in accordance with
+             responsible AI standards
+             The actions or impacts of big tech and AI companies in different parts of the world.
+             The quality and performance of the identified Government Frameworks, Government actions
+             and Non-state actors’ initiatives, using instead data on government actions as proxy metrics
+             to assess the performance of government frameworks and selected secondary indicators.
+
+
+
+
+GIRAI 1st Edition Report                                                                                        19
+                                                                                                                18
+                                                               Introduction & Background
+
+
+
+
+         Scope of the Global Index on
+         Responsible AI
+          Any index is fundamentally constrained by the
+          availability and accessibility of data. It is also
+          subject to cultural and political biases that may
+          result in an incomplete representation of
+          specific dimensions and thematic areas.
+          Carrying out a study of this scale required
+          making decisions to ensure that the
+          measurement framework was inclusive enough
+          to accommodate the complexities and realities
+          of as many countries as possible, yet specific
+          enough to gauge the measurability of a new
+          conceptual framework for responsible AI and to
+          allow for a fair comparison between countries. 
+
+
+
+          The data collected in the Global Index on
+          Responsible AI relates to responsible AI
+          activities from November 1, 2021 to November 1,
+          2023, and therefore does not reflect the latest
+          developments in responsible AI. Advancements
+          that may have taken place between November
+          2, 2023 and November 1, 2024 will be captured
+          in the second edition of the Index.
+
+
+
+
+GIRAI 1st Edition Report                                                             19
+             Part 2
+
+
+
+
+Rankings &
+Scores
+                                                                                                                                                  Rankings & Scores
+
+
+
+
+Global Rankings and Scores                                                                                                                                     1 - 25
+
+
+                                                                                       pillar score                           DIMENSION SCORE
+       RANKINGS
+
+
+
+
+                        COUNTRY                  REGION         INDEX
+
+                                                                SCORE
+                                                                         Government
+   Government
+   Non-state
+       Human rights
+   Responsible AI   Responsible AI
+                                                                         frameworks      actions      actors            and AI          capacities      governance
+
+          1
+         Netherlands
+                Europe         86.16
+     74.33
+       95.46
+        91.23
+            78.74
+           88.59
+            91.12
+
+
+         2
+          Germany
+                    Europe         82.77
+     72.69
+       93.00
+        82.48
+            80.30
+          64.03
+            90.94
+
+
+         3
+          Ireland
+                    Europe         74.98
+      81.71
+       74.17
+       63.16
+             84.11
+          57.60
+           73.68
+
+
+         4
+          United Kingdom
+             Europe         73.12
+     60.66
+       80.90
+        82.48
+            67.59
+           66.54
+           79.62
+
+
+         5
+          USA
+                     North America     72.81
+     62.41
+        79.19
+       80.87
+            65.37
+           84.34
+           74.75
+
+
+         6
+          Estonia
+                    Europe         67.61
+     65.58
+        81.52
+      43.86
+             65.85
+           58.54
+           72.01
+
+
+         7
+          Italy
+                      Europe          61.8
+     59.99
+       55.96
+        77.10
+            66.34
+           38.21
+           66.13
+
+
+         8
+          France
+                     Europe         57.62
+     56.23
+       58.92
+        57.81
+            39.84
+           55.17
+           72.27
+
+
+         9
+          Canada
+                  North America     57.39
+     37.80
+       80.84
+       49.68
+             55.37
+           57.06
+           59.07
+
+
+        10
+          Australia
+              Asia and Oceania   56.22
+     34.69
+        72.44
+       66.82
+             71.31
+          31.62
+           52.67
+
+
+         11
+         Singapore
+              Asia and Oceania   53.77
+     43.70
+       70.68
+       40.09
+             48.35
+           52.10
+           58.54
+
+
+        12
+          Japan
+                  Asia and Oceania   52.21
+     28.86
+        72.54
+       58.25
+             41.67
+          44.19
+           63.07
+
+
+        13
+          Slovenia
+                   Europe         49.58
+     68.89
+        39.63
+      30.84
+              51.97
+          51.35
+            47.12
+
+
+        14
+          Portugal
+                   Europe         49.44
+     66.06
+        34.74
+       45.61
+            54.47
+           55.89
+           43.38
+
+
+        15
+          Switzerland
+                Europe         48.11
+     56.15
+       50.42
+        27.41
+            32.92
+           54.14
+           57.92
+
+
+        16
+          Spain
+                      Europe         45.08
+     68.02
+       33.36
+        22.64
+            47.59
+           48.99
+           41.82
+
+
+        17
+          United Arab Emirates
+     Middle East      44.66
+     46.40
+       55.62
+        19.24
+            40.58
+           51.15
+           45.66
+
+                                               South and
+
+        18
+          Brazil
+
+                                             Central America
+                                                                44.42
+     44.56
+       40.86
+        51.26
+            44.85
+           35.97
+           46.90
+
+                                               South and
+
+        19
+          Uruguay
+
+                                             Central America
+                                                                44.09
+     35.64
+       54.03
+        41.12
+            47.20
+           37.59
+           43.84
+
+
+       20
+           Finland
+                    Europe         43.07
+     36.45
+       49.29
+       43.86
+             36.58
+           45.69
+           47.24
+
+
+        21
+          Poland
+                     Europe         42.73
+     63.50
+        34.97
+       16.73
+            43.83
+           42.15
+           42.07
+
+
+        22
+          Romania
+                    Europe         42.11
+     26.61
+        55.81
+       45.71
+            36.96
+           34.57
+           48.63
+
+                                               South and
+
+        23
+          Chile
+
+                                             Central America
+                                                                40.38
+     33.36
+        49.18
+       36.84
+            42.45
+           26.30
+           43.47
+
+
+       24
+           Belgium
+                    Europe         38.55
+     57.24
+        27.13
+       23.99
+            40.35
+           25.11
+           41.62
+
+
+       25            India                   Asia and Oceania   38.51      28.42        52.95         29.81             28.99            36.05            46.74
+
+
+
+                                                                                                                  0                                                 100
+
+
+
+
+GIRAI 1st Edition Report                                                                                                                                                  21
+                                                                                                                                                Rankings & Scores
+
+
+
+
+Global Rankings and Scores                                                                                                                                26-50
+
+
+                                                                                    pillar score                           DIMENSION SCORE
+       RANKINGS
+
+
+
+
+                        COUNTRY               REGION         INDEX
+
+                                                             SCORE
+                                                                      Government
+   Government
+   Non-state
+       Human rights
+   Responsible AI   Responsible AI
+                                                                      frameworks      actions      actors            and AI          capacities      governance
+
+
+       26
+           Ukraine
+                 Europe         38.13
+     25.72
+        39.19
+       60.81
+            34.35
+          43.39
+            39.31
+
+
+        27
+          Republic of Korea
+   Asia and Oceania   36.18
+     35.64
+       34.59
+       40.43
+             35.08
+           38.07
+           36.40
+
+
+       28
+           Greece
+                  Europe         35.86
+     53.61
+        21.35
+      29.36
+              31.14
+          27.69
+           42.25
+
+
+       29
+           Lithuania
+               Europe         35.78
+     42.17
+       29.02
+       36.49
+             35.41
+           26.35
+           39.20
+
+
+       30
+           Austria
+                 Europe         35.76
+     55.85
+        26.87
+       13.38
+            28.64
+          48.63
+            37.01
+
+
+        31
+          Philippines
+         Asia and Oceania   35.46
+     19.24
+       40.72
+        57.36
+            34.87
+           29.67
+           37.84
+
+
+       32
+           China
+               Asia and Oceania   35.3
+       22.11
+      54.07
+        24.16
+            25.40
+          46.95
+            39.13
+
+
+       33
+           Viet Nam
+            Asia and Oceania   34.29
+     21.80
+       55.29
+        17.27
+            28.61
+           44.75
+           35.22
+
+
+       34
+           Taiwan*
+             Asia and Oceania   33.86
+     26.49
+       44.57
+        27.19
+            44.23
+           39.33
+           23.98
+
+
+       35
+           Slovakia
+                Europe         33.17
+     47.83
+        18.82
+      32.55
+             25.87
+           24.57
+           41.72
+
+
+       36
+           Hungary
+                 Europe          32
+       44.79
+        21.03
+      28.34
+             29.89
+          56.35
+            25.52
+
+
+        37
+          Qatar
+                 Middle East      29.84
+     27.91
+       38.33
+        16.72
+            42.66
+           37.10
+           17.44
+
+
+       38
+           Jordan
+                Middle East      29.6
+      36.88
+        28.78
+       16.69
+            30.68
+           35.63
+           26.75
+
+
+       39
+           Bulgaria
+                Europe         29.09
+     33.96
+        11.97
+      53.59
+             26.08
+           13.17
+           36.73
+
+
+       40
+           Saudi Arabia
+          Middle East      28.95
+     25.60
+       42.87
+         7.81
+            26.28
+          38.96
+            27.69
+
+
+        41
+          Malaysia
+            Asia and Oceania   28.46
+     38.26
+        23.01
+       19.74
+            20.05
+           49.92
+           27.84
+
+
+       42
+           South Africa
+             Africa        27.61
+      3.26
+        31.50
+      68.53
+             28.93
+          32.40
+            24.99
+
+
+       43
+           New Zealand
+         Asia and Oceania   27.33
+     28.49
+       33.70
+        12.28
+            27.87
+           11.47
+           32.20
+
+
+                                            South and
+
+       44
+           Costa Rica
+                             27.05
+     0.00
+        58.29
+        18.69
+            33.12
+           10.67
+           27.80
+
+                                          Central America
+
+       45
+           Latvia
+                  Europe         26.74
+     45.65
+        12.00
+       18.39
+            24.50
+          35.02
+            25.72
+
+
+       46
+           Palestine*
+            Middle East      26.38
+     17.37
+       44.06
+        9.05
+             22.23
+           29.59
+           28.54
+
+
+       47
+           Thailand
+            Asia and Oceania   23.87
+     24.26
+       30.73
+        9.35
+              17.78
+         46.65
+            21.00
+
+
+                                            South and
+
+       48
+           Colombia
+                               23.84
+     24.51
+        18.17
+      33.85
+             25.36
+           18.66
+           24.38
+
+                                          Central America
+
+       49
+           Croatia
+                 Europe         23.58
+     33.59
+        14.76
+       21.20
+            30.95
+           21.85
+           18.43
+
+
+       50            Dominican Republic      Carribean       23.18      39.46          9.11        18.75             16.58            28.79            26.45
+
+
+
+
+                                                                                                               0                                                100
+
+
+
+
+GIRAI 1st Edition Report                                                                                                                                              22
+                                                                                                                                                  Rankings & Scores
+
+
+
+
+Global Rankings and Scores                                                                                                                                         51-75
+
+
+
+                                                                                      pillar score                           DIMENSION SCORE
+       RANKINGS
+
+
+
+
+                        COUNTRY                REGION          INDEX
+
+                                                               SCORE
+                                                                        Government
+   Government
+   Non-state
+       Human rights
+   Responsible AI   Responsible AI
+                                                                        frameworks      actions      actors            and AI          capacities      governance
+
+
+        51
+          Morocco
+                    Africa        22.99
+      9.51
+       30.97
+       34.02
+             27.99
+           19.60
+           20.24
+
+
+       52
+           China, HK
+             Asia and Oceania   22.07
+     26.13
+        24.15
+       9.80
+             12.66
+          25.20
+            28.35
+
+
+       53
+           Benin
+                      Africa        21.96
+     16.88
+        22.18
+       31.66
+            19.02
+           27.96
+           22.24
+
+
+                     Argentina
+               South and
+
+       54
+                                                     21.95
+     10.49
+       29.47
+       29.85
+             25.73
+           23.77
+            18.41
+
+                                            Central America
+
+       55
+           Serbia
+                    Europe         21.24
+     29.96
+         9.11
+      28.04
+             19.89
+           21.39
+           22.23
+
+
+       56
+           Senegal
+                    Africa        20.11
+     26.76
+        13.34
+      20.35
+              16.74
+          19.63
+           22.89
+
+
+        57
+          Kuwait
+                  Middle East      19.11
+     0.00
+        35.79
+       23.99
+             23.39
+           18.92
+           15.85
+
+
+       58
+           North Macedonia
+           Europe         18.14
+     12.69
+        14.85
+      35.64
+             22.47
+           14.15
+            16.11
+
+
+       59
+           Rwanda
+                     Africa        18.09
+     29.74
+        14.48
+        2.01
+             11.94
+          17.96
+           22.92
+
+
+       60
+           Georgia
+                   Europe         17.83
+     28.30
+        7.93
+        16.69
+            17.20
+           11.03
+           20.60
+
+
+                                              South and
+
+        61
+          Peru
+                                     16.4
+      12.56
+        16.67
+       23.53
+            10.99
+           21.51
+            18.91
+
+                                            Central America
+
+       62
+           Tunisia
+                    Africa        15.8
+       6.11
+        19.37
+      28.04
+             19.25
+           11.86
+           14.44
+
+
+       63
+           Egypt
+                      Africa        15.79
+     24.62
+        14.54
+       0.62
+              18.12
+          26.07
+           10.55
+
+
+       64
+           Mexico
+                 North America     15.77
+      3.53
+        22.73
+       26.32
+            21.48
+          22.09
+             9.22
+
+
+       65
+           Montenegro
+                Europe         14.84
+     0.00
+         15.01
+       44.19
+            20.61
+           17.02
+            9.63
+
+
+       66
+           Oman
+                    Middle East      14.8
+      23.54
+        13.03
+       0.86
+             13.85
+           16.06
+            15.12
+
+
+        67
+          Indonesia
+             Asia and Oceania   13.77
+     20.30
+        6.73
+        14.79
+             0.00
+           22.85
+           21.45
+
+
+       68
+           Pakistan
+              Asia and Oceania   13.19
+      2.21
+        23.16
+       15.21
+             16.01
+          13.83
+           10.79
+
+
+       69
+           Republic of Moldova
+       Europe         12.99
+     0.00
+        29.04
+        6.85
+              13.72
+           7.51
+           14.25
+
+
+       70
+           Uzbekistan
+            Asia and Oceania   11.27
+     14.21
+        12.00
+       3.95
+              5.78
+           24.47
+            11.15
+
+
+        71
+          Cambodia
+              Asia and Oceania   11.26
+      8.91
+        16.56
+       5.35
+              14.15
+          16.96
+             7.11
+
+
+        72
+          Sri Lanka
+             Asia and Oceania   10.92
+     11.56
+        10.13
+       11.23
+             9.95
+           12.83
+            11.04
+
+
+        73
+          Namibia
+                    Africa        10.84
+     0.00
+         19.83
+       14.56
+            15.35
+           14.37
+            6.16
+
+
+        74
+          Kazakhstan
+            Asia and Oceania    9.91
+      3.07
+        18.86
+       5.70
+              14.15
+          11.43
+            6.10
+
+
+                                              South and
+
+        75           Panama                                     9.14      0.00         22.03          1.66              9.20            14.98             7.15
+                                            Central America
+
+
+
+
+                                                                                                                 0                                                 100
+
+
+
+
+GIRAI 1st Edition Report                                                                                                                                                 23
+                                                                                                                                                  Rankings & Scores
+
+
+
+
+Global Rankings and Scores                                                                                                                               76-100
+
+
+
+                                                                                      pillar score                           DIMENSION SCORE
+       RANKINGS
+
+
+
+
+                        COUNTRY                REGION          INDEX
+
+                                                               SCORE
+                                                                        Government
+   Government
+   Non-state
+       Human rights
+   Responsible AI   Responsible AI
+                                                                        frameworks      actions      actors            and AI          capacities      governance
+
+
+        76
+          Mongolia
+              Asia and Oceania    9.11
+     10.19
+         5.31
+       14.56
+             6.18
+           20.62
+            7.56
+
+
+        77
+          Kenya
+                      Africa        8.79
+       8.67
+        4.68
+        17.27
+             6.03
+           13.25
+            9.46
+
+
+        78
+          Bahrain
+                 Middle East       8.71
+      9.67
+        10.96
+       2.30
+              9.37
+           17.84
+            5.15
+
+
+        79
+          Kyrgyz Republic
+       Asia and Oceania    7.4
+       2.14
+       10.50
+        11.76
+             8.88
+           15.32
+            3.62
+
+
+       80
+           Nigeria
+                    Africa         7.21
+     3.90
+         6.97
+        14.31
+             8.59
+            7.32
+            6.10
+
+
+        81
+          Tajikistan
+            Asia and Oceania   6.93
+       8.18
+        7.42
+        3.45
+              6.00
+           14.33
+            5.19
+
+
+       82
+           Nepal
+                 Asia and Oceania   6.78
+      0.00
+         12.43
+       9.02
+              7.30
+           17.38
+            2.84
+
+
+       83
+           Jamaica
+                  Caribbean       6.76
+      0.00
+         10.26
+       13.27
+             8.22
+           10.77
+            4.29
+
+
+                                              South and
+
+       84
+           Paraguay
+                                 6.33
+      0.00
+         10.34
+       10.96
+             6.27
+           13.51
+            3.99
+
+                                            Central America
+
+       85
+           Mauritius
+                  Africa        6.29
+       7.53
+        7.40
+         1.62
+             3.27
+            9.37
+            7.62
+
+
+       86
+           Ghana
+                      Africa        6.26
+      0.00
+         9.39
+        12.50
+             0.85
+            7.65
+           10.00
+
+
+        87
+          Ethiopia
+                   Africa         6.1
+      0.00
+         11.33
+       7.84
+              6.85
+           8.45
+             4.73
+
+
+       88
+           Azerbaijan
+            Asia and Oceania   5.86
+       3.70
+        10.09
+        1.73
+             2.91
+           14.49
+            5.29
+
+
+       89
+           Guyana
+                   Caribbean       5.42
+      0.00
+         2.76
+        21.56
+             4.50
+           13.29
+            3.50
+
+
+       90
+           Niger
+                      Africa        5.28
+       9.81
+        2.25
+         2.27
+             5.94
+            7.14
+            4.14
+
+
+        91
+          Antigua and Barbuda
+      Caribbean       4.72
+      0.00
+         9.38
+         4.81
+             6.01
+            7.92
+            2.64
+
+
+       92
+           Zambia
+                     Africa         4.71
+     2.60
+         6.87
+         4.61
+             4.07
+           14.52
+            1.93
+
+
+       93
+           Trinidad and Tobago
+      Caribbean       4.65
+      0.00
+         5.67
+        11.90
+             4.61
+           9.33
+              3.11
+
+
+       94
+           Libya
+                      Africa        4.53
+      0.00
+          6.61
+       9.44
+              5.17
+           9.68
+             2.32
+
+
+                                              South and
+
+       95
+           Ecuador
+                                  4.51
+      0.00
+         4.85
+        12.83
+             5.42
+            9.75
+            2.05
+
+                                            Central America
+
+       96
+           Albania
+                   Europe         4.06
+       3.38
+        6.07
+         1.41
+             0.77
+           23.95
+           0.00
+
+
+        97
+          Cameroon
+                   Africa        4.04
+      0.00
+         5.46
+         9.27
+             5.60
+           4.44
+             2.68
+
+
+       98
+           Zimbabwe
+                   Africa        3.69
+       3.34
+        3.23
+        5.35
+              4.92
+           11.92
+           0.00
+
+
+       99
+           Lebanon
+                 Middle East      3.69
+       1.86
+        1.56
+        11.59
+             3.50
+            7.22
+            2.65
+
+
+       100           Saint Lucia               Carribean       3.34       0.00          6.62         3.43               0.00            21.12            0.00
+
+
+
+
+                                                                                                                 0                                                 100
+
+
+
+
+GIRAI 1st Edition Report                                                                                                                                                 24
+                                                                                                                                                Rankings & Scores
+
+
+
+
+Global Rankings and Scores                                                                                                                              101-125
+
+
+
+
+                                                                                    pillar score                           DIMENSION SCORE
+       RANKINGS
+
+
+
+
+                                COUNTRY      REGION          INDEX
+
+                                                             SCORE
+                                                                      Government
+   Government
+   Non-state
+       Human rights
+   Responsible AI   Responsible AI
+                                                                      frameworks      actions      actors            and AI          capacities      governance
+
+
+       101
+          Armenia
+             Asia and Oceania    3.3
+      0.00
+         5.75
+        4.99
+              3.80
+            7.29
+            1.58
+
+
+       102
+          Belize
+                 Caribbean       3.22
+      0.00
+         8.05
+        0.00
+              2.91
+           6.80
+             2.27
+
+
+                                             South and
+
+       103
+          El Salvador
+                             2.7
+      2.48
+         2.37
+        3.82
+              2.08
+           12.27
+           0.00
+
+                                          Central America
+
+
+       104
+          Algeria
+                  Africa        2.66
+      0.00
+         4.53
+        4.25
+              0.00
+           13.63
+            1.08
+
+
+       105
+          Botswana
+                 Africa        2.37
+      0.00
+          3.71
+       4.44
+              0.00
+           9.39
+             1.87
+
+
+       106
+          Uganda
+                   Africa        2.25
+      0.00
+         2.03
+        7.20
+              0.56
+            5.14
+            2.60
+
+
+       107
+          Burkina Faso
+             Africa        2.24
+       2.55
+        2.48
+         1.11
+             3.38
+           6.29
+            0.00
+
+
+       108
+          Tanzania
+                 Africa        2.23
+      0.00
+         2.57
+        6.00
+              0.54
+            7.77
+            1.69
+
+
+       109
+          Kosovo
+                  Europe          2.15
+     0.00
+          2.81
+        5.15
+             2.80
+            7.12
+           0.00
+
+
+       110
+          Belarus
+                 Europe         2.06
+      0.00
+         4.20
+         1.92
+             0.26
+           5.92
+             2.18
+
+
+        111
+         Turkmenistan
+        Asia and Oceania   1.98
+      0.00
+         4.51
+        0.88
+              3.74
+            3.81
+           0.00
+
+
+       112
+          Barbados
+               Caribbean        1.92
+     0.00
+         3.93
+         1.75
+             0.95
+           9.96
+            0.00
+
+
+       113
+          Bhutan
+              Asia and Oceania   1.83
+      0.00
+         4.02
+         1.12
+             0.61
+           10.20
+           0.00
+
+
+       114
+          Mozambique
+               Africa         1.67
+     0.00
+         2.01
+        4.33
+              0.00
+            5.10
+            1.83
+
+
+       115
+          Gabon
+                    Africa        1.66
+       2.26
+        1.90
+        0.00
+              2.45
+           4.83
+            0.00
+
+
+       116
+          Laos
+                Asia and Oceania   1.66
+      0.00
+         4.14
+        0.00
+              0.00
+           5.25
+             1.75
+
+
+                                             South and
+
+       117
+          Bolivia
+                                1.45
+      0.00
+          2.11
+       3.02
+              1.64
+           5.36
+            0.00
+
+                                          Central America
+
+                                             South and
+
+       118
+          Guatemala
+                              1.42
+      0.00
+         3.54
+        0.00
+              2.02
+           4.25
+            0.00
+
+                                          Central America
+
+
+       119
+          Malawi
+                   Africa         1.4
+      0.00
+         2.09
+        2.82
+              0.77
+           7.08
+            0.00
+
+
+       120
+          Chad
+                     Africa         1.2
+      0.00
+         3.00
+        0.00
+              0.00
+            7.59
+           0.00
+
+
+       121
+          Lesotho
+                  Africa         1.16
+     0.00
+         2.24
+         1.32
+             0.71
+           5.67
+            0.00
+
+
+       122
+          Togo
+                     Africa        1.09
+      0.00
+          2.17
+        1.08
+             0.00
+           6.88
+            0.00
+
+
+       123
+          Côte d'Ivoire
+            Africa        1.04
+      0.00
+          2.61
+       0.00
+              0.00
+            6.61
+           0.00
+
+
+       124
+          Sierra Leone
+             Africa        1.03
+      0.00
+          1.97
+        1.21
+             0.00
+           6.52
+            0.00
+
+
+       125           Gambia                    Africa           1       0.00          2.49         0.00               0.00             6.31            0.00
+
+
+
+
+                                                                                                               0                                                100
+
+
+
+
+GIRAI 1st Edition Report                                                                                                                                              25
+                                                                                                                                                                     Rankings & Scores
+
+
+
+
+Global Rankings and Scores                                                                                                                                                 126-138
+
+
+                                                                                                       pillar score                             DIMENSION SCORE
+        RANKINGS
+
+
+
+
+                                   COUNTRY              REGION               INDEX
+
+                                                                             SCORE
+                                                                                         Government
+    Government
+    Non-state
+       Human rights
+   Responsible AI   Responsible AI
+                                                                                         frameworks       actions       actors            and AI          capacities      governance
+
+
+        126
+            Somalia
+                          Africa             0.97
+          0.00
+         2.44
+         0.00
+              1.32
+           3.08
+            0.00
+
+
+                        Honduras
+                      South and
+
+        127
+                                                                 0.75
+          0.00
+          1.86
+        0.00
+              0.00
+            4.72
+           0.00
+
+                                                     Central America
+
+        128
+            Guinea
+                           Africa              0.71
+         0.00
+          1.79
+        0.00
+              0.00
+           4.53
+            0.00
+
+
+        129
+            Haiti
+                          Caribbean             0.71
+         0.00
+          1.29
+        0.99
+              0.00
+           4.53
+            0.00
+
+
+        130
+            Burundi
+                          Africa              0.71
+         0.00
+          1.44
+        0.66
+              0.00
+           4.49
+            0.00
+
+
+        131
+            Mali
+                             Africa              0.7
+          0.00
+          1.76
+        0.00
+              0.00
+           4.46
+            0.00
+
+
+        132
+            Congo
+                            Africa              0.7
+          0.00
+          1.30
+        0.89
+              0.48
+           3.30
+            0.00
+
+
+        133
+            Liberia
+                          Africa             0.67
+          0.00
+          1.69
+        0.00
+              0.00
+           4.27
+            0.00
+
+
+        134
+            Myanmar
+                     Asia and Oceania         0.6
+          0.00
+          1.51
+        0.00
+              0.00
+           3.83
+            0.00
+
+
+        135
+            Afghanistan
+                 Asia and Oceania        0.57
+          0.00
+          1.44
+        0.00
+              0.00
+           3.64
+            0.00
+
+
+        136
+            Central African Republic
+         Africa             0.57
+          0.00
+          1.42
+        0.00
+              0.00
+           3.59
+            0.00
+
+
+        137
+            Eritrea
+                          Africa             0.56
+          0.00
+          1.39
+        0.00
+              0.00
+           3.53
+            0.00
+
+
+        138             South Sudan                       Africa             0.47           0.00           1.18         0.00               0.00            3.00             0.00
+
+    *Data was collected for Chinese Taipei (commonly referred to as Taiwan) and the West Bank, which is under the administration of the Palestinian Authority. No data
+    collection took place in Gaza. We recognize that these are, at the time of writing, disputed jurisdictions.
+
+
+
+
+    Table 1: Ranking and Scores of the GIRAI
+                                                                                                                                    0                                               100
+
+
+
+
+GIRAI 1st Edition Report                                                                                                                                                                  26
+                                                                                                                                              Rankings & Scores
+
+
+
+
+Global Rankings and Scores
+
+
+
+      Country Scores in the Global Index on Responsible AI per Score Range
+
+
+
+
+               EUROPE        NORTH AMERICA          ASIA AND Oceania             Middle East        south AND central america        AFRICA           CARIBBEAN
+
+
+
+
+               >75-100
+
+
+
+
+                >50-75
+ Score range
+
+
+
+
+                >25-50
+
+
+
+
+                  0-25
+                         0
+
+
+
+
+                                                                                                                                                                0
+                                     0
+
+
+
+
+                                                  0
+
+
+
+
+                                                                   0
+
+
+
+
+                                                                                  0
+
+
+
+
+                                                                                                0
+
+
+
+
+                                                                                                          0
+
+
+
+
+                                                                                                                       0
+
+
+
+
+                                                                                                                                 0
+
+
+
+
+                                                                                                                                                  0
+
+
+
+
+                                                                                                                                                               0
+                                    1
+
+
+
+
+                                                 2
+
+
+
+
+                                                                  3
+
+
+
+
+                                                                                 4
+
+
+
+
+                                                                                               5
+
+
+
+
+                                                                                                         6
+
+
+
+
+                                                                                                                      7
+
+
+
+
+                                                                                                                                8
+
+
+
+
+                                                                                                                                                 9
+
+
+
+
+                                                                                                                                                              1
+
+
+
+
+                                                                                          GIRAI score
+
+
+
+
+Figure 3. Country Scores in the Global Index on Responsible AI per Score Range
+
+
+
+
+GIRAI 1st Edition Report                                                                                                                                          27
+           Part 3
+
+
+
+
+Global Trends
+                                                                                          Global Trends
+
+
+
+
+Responsible AI and AI Governance
+
+
+
+
+                                                                                          01
+ Responsible AI
+
+ and AI Governance
+ In examining the existence of government frameworks relating to responsible AI, the
+ Global Index on Responsible AI found that while there are many examples and
+ approaches to AI governance, the existence of frameworks governing AI does not
+ necessarily mean that responsible AI is being promoted and advanced. In most of the
+ countries surveyed, the national AI strategy is the main, if not the only, national
+ government framework addressing AI. 39% of the countries assessed had national AI
+ strategies in place to promote a country-level approach to AI development, use and
+ governance. However, most of them lack enforceability, and few embed a broader range
+ of responsible AI principles. As such, AI governance remains an idea rather than a
+ concrete approach. Crucially, 79% of 34 countries scoring between 25 and 50 in the
+ GIRAI have national AI strategies, but are far from demonstrating adequate capacity to
+ ensure the responsible development and use of AI. 
+
+
+
+ Countries that performed well in the Global Index on Responsible AI were able to
+ demonstrate a wide range of governance mechanisms - including sector specific
+ policies and legislative frameworks - to safeguard human rights and advance
+ responsible AI development and use.
+
+
+
+
+ GIRAI 1st Edition Report                                                                           29
+                                                                                                                     Global Trends
+
+
+
+
+Responsible AI and AI Governance
+
+
+Bright Spots
+
+              CROATIA
+                                                               Croatia - Addressing AI in the Workplace
+
+                                                               In 2022, the Croatian government promulgated an amendment
+                                                               to the country’s Labor Law to address algorithmic decision-
+                                                               making in the workplace. The Law on Amendments to the Labor
+                                                               Law: Work for Digital Platforms was introduced as a new chapter
+                                                               in the Labor Law. Within this new chapter, section 2 defines a
+                                                               set of data protection rights for employees and obligations for
+                                                               employers as well as a set of rights arising from the binding
+                                                               principle of human-in-the-loop in automated decision making.
+
+
+
+
+     India - High Court addressing legal procedures for Facial
+     Recognition Technologies 
+
+     On May 19, 2021, the Internet Freedom Foundation, an
+     independent civil society organization in India, supported a
+                                                                                          INDIA
+     social activist to petition the Telangana High Court in
+     relation to the unregulated use of Facial Recognition
+     Technology. The Telangana High Court took up the case,
+     highlighting the urgent need for legal and procedural
+     safeguards to ensure the accountable and proportionate
+     use of facial recognition technologies.
+
+
+
+
+GIRAI 1st Edition Report                                                                                                         30
+                                                                                               Global Trends
+
+
+
+
+Protecting Human Rights
+
+
+
+
+                                                                                           02
+   Protecting
+
+   Human Rights
+   Responsible rights-preserving AI is the cornerstone for ensuring that AI does not
+   exacerbate existing inequalities, within and between countries and groups, that it serves
+   those who most need its benefits, that it prevents the emergence of new harms and
+   exclusions associated with the rapid development and adoption of AI worldwide, and
+   that it preserves individual freedoms and democratic values.2 However, the Global Index
+   on Responsible AI found that few countries have mechanisms in place to protect human
+   rights at risk from AI. Such mechanisms could include AI impact assessments to
+   measure the real and potential harm of AI systems, access to redress and remedy
+   where harm occurs, and public procurement guidelines that address the adoption of AI
+   by the public sector which oftentimes includes the use of AI in the delivery of socio-
+   economic rights and services to citizens.
+
+
+
+
+   2 R. Adams, “Designing a Rights-based Global Index on Responsible AI” 2022
+
+   https://africa.ai4d.ai/blog/designing-a-rights-based-global-index-on-responsible-ai/.
+
+
+
+
+GIRAI 1st Edition Report                                                                                 31
+                                                                                                                                                      Global Trends
+
+
+
+
+Protecting Human Rights
+
+   Only 43 of the countries assessed had government frameworks providing for the use of AI impact
+   assessments and 35 had government frameworks providing for redress and remedy for rights
+   violations and losses resulting from the use or development of AI. In the majority of countries,
+   however, there were no clear procedures in place for seeking justice in the event of injury nor for
+   investigating complaints, correcting errors or awarding compensation where appropriate. 
+
+
+
+   Critically, while countries scoring above 75 in the Global Index on Responsible AI demonstrated high
+   performance in relation to access to redress and remedy, this fell significantly for countries scoring
+   below 75. For ensuring rights-respecting and responsible public use of AI through inclusive and
+   sustainable public procurement processes, only 24 countries had government frameworks in place.
+
+
+      Number of countries with and without Government frameworks for Access
+
+      to Remedy and Redress, Impact Assessments and Public Procurement
+
+
+          COUNTRIES WITHOUT GOVERNMENT FRAMEWORKS                   COUNTRIES WITH GOVERNMENT FRAMEWORKS
+
+
+
+
+                                    125
+
+
+
+                                                                                                               114
+                                    100
+                                            103
+              Number of Countries
+
+
+
+
+                                                                              95
+                                    75
+
+
+
+                                    50
+
+                                                                                         43
+                                    25
+                                                        35
+                                                                                                                          24
+
+                                     0
+
+                                          Access to remedy                 IMPACT ASSESSments               Public procurement
+                                            and redress
+
+
+
+                                                                      Thematic Area
+   Figure 4. Number of Countries with and without government frameworks for Access to Remedy and Redress, Impact Assessments and Public Procurement
+
+
+
+
+GIRAI 1st Edition Report                                                                                                                                        32
+                                                                                                                    Global Trends
+
+
+
+
+Protecting Human Rights
+
+
+
+
+Bright Spots
+
+
+                                                             Brazil - AI Impact Assessments 
+
+
+                                                             The Brazilian Artificial Intelligence Strategy focuses on the
+
+                                                             importance of performing various safety, human rights and
+
+                                                             environmental impact assessments for AI. The country is also
+
+                                                             discussing a proposed AI law, Bill No. 2338 of 2023, which
+                           BRAZIL
+                                                             includes a dedicated section on Impact Assessments. Within
+
+                                                             the broader national AI ecosystem of Brazil, the independent
+
+                                                             research institute, Laboratory of Public Policy and Internet ,
+
+                                                             published a report providing a detailed analysis of AI impact
+                                                                1
+                                                             assessments with reference to the proposed bill.
+
+
+
+
+   Philippines - Draft Bill on AI 
+
+
+   The Philippines has a proposed law to regulate AI, House Bill No.
+
+   7913, which provides that individuals must have the option to
+
+   choose human alternatives over AI systems when suitable, and
+
+   ensures access to prompt human intervention and remedies in
+                                                                                                              PHILIPPINES
+
+   the event of malfunction or error on the part of an AI system.
+
+   Additionally, it protects the right to challenge the impacts of AI
+
+   by guaranteeing that human assistance is always available, fair,
+
+   effective, and reasonably accessible.
+
+
+
+
+GIRAI 1st Edition Report                                                                                                      33
+                                                                                              Global Trends
+
+
+
+
+Protecting Human Rights
+
+
+
+
+Bright Spots
+
+
+                            Chile - Fair Public Procurement for AI
+
+
+                            The National AI Policy of Chile, states as one of its objectives to
+
+                            modernize public procurement processes in order to ensure
+
+                            effective acquisition and implementation of AI systems in the
+
+                            public sector. Objective 3.1.2 focuses on creating a regulatory
+
+                            framework and training public officials to improve the efficiency
+
+                            and effectiveness of AI procurement. Additionally, objective
+
+                            3.3.1 emphasizes responsible and ethical principles in AI
+
+                            contracting. Along those lines, the government of the country
+
+                                        1
+                            has issued Standard formats for bidding on algorithms and
+
+                            artificial intelligence projects, which request that suppliers use
+
+                            models with statistical equity metrics, propose additional data
+
+                            protection measures, and conduct bias analyses, among other
+
+                            ethical requirements. 
+
+
+                    CHILE
+
+
+
+
+                            Other countries, such as Senegal and Rwanda, have included a
+
+                            path toward enhancing their procurement process of AI
+
+                            systems in their National AI Policies and action plans.
+
+
+
+
+GIRAI 1st Edition Report                                                                                34
+                                                                                                 Global Trends
+
+
+
+
+International Cooperation in Responsible AI
+
+
+
+                                                                                           03
+International
+Cooperation in
+Responsible AI
+Across all regions, international cooperation was the highest scoring thematic area
+demonstrating the foundations for global solidarity toward responsible AI. Indeed many
+countries were able to demonstrate activity around international cooperation on
+responsible AI. A significant finding is that the work of UNESCO constitutes the main
+mechanism for building country-level capacity in responsible AI. Most countries scored
+highly in the International Cooperation thematic area, citing their adoption of the UNESCO
+Recommendation on Ethics in AI, and their commitment to supporting its implementation
+tools. This shows the significance of UNESCO’s work in strengthening the capacity of
+countries around the world to advance AI ethics and responsible AI. 
+
+
+
+Another multilateral initiative cited was the Global Partnership on AI (GPAI), which currently
+includes 29 country members from different regions of the world sharing the same
+commitment to advancing responsible and rights-respecting AI use and development.
+Regional activities toward responsible AI are also rising across the globe, such as the
+Santiago Declaration in South and Central America and the Caribbean, that goes in line with
+other regional approaches, such as the ASEAN Guide on AI Governance and Ethics. 
+
+
+
+This foundational capacity observed within the global responsible AI ecosystem should be
+leveraged to advance responsible AI around the world and bridge the AI divide.
+
+
+
+
+
+GIRAI 1st Edition Report                                                                                   35
+                                                                                                                                                                    Global Trends
+
+
+
+
+International Cooperation in Responsible AI
+
+
+  Country scores distribution by thematic area
+
+
+
+              Region:          Europe         North America       Asia and Oceania        Middle East          South and Central America        Africa        Caribbean
+
+
+
+
+                            International Cooperation
+
+                                     National AI Policy
+
+                          Data Protection and Privacy
+
+                   Responsibility and Accountability
+
+                     Transparency and Explainability
+
+                Human Oversight and Determination
+
+                 Public Participation and Awareness
+
+                    Public Sector Skills Development
+
+                     Proportionality and Do No Harm
+
+                        Bias and Unfair Discrimination
+
+                                 Impact Assessments
+
+                     Safety, Accuracy and Reliability
+
+                Labour Protection and Right to Work
+
+                                     Children's Rights
+
+                     Cultural and Linguistic Diversity
+
+                                      Gender Equality
+
+                     Access to Remedy and Redress
+
+                                  Public Procurement
+
+                            Competitions Authorities
+
+
+
+                                                          0      10        20        30         40         50          60         70       80            90       100
+
+
+                                                                                      THEMATIC          AREA    COUNTRY SCORE
+
+
+     Figure 5. Country scores distribution by thematic area and region.
+
+
+
+
+   The chart above displays the distribution of scores across thematic areas for countries. Each dot
+   represents the score of a country in a specific thematic area. The dots are color-coded by region.
+   Each thematic area has a boxplot behind the dots. The boxplots and dots together show how
+   scores are distributed. The width of the boxplots and the spread of the dots indicate the
+   variability of scores within each thematic area. Dots outside the whiskers highlight countries with
+   scores significantly different from the rest.
+
+
+
+GIRAI 1st Edition Report                                                                                                                                                      36
+                                                                                 Global Trends
+
+
+
+
+International Cooperation in Responsible AI
+
+
+
+
+Bright Spot
+
+
+Singapore - Open-Source Responsible AI Testing Tools 
+
+
+In June 2023, the Minister for Communications and Information
+
+of Singapore unveiled plans for the AI Verify Foundation, aimed at   SINGAPORE
+
+
+leveraging the collaborative efforts of the worldwide open-
+
+source community to create AI testing resources promoting
+
+responsible AI usage. This initiative seeks to enhance AI testing
+
+capabilities and ensure compliance with business and regulatory
+
+requirements on a global scale, and boasts over 60 participants.
+
+
+
+
+                                                               1
+
+
+
+
+GIRAI 1st Edition Report                                                                   37
+                                                                                                Global Trends
+
+
+
+
+Responsible AI and Gender
+
+
+
+
+                                                                                         04
+
+Responsible AI
+and Gender
+Despite a growing awareness of the importance of gender equality in AI, it is concerning to
+note that most countries have not yet made significant efforts to promote it. Gender
+equality was one of the lowest performing thematic areas of the GIRAI. Only 24 of the
+countries assessed had government frameworks addressing the intersection of gender and
+AI. Nonetheless, 37 governments, including 6 in Africa, demonstrated evidence of initiatives
+promoting gender equality in the context of AI. Significantly, in 67 countries, there was
+involvement from at least one non-state actor dedicated to advancing gender equality in AI.
+Civil society, followed by academic institutions, were the most active in this thematic area.
+The GIRAI found evidence of 54 civil society-led initiatives on gender and AI, and 45
+academic initiatives.
+
+
+
+
+GIRAI 1st Edition Report                                                                                  38
+                                                                                                                        Global Trends
+
+
+
+
+Responsible AI and Gender
+
+
+
+            Number of countries with and without evidence
+
+            addressing Gender Equality by pillar
+
+
+
+
+                       COUNTRIES WITHOUT EVIDENCE          COUNTRIES WITH EVIDENCE
+
+
+
+
+                         125
+
+
+
+
+                                                          114
+                         100
+ Number of Countries
+
+
+
+
+                                                                                               101
+
+
+
+                          75
+
+
+                                                                                                                 71
+                                                                                                      67
+
+                          50
+
+
+
+
+                                                                                     37
+                          25
+
+                                                24
+
+
+                           0
+
+
+                                             Government Frameworks              government actions   non-state actors
+
+
+
+
+                                                                                          PILLAR
+
+
+
+
+Figure 6. Number of countries with and without evidence addressing Gender Equality by pillar
+
+
+
+
+GIRAI 1st Edition Report                                                                                                          39
+                                                                                                                         Global   T
+                                                                                                                                  rends
+
+
+
+
+Responsible AI and Gender
+
+
+
+
+Bright Spots
+
+
+                                               Morocco - National Council for Human Rights monitors AI and gender 
+
+
+                                               The National Council for Human Rights (CNDH) of Morocco published a
+
+                                               summary report of the results of monitoring and national consultation
+
+                                               meetings on the protection of human rights in digital and AI systems,
+
+                                               which included a discussion on gender equality. The CNDH highlights the
+
+                                               risk of gender bias in algorithmic solutions and underlines the necessity of
+
+                    MO OCCO
+                       R                       establishing equality in AI and the digital space overall. Additionally, the
+
+                                               Council emphasizes its efforts in combating violence against women in the
+
+                                               digital space
+
+
+                                                                  1
+
+
+
+
+    K y U v
+     en a -     ni ersities cham p w ’
+                                    ion                    I
+
+                                          omen s rights in A
+
+    In Kenya, the Center for Intellectual Property and Information Technology
+    Law (CIPIT) from Strathmore University conducted research investigating
+    gender bias in African AI systems and products. The study "The Default
+    Gender in AI Assistant Technologies: Possible Impact on Women in Africa"                                        K NY
+                                                                                                                     E    A
+
+    highlights various instances of gender discrimination in AI, such as biased
+    algorithms and stereotypical representations, questioning the neutrality of
+    AI. The report stresses the importance of careful adoption of AI
+    technologies from foreign countries to avoid importing gender biases, and
+    advocates for the inclusion of women in AI design to address this disparity.
+
+
+                                                 Costa Rica - Incubating Feminist Artificial Intelligence
+
+
+                                                 As part of the project “Incubating Feminist Artificial Intelligence,” the Costa
+
+                                                 Rica Technological Institute published a report entitled “Advancing Research
+
+
+
+                      COST    C
+                                                 on Feminist Artificial Intelligence to Promote Gender Equality and Inclusion”.
+                           A RI A
+                                                 The report promotes critical and feminist research on AI, influencing public
+
+                                                 policies, building interdisciplinary collaboration networks, and promoting
+
+                                                 further research agendas on gender and AI.
+
+
+
+
+GIRAI 1st Edition Report                                                                                                              40
+                                                                                                  Global Trends
+
+
+
+
+Responsible AI and Inequality
+
+
+
+
+                                                                                           05
+
+Responsible AI
+and Inequality
+The GIRAI found that in the majority of countries the conditions are not ripe for advancing
+inclusive and equitable AI systems that benefit everyone. The thematic areas relating to the
+rights of marginalized or underserved groups perform among the lowest, showing that few
+governments consider inclusion and equity in AI to be a priority. 
+
+
+
+In the review of the performance of the thematic areas within the Human Rights and AI
+dimension we found that
+
+    Commitment to gender equality decreases significantly as country scores on the Global
+    Index on Responsible AI decreas
+    Children’s rights are only properly considered by the top scoring countrie
+    Bias and unfair discrimination is not a high performing thematic area in the top scoring
+    countries relative to other thematic areas in thos
+    Cultural and linguistic diversity is a low performing thematic area throughout the majority
+    of the countries
+
+
+
+
+GIRAI 1st Edition Report                                                                                    41
+                                                                                                                                                         Global Trends
+
+
+
+
+Responsible AI and Inequality
+
+
+
+In addition, the Global Index on Responsible AI reported that non-state actors, and
+particularly civil society groups and academic institutions, were playing a crucial
+role in pulling up performance in key thematic areas relating to equality and
+inclusion, including: gender equality, labor protections and right to work, bias and
+unfair discrimination and cultural and linguistic diversity, as shown in Figure 7.
+
+
+
+
+  Number of countries with evidence in the thematic 
+
+  areas related to AI and inclusion by pillar
+
+
+
+
+                                                                               Government Frameworks              Government ACTIONS         NON-STATE ACTORS
+
+
+
+
+                            80
+
+
+
+
+                                                                                                           72
+
+                                              66                                                                                  67
+                            60
+                                                                                                                                                    64
+      NUMBER of countries
+
+
+
+
+                            40
+                                        41
+                                 40                                         39                                                                 39
+                                                                     36                                                  37
+                                                                                                                                        33
+                                                              30                                    31
+                                                                                             26
+                            20                                                                                      24
+
+
+
+
+                            0
+
+
+                                 BIAS AND UNFAIR                 CHILDREN’s                   CULTURAL AND                             LABOUR PROTECTION
+                                                                                                                        GENDER
+                                 DISCRIMINATION                    RIGHTS                      LINGUISTIC                              AND RIGHT TO WORK
+                                                                                                                       EQUALITY
+                                                                                               DIVERSITY
+
+
+
+
+                                                                                     THEMaTIC AREA
+
+
+
+
+Figure 7. Number of countries with evidence in the thematic areas of Bias and Unfair Discrimination, Children's
+Rights, Cultural and Linguistic Diversity, Gender Equality and Labor Protection and Right to Work, by pillar
+
+
+
+
+GIRAI 1st Edition Report                                                                                                                                           42
+                                                                                                                   Global Trends
+
+
+
+
+Responsible AI and Inequality
+
+
+
+
+Bright Spots
+
+
+
+                                                           South Korea - Centering inclusion in AI
+
+
+                                                           In South Korea, the National Human-Centered Guidelines for AI
+
+                                                           Ethics - places a strong emphasis on human rights, diversity
+
+                                                           and inclusion. One of the policy's ten requirements is that ‘the
+
+                                                           socially disadvantaged and vulnerable should be guaranteed
+
+                                      SOUTH KOREA          access to AI technologies and services. Efforts should be made
+
+                                                           to ensure equal distribution of AI benefits to all people rather
+
+                                                           than to certain groups’.
+                                                               1
+
+
+
+
+      Pakistan - Center for Human Rights
+
+
+      In Pakistan, the Center for Humans Rights, an independent
+
+      institute, launched a report entitled “Algorithmic Decision-
+
+      Making in Pakistan: A challenge to right to equality & Non-
+
+      Discrimination”, which delves into the issue of algorithmic bias
+
+      and inequality. It discusses the management and regulation of
+
+      algorithmic biases and sheds light on the consequences of
+                                                                                                           PAKISTAN
+      biased AI deployment. It also analyzes emerging human rights
+
+      issues and discusses international good practices to mitigate
+
+      algorithmic bias.
+
+
+
+
+GIRAI 1st Edition Report                                                                                                      43
+                                                                                                  Global Trends
+
+
+
+
+                                                                                            06
+AI and Labor Protections
+
+
+
+
+AIProtecti
+    and Labor
+          ons
+The Global Index on Responsible AI found that few countries are ensuring that labor rights
+are protected as AI use increases in the workplace, and as new AI-driven platforms and gig
+economies emerge. Of the countries surveyed, 33 had a government framework for labor
+protection and the right to work. Out of the 33 government frameworks addressing the right
+to work and labor protection, only 7 are enforceable laws, while 26 are strategies, policies
+and guidelines with limited enforceability. Importantly, efforts to ‘upskill’ workforces do not
+correlate with sufficient labor protections for workers whose jobs might be at risk of
+displacement from AI, and for those working in new AI-related industries. Figure 8 below
+shows the relative role of non-state actors in advancing initiatives in this area and reflects
+how the Middle East and Europe are at the forefront of regional efforts to address Labor
+Protections and the Right to Work in the context of AI.
+
+
+GIRAI 1st Edition Report                                                                                    44
+                                                                                                                                                                     Global Trends
+
+
+
+
+AI and Labor Protections
+
+   Percentage of countries with evidence on Labor Protections and Right to Work by region and pillar
+
+
+
+                                                                                Government FrameworkS                 Government ACTIONS            NON-STATE ACTORS
+
+
+
+
+                                                                                                                                            100%
+                              100%
+
+
+
+
+                                                                                                                            78%
+
+                              75%                                                                         72%
+    Percentage of countries
+
+
+
+
+                                                                                                                                                               64%
+
+                                                                                                                56%
+                                                                                             50%                                                         50%
+                              50%
+                                                                  43%                                                 44%
+                                                                                                    41%
+
+                                                            33%                      33%                                          33% 33%
+
+
+
+                              25%
+                                               15%    13%                                                                                          14%
+                                                                          11%
+                                     10% 10%
+
+
+                                                                                0%
+                                0
+
+                                       AFRICA           ASIA AND          CARRIBEAN             EUROPE            MIDDLE             NORTH         SOUTH AND
+                                                        OCEANIA                                                    EAST             AMERICA         CENTRAL
+                                                                                                                                                    AMERICA
+
+
+
+
+                                                                                           Region
+
+
+
+
+Figure 8. Percentage of countries with evidence on Labor Protections and Right to Work by region and pillar
+
+
+
+
+GIRAI 1st Edition Report                                                                                                                                                       45
+                                                                                                                      Global Trends
+
+
+
+
+AI and Labor Protections
+
+
+
+
+Bright Spots
+
+                                          Portugal - Labor Code
+
+
+                                          The Portuguese Labor Code was amended in April 2023 to include a set of
+
+                                          provisions relating to AI and worker protection. The first of these provisions
+
+                                          allows for the conclusion of collective labor agreements in relation to AI use.
+
+                                          The Code also foresees a right to equal treatment and non-discrimination for
+
+                                          workers with regard to decisions based on algorithms. Finally, the Code
+
+                                          provides for a special right for union representatives to be informed and have
+            PORTUGAL
+
+                                          access to all parameters and criteria used in algorithmic decision-making.
+
+
+
+
+                                                                 1
+
+
+
+
+    Greece - Legal protections for AI in the workplace
+
+    The government has promulgated Law 4961/2022, “Emerging information
+    and communication technologies, strengthening digital governance and
+    other provisions”, which addresses the use of AI in employment contexts,
+    including hiring and evaluation, as well as digital platforms that contract
+    workers. It provides that employers must carry out impact assessments for
+                                                                                                             GREECE
+    AI to ensure and safeguard employee rights. It further imposes potential
+    sanctions from the Hellenic Labor Inspectorate for non-compliance.
+
+
+
+
+                                                 Kazakhstan - Social protection for platform workers
+
+
+                                                 In July 2022, the Kazakhstan government issued the Piloting social
+
+                                                 coverage schemes, which sought to provide social protection for workers
+
+                                                 engaged in gig economy platforms using AI tools. The Ministry of Labor
+
+                                                 and Social Protection conducted engagement with the main platform
+                             Kazakhstan
+                                                 operators working in the country.
+
+
+
+
+I
+G RAI 1st   dition
+            E        eport
+                     R                                                                                                          46
+                                                                                                        Global Trends
+
+
+
+
+Cultural and Linguistic Diversity in AI
+
+
+
+
+                                                                                             07
+
+
+   Cultural and
+   Linguistic
+   Diversity in AI
+   The Global Index on Responsible AI measures the extent to which countries are addressing
+
+   cultural and linguistic diversity as part of their efforts to promote responsible AI. The respect,
+
+   promotion and advancement of cultural and linguistic diversity by responsible AI is essential to
+
+   address some of the major cultural and linguistic imbalances in current AI models, particularly
+
+   when it comes to large language models (LLMs). If used responsibly, AI can help promote
+
+   diversity and protect low resourced languages and cultural heritage. AI applications spanning
+
+   multiple language groups serve more people and promote inclusivity in AI.
+
+
+
+
+GIRAI 1st Edition Report                                                                                          47
+                                                                                                                                                                         Global Trends
+
+
+
+
+Cultural and Linguistic Diversity in AI
+
+ However, the GIRAI results demonstrated that few countries were considering the promotion of cultural
+ and linguistic diversity in their responses to AI. Figure 9 below depicts the regional profiles with respect
+ to Linguistic and Cultural Diversity.
+
+
+    Percentage of countries with evidence on Cultural and Linguistic Diversity by region and pillar
+
+
+                                                                              Government FrameworkS                     Government ACTIONS                  NON-STATE ACTORS
+
+
+
+                                                                                                                                           100% 100%
+                                 100%
+
+
+
+
+                                 75%                                   70%
+       Percentage of countries
+
+
+
+
+                                                                                                                               67%
+
+                                                                                                            59%
+
+
+                                 50%
+                                                                                                                                                                   43%
+                                                     39%                                        38%
+                                                                 37%
+                                                                                                                  33%                33%
+                                                                                                      31%
+                                                           27%
+                                 25%                                                                                     22%
+
+                                                                                                                                                             14%
+                                                                                        11%
+                                                7%                                                                                                     7%
+                                           2%
+                                                                              0%   0%
+                                  0%
+
+                                            AFRICA           ASIA AND         CARRIBEAN           EUROPE            MIDDLE             NORTH           SOUTH AND
+                                                             OCEANIA                                                 EAST             AMERICA           CENTRAL
+                                                                                                                                                        AMERICA
+
+
+                                                                                              Region
+
+
+
+
+Figure 9. Percentage of countries with evidence on Cultural and Linguistic Diversity by region and pillar
+
+
+
+
+GIRAI 1st Edition Report                                                                                                                                                           48
+                                                                                                                  Global Trends
+
+
+
+
+Cultural and Linguistic Diversity in AI
+
+
+
+
+Bright Spots
+
+
+                                              Slovenia - Promoting Slovene national language in AI 
+
+
+                                              The Slovenian government has issued a National Program to Promote the
+
+                                              Development and Use of Artificial Intelligence in the Republic of Slovenia
+
+                                              by 2025 (NpAI), which refers to promoting the development of AI in the
+                            Slovenia
+                                              national language. The national program identifies English-language
+
+                                              dominated digitalization as undermining national language use, a key
+
+                                              element of cultural identity. The policy also highlights the potential of AI
+
+                                              for preserving cultural heritage and archive material.
+
+
+
+                                                             1
+
+
+
+
+   New Zealand - Māori Artificial Intelligence Advisory Panel
+
+   The AI Forum of New Zealand has established the Māori Artificial Intelligence Advisory
+   Panel to ensure that Te Ao Māori is integrated into the work of the forum and that the
+   impact of AI on Māori communities and heritage is addressed.
+
+
+                                                                                             NEW ZEALAND
+
+
+
+
+                                                Mexico - Preserving endangered languages with AI 
+
+
+                                                In Mexico, the Ministry of Culture plays a pivotal role as the main researcher
+
+                                                in the Woolaroo project , a technological experiment aimed at preserving
+
+                           MEXICO
+                                                endangered languages through the use of machine learning. This innovative
+
+                                                project focuses on the Mayan and Tepehua languages, which are spoken in
+
+                                                certain regions of eastern Mexico.
+
+
+
+
+GIRAI 1st Edition Report                                                                                                     49
+                                                                         Global Trends
+
+
+
+
+AI Safety
+
+
+
+
+                                                                         08
+
+
+   AI Safety
+   The Global Index on Responsible AI revealed that only a very few
+   number of countries have measures in place to ensure the
+   safety, security, reliability and accuracy of AI systems. Given the
+   globally interdependent nature of cyber systems and cyber
+   security, as well as the growing number of cases of maleficent AI
+   use3, this finding is deeply concerning. The technical integrity of
+   AI on a global scale is not secure and at risk.
+
+   3 OECD AI Incidents Monitor.
+
+
+
+
+GIRAI 1st Edition Report                                                           50
+                                                                                                                                                                 Global Trends
+
+
+
+
+AI Safety
+
+The GIRAI found that only 38 countries (representing 28% of the assessed
+countries) have taken steps to address the safety, accuracy and reliability of AI
+systems, and only 34 (25%) have government frameworks in place to enforce
+technical safety and security standards for AI. In total only 36% of countries
+reviewed had taken some kind of government-led activity, including frameworks or
+actions, in relation to the safety, reliability and accuracy of AI systems. Figure 10
+below shows the percentage of countries per region with some activity
+throughout the pillars of the GIRAI.
+
+
+   Percentage of countries with evidence on Safety, Accuracy and Reliability of AI across regions
+
+
+
+                         Government FrameworkS           Government ACTIONS                 NON-STATE ACTORS
+
+
+
+
+                              80%
+
+
+                                                                                                                                       67% 67%
+                                                                                                           63%
+                              60%
+    Percentage of countries
+
+
+
+
+                                                                                               50%
+                                                                      47%
+                                                                                                                       44% 44%
+                                                                43%
+
+                              40%                                                                    38%
+
+                                                                                                                 33%             33%
+                                                          30%
+                                                                                                                                                       29% 29%
+                                                   24%
+
+                              20%
+
+                                                                            11%
+                                                                                                                                                 14%
+                                              7%
+                                         5%
+
+                                                                                  0%   0%
+                               0%
+
+                                           AFRICA          ASIA AND           CARRIBEAN           EUROPE           MIDDLE           NORTH        SOUTH AND
+                                                           OCEANIA                                                  EAST           AMERICA        CENTRAL
+                                                                                                                                                  AMERICA
+
+
+                                                                                                  Region
+
+
+
+
+Figure 10. Percentage of countries with evidence on Safety, Accuracy and Reliability of AI across regions
+
+
+
+
+GIRAI 1st Edition Report                                                                                                                                                   51
+                                                                                                                     Global Trends
+
+
+
+
+AI Safety
+
+
+
+
+Bright Spots
+
+
+                                                              United Arab Emirates - Advancing measurements to ensure
+
+                                                              AI Safety 
+
+
+                                                              In 2022, the United Arab Emirates adopted the AI Ethics
+
+                                                              Principles and Guidelines, which reference the importance of
+
+                                                              ensuring AI systems are safe, accurate and reliable, by
+
+                                                              undertaking vulnerability assessments to verify and address
+
+                                                              system behavior in unexpected circumstances. The Principles
+
+                                                              and Guidelines encourage organizations to ensure data
+
+                                                              accuracy, with timely data updates and require the
+
+                                                              documentation of operational processes for testing and
+                                                                  1
+                                                              verification of AI systems, in order to ensure that system results
+                               UAE
+
+                                                              are reproducible and transparent. In 2023, the government took
+
+                                                              a step further and published the Adoption Guideline in
+
+                                                              Government Services, which aims to drive AI safety adoption
+
+                                                              across government services.
+
+
+
+
+   Ireland - AI Standards and Assurance Roadmap
+
+
+   In June 2023 the Government of Ireland published the AI
+
+   Standards & Assurance Roadmap, which addresses AI safety,
+
+   accuracy, and reliability, amongst other areas. It emphasizes the
+
+   importance of AI standards in addressing questions regarding
+
+   safety, fairness, reliability, accountability, and transparency. It
+
+   also notes that the development of a robust AI assurance
+
+   framework will require timely processes and guidance for
+                                                                                         IRELAND
+   industry on how the AI regulatory system and compliance
+
+   assessment will be implemented, and proper alignment of
+
+   compliance assessment for high-risk AI systems with existing
+
+   safety and certification-related functions.
+
+
+
+
+GIRAI 1st Edition Report                                                                                                           52
+                                                                                           Global Trends
+
+
+
+
+The Role of Civil Society and
+
+Universities in Responsible AI
+
+
+
+                                                                                           09
+   The Role of Civil
+   Society and
+   Universities in
+   Responsible AI
+   The Global Index on Responsible AI identified that universities and civil society
+   organizations around the world are playing a pivotal role in advancing
+   responsible AI within their countries. Universities take the lead in terms of non-
+   state actors in almost all regions of the world, followed by civil society
+   organizations. During the data collection for the GIRAI, more than 500 university
+   and academic institutions worldwide were identified with activities toward
+   responsible AI, along with over 400 civil society organizations and over 350
+   private sector actors. In particular, the Global Index on Responsible AI found that
+   universities and civil society organizations around the world are filling in critical
+   gaps within their national AI ecosystems across a number of thematic areas, and
+   particularly those that fall within the AI and Human Rights dimension.
+
+
+
+
+GIRAI 1st Edition Report                                                                             53
+                                                                                                                                                             Global Trends
+
+
+
+
+The Role of Civil Society and
+
+Universities in Responsible AI
+   Thematic areas where more countries have shown evidence of initiatives by
+   non-state actors than by the government
+
+
+
+                                                 COUNTRIES WITH GOVERNMENT FRAMEWORKS OR ACTIONS                     COUNTRIES WITH NON-STATE ACTORS’ INITIATIVES
+
+
+
+                            80
+
+
+                                         72                                                                              73
+                                                      67
+                                                                                                  66                65
+                            60                                              64
+
+                                                                                             58
+      NUMBER of countries
+
+
+
+
+                                                                                                                                                              56
+                                                                       55                                                                  54           53
+                                                 52
+                                                                                                                                      50
+
+                            40      43
+
+
+
+
+                            20
+
+
+
+
+                            0%
+
+                                 CULTURAL AND    GENDER                 LABOUR          BIAS AND UNFAIR            PUBLIC             SAFETY,              IMPACT
+                                  LINGUISTIC    EQUALITY             PROTECTION         DISCRIMINATION         PARTICIPATION       ACCURACY AND         ASSESSMENTS
+                                  DIVERSITY                           AND RIGHT                                AND AWARENESS       RELIABILITY
+                                                                       TO WORK
+
+
+                                                                                         Thematic area
+
+
+
+
+Figure 11. Thematic areas where more countries have shown evidence of initiatives by non-state actors than by the government
+
+
+
+
+GIRAI 1st Edition Report                                                                                                                                               54
+                                                                                                                      Global Trends
+
+
+
+
+The Role of Civil Society and
+
+Universities in Responsible AI
+
+
+
+
+Bright Spots
+
+
+
+                                              Africa
+
+
+                                              In Africa, there is a growing movement toward responsible AI in universities,
+
+                                              with countries including South Africa, Zimbabwe, Tunisia, Senegal, Nigeria,
+
+                                              Morocco, Libya, Kenya, Ghana, Ethiopia, Cameroon, Mozambique, and Uganda
+
+                                              demonstrating activity in this field.
+
+
+
+
+                                                                   1
+
+
+
+
+   The Caribbean
+
+
+   In the Caribbean, universities in Guyana and Jamaica are engaged in
+
+   responsible AI, primarily through the development of ethical
+
+   guidelines, training, and workshops, as well as international
+
+   cooperation and public participation and awareness.
+
+
+
+
+                                             Middle East
+
+
+                                             In the Middle East , universities play a leading role in advocating for rights-
+
+                                             based approaches to responsible AI, specifically in Jordan and Palestine,
+
+                                             which are focusing most of their efforts on issues related to bias and
+
+                                             discrimination, data protection and privacy, gender equality, labor
+
+                                             protections and the right to work.
+
+
+
+
+GIRAI 1st Edition Report                                                                                                        55
+                                                                                                                       Global Trends
+
+
+
+
+The Role of Civil Society and
+
+Universities in Responsible AI
+
+
+
+
+Bright Spots
+
+
+
+                                                                South and Central America 
+
+
+                                                                In South and Central America, there is a strong emphasis at
+
+                                                                university level on gender equality in AI, with countries such as
+
+                                                                Argentina, Costa Rica, Ecuador, Uruguay, Chile, and Colombia
+
+                                                                leading the way in this area. Other focuses in this region include
+
+                                                                cultural and linguistic diversity, and data protection and privacy,
+
+                                                                with universities organizing conferences, conducting research
+
+                                                                and analysis, and providing training in these areas.
+
+                                                                  1
+
+
+
+
+   North America 
+
+
+   In the United States, the independent research institute Algorithmic
+
+   Justice League published a report entitled “Bug Bounties for
+
+   Algorithmic Harms? Lessons from cybersecurity vulnerability
+
+   disclosure for algorithmic harms discovery, disclosure, and redress”.
+
+   Drawing inspiration from cybersecurity methodologies, which
+
+   involve compensating hackers for discovering and reporting system
+
+   vulnerabilities to enhance security, the Algorithmic Justice League
+
+   proposes a comparable approach for detecting bias and adverse
+
+   effects stemming from AI systems. This report explores the
+
+   potential application of the Bug Bounty model to address
+
+   algorithmic harms, examining the Twitter Algorithmic Bias Bounty
+
+   Challenge as a case study. It evaluates both the achievements and
+
+   limitations of this initiative in identifying and mitigating bias,
+
+   discrimination, and associated harms originating from AI systems.
+
+
+
+
+GIRAI 1st Edition Report                                                                                                              56
+                                                                                                 Global Trends
+
+
+
+
+A Long Way To Go
+
+
+
+
+                                                                                            10
+
+
+
+
+   A Long Way To Go
+   A major finding of the Global Index on Responsible AI is that the world has a long way to
+
+
+   go to achieve responsible AI. Despite the global proliferation of the development and use
+
+
+   of AI systems, the majority of countries around the world are far from adopting
+
+
+   responsible AI. Sixty seven percent of the world's countries scored up to 25 points out of
+
+
+   100 in the GIRAI and a further 25% between more than 25 and up to 50. This means that
+
+
+   nearly 6 billion people across the world are living in countries that do not have adequate
+
+
+   measures in place to protect or promote their human rights in the context of AI. 
+
+
+
+
+
+
+   Some of the main areas of responsible AI which lag critically behind such as Gender
+
+
+   Equality and Labor Protections and the Right to Work have been highlighted above. Other
+
+
+   areas requiring attention include: Public Participation and Awareness, Public Sector Skills
+
+
+   Development , Competition Authorities, and Children’s Rights.
+
+
+
+
+GIRAI   1st   Edition   Report                                                                             57
+                                                                                                           Global Trends
+
+
+
+
+A Long Way To Go
+
+
+On a regional level, the African continent is where responsible AI needs the most support and
+attention, followed by the Caribbean, Central and South America, Asia and Oceania and, to a lesser
+extent, the Middle East. While this remains prescient, it is also important to note that in countries
+where the adoption and use of AI is low, it is to be expected that AI governance is not a priority
+area for governments.
+
+
+
+
+   Distribution of population by Scores Range in the Global Index on Responsible AI
+
+
+
+
+                                                                                                 0-25 points (2505M people)
+
+                                                                                                >25-50 points (3751M people)
+
+                                                                                                 >50-75 points (729M people)
+
+Figure 12. Distribution of population by Scores Range in the Global Index on Responsible AI      >75-100 points (101M people)
+
+
+
+
+GIRAI 1st Edition Report                                                                                                    58
+                 Part 4
+
+
+
+
+Future Outlook
+on Responsible AI
+                                                                                       Future Outlook on Responsible AI
+
+
+
+
+         Diverse Pathways to
+
+         Responsible AI
+           Responsible AI lags far behind the development and adoption of AI. There are major gaps
+           across many parts of the world and many areas of responsible AI, particularly regarding
+           human rights and AI. As a global community we have a long way to go. This finding is not
+           altogether surprising given that responsible AI is an emerging field of governance. 
+
+
+
+           To date, responsible AI practices have not adequately sought to address inequality and
+           promote equitable outcomes. As responsible AI practices continue to develop around
+           the world, regions need to work together to ensure that progress toward responsible AI
+           includes everyone. 
+
+
+
+           Despite the sobering picture the Global Index on Responsible AI paints on the global
+           state of responsible AI, the bright spots highlighted in this report demonstrate that
+           achieving responsible AI is possible in all contexts. 
+
+
+
+           In addition, the strong commitment to international cooperation in responsible AI, and to
+           working together across countries and regions to advance responsible AI globally is a
+           hugely important foundation upon which to build a shared agenda on the global
+           governance of AI and cooperation toward the eradication of the AI divide. 
+
+
+
+           Recommendations
+
+
+
+           A cross-representation of country scores across the different pillars of the Global Index
+           on Responsible AI demonstrates that while there is a significant clustering of countries
+           which score below 25 across all pillars and a smaller cluster of countries that perform
+           well in all pillars, there is a significant diversity in the performance of countries in the
+           different pillars that fall between the two clusters. What this indicates is that there are
+           many pathways to achieving responsible AI. For example, while Japan scores fairly low on
+           government frameworks, it scores highly on government actions. And while Slovenia
+           scores high on government frameworks, its score for government actions is much lower.
+           Yet both countries have similar scores overall. 
+
+
+
+           Accordingly, countries need to examine their individual scores per pillar to assess areas
+           for improvement. The recommendations set out below therefore provide some generally
+           applicable areas for strengthening across the various levels of scores.
+
+
+
+
+GIRAI 1st Edition Report                                                                                            60
+                                                                                             Future Outlook on Responsible AI
+
+
+
+
+            Recommendations
+               Applicability                        Key Areas for Advancing Responsible AI
+
+
+
+
+                                                    Use their influence to advance international cooperation
+
+               For countries                        to assist in bridging the AI divid
+
+               scoring above 75                     Adopt specific legally enforceable frameworks that
+
+                                                    address key areas of AI and human rights
+
+
+
+
+                                                    Advance government actions and frameworks to protect
+
+                                                    women’s rights and promote Gender Equality in A
+
+                                                    Implement government frameworks that provide
+
+                                                    mechanisms for access to redress and remedy for AI-
+               For countries
+                                                    related harm
+               scoring above 50
+
+                                                    Incentivize non-state actors to engage in activities to
+               and up to 75
+                                                    advance inclusion in AI
+
+                                                    Ensure adoption of technical standards for AI safet
+
+                                                    Encourage competition commissions to address
+
+                                                    relevant AI-related issues
+
+
+
+
+                                                    Advance action to address the implications of AI
+
+                                                    on Children’s Right
+
+                                                    Strengthen the role of civil society in responsible
+
+                                                    AI ecosystem
+               For countries
+                                                    Support activities to protect and promote cultural
+               scoring above 25
+
+                                                    and linguistic diversity in A
+               and up to 50
+                                                    Ensure government frameworks to protect workers’
+
+                                                    rights in the context of A
+
+                                                    Adopt technical standards to ensure the safety of
+
+                                                    AI systems
+
+
+
+
+                                                    Prioritize the adoption or update of data protection
+                                                    and privacy law
+
+                                                    Ensure the adoption of AI impact assessment
+
+               For countries
+                                                    Develop programs for public sector skills
+               scoring between
+
+                                                    development in responsible A
+
+               0 and 25
+                                                    Encourage activities from non-state actors in
+
+                                                    responsible A
+
+                                                    Develop standards for the responsible public
+                                                    procurement of AI
+
+
+
+
+            Table 2: Recommendations of the GIRAI
+
+
+
+
+GIRAI   st Edition Report
+        1                                                                                                                 61
+                                                                                     Future Outlook on Responsible AI
+
+
+
+         What’s Next?
+          This report constitutes a summary of the key findings from the global data collection
+          undertaken as part of the First Edition of the Global Index on Responsible AI. All the data
+          that was collected for the GIRAI is freely and openly available at: global-index.ai. Further
+          reports containing data analysis and findings from the First Edition will be published online
+          throughout 2024 and 2025. 
+
+
+          It is hoped that researchers around the world will engage with the data of the Global Index
+          on Responsible AI, opening new avenues for research and that the evidence will support
+          advocacy agendas for groups seeking to champion responsible AI and AI and human rights
+          in their respective countries and regions. Our regional partners will be leading some of this
+          work in their respective regions: Derechos Digitales in Latin America, East West
+          Management Institute in Asia and the Local Development Research Institute in Africa. If you
+          are interested in working with us or with the data of the 1st Edition of the Global Index on
+          Responsible AI, please contact us at hello@global-index.ai.
+          Second Edition of the Global Index on Responsible AI
+
+
+          Data collection for the Second Edition of the Global Index on Responsible AI will begin in
+          September 2024, and the results will be published in early 2025. As new AI technologies are
+          released, the GIRAI will need to adapt its methodology and conceptual framework to ensure
+          it remains an appropriate multidimensional tool for understanding responsible AI use and
+          practice around the world. In this regard, the Second Edition will include an assessment of
+          how countries are responding to the challenges and opportunities of frontier technologies,
+          such as generative AI. The Second Edition will also place more emphasis in understanding
+          how countries around the world are addressing AI challenges and opportunities in relation
+          to inequality. In particular, a thematic area on AI and persons with disabilities will be
+          included to assess what countries are doing to ensure that AI respects the rights of
+          persons with disabilities.
+
+
+
+
+GIRAI 1st Edition Report                                                                                          62
+

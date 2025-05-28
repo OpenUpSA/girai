@@ -1,0 +1,17 @@
+Ranking: 62
+ISO3: TUN
+Country: Tunisia
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Northern Africa
+Index score: 15.8
+G - Index score: 6.11
+H - PILLAR SCORES: 19.37
+I - DIMENSION SCORES: 28.04
+J - COEFFICIENTS: 19.25
+K: 14.44
+L: 11.86
+M: 0.58
+N: 0.58
+O: 0.73
+P: 

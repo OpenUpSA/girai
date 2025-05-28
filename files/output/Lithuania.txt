@@ -1,0 +1,17 @@
+Ranking: 29
+ISO3: LTU
+Country: Lithuania
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Northern Europe
+Index score: 35.78
+G - Index score: 42.17
+H - PILLAR SCORES: 29.02
+I - DIMENSION SCORES: 36.49
+J - COEFFICIENTS: 35.41
+K: 39.20
+L: 26.35
+M: 0.89
+N: 0.84
+O: 0.95
+P: 

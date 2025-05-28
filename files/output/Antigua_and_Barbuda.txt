@@ -1,0 +1,17 @@
+Ranking: 91
+ISO3: ATG
+Country: Antigua and Barbuda
+GIRAI_region: Caribbean
+UN_region: Americas
+UN_subregion: Latin America and the Caribbean
+Index score: 4.72
+G - Index score: 0.00
+H - PILLAR SCORES: 9.38
+I - DIMENSION SCORES: 4.81
+J - COEFFICIENTS: 6.01
+K: 2.64
+L: 7.92
+M: 0.71
+N: 0.66
+O: 0.91
+P: 

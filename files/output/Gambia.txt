@@ -1,0 +1,17 @@
+Ranking: 125
+ISO3: GMB
+Country: Gambia
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 1
+G - Index score: 0.00
+H - PILLAR SCORES: 2.49
+I - DIMENSION SCORES: 0.00
+J - COEFFICIENTS: 0.00
+K: 0.00
+L: 6.31
+M: 0.48
+N: 0.53
+O: 0.65
+P: 

@@ -1,0 +1,15 @@
+Country Code: ZAF
+Country: South Africa
+UN Region: Africa
+UN Sub Region: Sub-Saharan Africa
+Ranking: 42
+Index Score: 27.61
+Pillar Scores: Government frameworks (0-100): 3.26
+Pillar Scores: Government actions (0-100): 31.50
+Pillar Scores: Non-state actors (0-100): 68.53
+Dimension Scores: Human Rights and AI (0-100): 28.93
+Dimension Scores: Responsible AI Governance (0-100): 24.99
+Dimension Scores: Responsible AI Capacities (0-100): 32.40
+Cofeeficients: Government frameworks (0-1): 0.62
+Cofeeficients: Government actions (0-1): 0.60
+Cofeeficients: Non-state actors (0-1): 0.98

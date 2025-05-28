@@ -1,0 +1,17 @@
+Ranking: 109
+ISO3: XKX
+Country: Kosovo
+GIRAI_region: Europe
+UN_region: 
+UN_subregion: 
+Index score: 2.15
+G - Index score: 0.00
+H - PILLAR SCORES: 2.81
+I - DIMENSION SCORES: 5.15
+J - COEFFICIENTS: 2.80
+K: 0.00
+L: 7.12
+M: 0.54
+N: 0.59
+O: 0.73
+P: 

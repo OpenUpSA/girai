@@ -1,0 +1,17 @@
+Ranking: 28
+ISO3: GRC
+Country: Greece
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Southern Europe
+Index score: 35.86
+G - Index score: 53.61
+H - PILLAR SCORES: 21.35
+I - DIMENSION SCORES: 29.36
+J - COEFFICIENTS: 31.14
+K: 42.25
+L: 27.69
+M: 0.73
+N: 0.71
+O: 0.93
+P: 

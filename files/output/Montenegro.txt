@@ -1,0 +1,17 @@
+Ranking: 65
+ISO3: MNE
+Country: Montenegro
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Southern Europe
+Index score: 14.84
+G - Index score: 0.00
+H - PILLAR SCORES: 15.01
+I - DIMENSION SCORES: 44.19
+J - COEFFICIENTS: 20.61
+K: 9.63
+L: 17.02
+M: 0.69
+N: 0.63
+O: 0.81
+P: 

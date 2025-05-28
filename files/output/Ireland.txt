@@ -1,0 +1,17 @@
+Ranking: 3
+ISO3: IRL
+Country: Ireland
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Northern Europe
+Index score: 74.98
+G - Index score: 81.71
+H - PILLAR SCORES: 74.17
+I - DIMENSION SCORES: 63.16
+J - COEFFICIENTS: 84.11
+K: 73.68
+L: 57.60
+M: 0.95
+N: 0.95
+O: 1.00
+P: 

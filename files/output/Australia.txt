@@ -1,0 +1,17 @@
+Ranking: 10
+ISO3: AUS
+Country: Australia
+GIRAI_region: Asia and Oceania
+UN_region: Oceania
+UN_subregion: Australia and New Zealand
+Index score: 56.22
+G - Index score: 34.69
+H - PILLAR SCORES: 72.44
+I - DIMENSION SCORES: 66.82
+J - COEFFICIENTS: 71.31
+K: 52.67
+L: 31.62
+M: 0.96
+N: 0.96
+O: 0.98
+P: 

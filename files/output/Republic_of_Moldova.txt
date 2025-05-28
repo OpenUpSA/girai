@@ -1,0 +1,17 @@
+Ranking: 69
+ISO3: MDA
+Country: Republic of Moldova
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Eastern Europe
+Index score: 12.99
+G - Index score: 0.00
+H - PILLAR SCORES: 29.04
+I - DIMENSION SCORES: 6.85
+J - COEFFICIENTS: 13.72
+K: 14.25
+L: 7.51
+M: 0.61
+N: 0.56
+O: 0.78
+P: 

@@ -1,0 +1,17 @@
+Ranking: 31
+ISO3: PHL
+Country: Philippines
+GIRAI_region: Asia and Oceania
+UN_region: Asia
+UN_subregion: South-eastern Asia
+Index score: 35.46
+G - Index score: 19.24
+H - PILLAR SCORES: 40.72
+I - DIMENSION SCORES: 57.36
+J - COEFFICIENTS: 34.87
+K: 37.84
+L: 29.67
+M: 0.58
+N: 0.59
+O: 0.73
+P: 

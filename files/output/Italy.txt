@@ -1,0 +1,17 @@
+Ranking: 7
+ISO3: ITA
+Country: Italy
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Southern Europe
+Index score: 61.8
+G - Index score: 59.99
+H - PILLAR SCORES: 55.96
+I - DIMENSION SCORES: 77.10
+J - COEFFICIENTS: 66.34
+K: 66.13
+L: 38.21
+M: 0.73
+N: 0.76
+O: 0.98
+P: 

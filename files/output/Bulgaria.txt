@@ -1,0 +1,17 @@
+Ranking: 39
+ISO3: BGR
+Country: Bulgaria
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Eastern Europe
+Index score: 29.09
+G - Index score: 33.96
+H - PILLAR SCORES: 11.97
+I - DIMENSION SCORES: 53.59
+J - COEFFICIENTS: 26.08
+K: 36.73
+L: 13.17
+M: 0.67
+N: 0.60
+O: 0.90
+P: 

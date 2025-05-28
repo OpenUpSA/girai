@@ -1,0 +1,17 @@
+Ranking: 94
+ISO3: LBY
+Country: Libya
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Northern Africa
+Index score: 4.53
+G - Index score: 0.00
+H - PILLAR SCORES: 6.61
+I - DIMENSION SCORES: 9.44
+J - COEFFICIENTS: 5.17
+K: 2.32
+L: 9.68
+M: 0.26
+N: 0.27
+O: 0.41
+P: 

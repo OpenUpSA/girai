@@ -1,0 +1,17 @@
+Ranking: 102
+ISO3: BLZ
+Country: Belize
+GIRAI_region: Caribbean
+UN_region: Americas
+UN_subregion: Latin America and the Caribbean
+Index score: 3.22
+G - Index score: 0.00
+H - PILLAR SCORES: 8.05
+I - DIMENSION SCORES: 0.00
+J - COEFFICIENTS: 2.91
+K: 2.27
+L: 6.80
+M: 0.48
+N: 0.57
+O: 0.97
+P: 

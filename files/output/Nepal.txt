@@ -1,0 +1,17 @@
+Ranking: 82
+ISO3: NPL
+Country: Nepal
+GIRAI_region: Asia and Oceania
+UN_region: Asia
+UN_subregion: Southern Asia
+Index score: 6.78
+G - Index score: 0.00
+H - PILLAR SCORES: 12.43
+I - DIMENSION SCORES: 9.02
+J - COEFFICIENTS: 7.30
+K: 2.84
+L: 17.38
+M: 0.50
+N: 0.44
+O: 0.73
+P: 

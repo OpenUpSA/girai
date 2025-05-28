@@ -1,0 +1,17 @@
+Ranking: 9
+ISO3: CAN
+Country: Canada
+GIRAI_region: North America
+UN_region: Americas
+UN_subregion: Northern America
+Index score: 57.39
+G - Index score: 37.80
+H - PILLAR SCORES: 80.84
+I - DIMENSION SCORES: 49.68
+J - COEFFICIENTS: 55.37
+K: 59.07
+L: 57.06
+M: 0.96
+N: 0.95
+O: 0.98
+P: 

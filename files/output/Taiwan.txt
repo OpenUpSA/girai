@@ -1,0 +1,17 @@
+Ranking: 34
+ISO3: TWN
+Country: Taiwan
+GIRAI_region: Asia and Oceania
+UN_region: 
+UN_subregion: 
+Index score: 33.86
+G - Index score: 26.49
+H - PILLAR SCORES: 44.57
+I - DIMENSION SCORES: 27.19
+J - COEFFICIENTS: 44.23
+K: 23.98
+L: 39.33
+M: 0.92
+N: 0.90
+O: 0.97
+P: 

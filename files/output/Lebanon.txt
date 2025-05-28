@@ -1,0 +1,17 @@
+Ranking: 99
+ISO3: LBN
+Country: Lebanon
+GIRAI_region: Middle East
+UN_region: Asia
+UN_subregion: Western Asia
+Index score: 3.69
+G - Index score: 1.86
+H - PILLAR SCORES: 1.56
+I - DIMENSION SCORES: 11.59
+J - COEFFICIENTS: 3.50
+K: 2.65
+L: 7.22
+M: 0.35
+N: 0.33
+O: 0.73
+P: 

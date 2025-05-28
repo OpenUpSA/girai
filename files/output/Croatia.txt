@@ -1,0 +1,17 @@
+Ranking: 49
+ISO3: HRV
+Country: Croatia
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Southern Europe
+Index score: 23.58
+G - Index score: 33.59
+H - PILLAR SCORES: 14.76
+I - DIMENSION SCORES: 21.20
+J - COEFFICIENTS: 30.95
+K: 18.43
+L: 21.85
+M: 0.74
+N: 0.74
+O: 0.93
+P: 

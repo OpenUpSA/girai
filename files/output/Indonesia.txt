@@ -1,0 +1,17 @@
+Ranking: 67
+ISO3: IDN
+Country: Indonesia
+GIRAI_region: Asia and Oceania
+UN_region: Asia
+UN_subregion: South-eastern Asia
+Index score: 13.77
+G - Index score: 20.30
+H - PILLAR SCORES: 6.73
+I - DIMENSION SCORES: 14.79
+J - COEFFICIENTS: 0.00
+K: 21.45
+L: 22.85
+M: 0.64
+N: 0.64
+O: 0.65
+P: 

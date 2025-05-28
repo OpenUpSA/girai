@@ -1,0 +1,17 @@
+Ranking: 76
+ISO3: MNG
+Country: Mongolia
+GIRAI_region: Asia and Oceania
+UN_region: Asia
+UN_subregion: Eastern Asia
+Index score: 9.11
+G - Index score: 10.19
+H - PILLAR SCORES: 5.31
+I - DIMENSION SCORES: 14.56
+J - COEFFICIENTS: 6.18
+K: 7.56
+L: 20.62
+M: 0.58
+N: 0.50
+O: 0.92
+P: 

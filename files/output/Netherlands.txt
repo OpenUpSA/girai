@@ -1,0 +1,17 @@
+Ranking: 1
+ISO3: NLD
+Country: Netherlands
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Western Europe
+Index score: 86.16
+G - Index score: 74.33
+H - PILLAR SCORES: 95.46
+I - DIMENSION SCORES: 91.23
+J - COEFFICIENTS: 78.74
+K: 91.12
+L: 88.59
+M: 0.96
+N: 0.97
+O: 1.00
+P: 

@@ -1,0 +1,17 @@
+Ranking: 16
+ISO3: ESP
+Country: Spain
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Southern Europe
+Index score: 45.08
+G - Index score: 68.02
+H - PILLAR SCORES: 33.36
+I - DIMENSION SCORES: 22.64
+J - COEFFICIENTS: 47.59
+K: 41.82
+L: 48.99
+M: 0.82
+N: 0.82
+O: 0.92
+P: 

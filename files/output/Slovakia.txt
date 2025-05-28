@@ -1,0 +1,17 @@
+Ranking: 35
+ISO3: SVK
+Country: Slovakia
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Eastern Europe
+Index score: 33.17
+G - Index score: 47.83
+H - PILLAR SCORES: 18.82
+I - DIMENSION SCORES: 32.55
+J - COEFFICIENTS: 25.87
+K: 41.72
+L: 24.57
+M: 0.80
+N: 0.72
+O: 0.98
+P: 

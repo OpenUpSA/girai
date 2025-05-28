@@ -1,0 +1,17 @@
+Ranking: 97
+ISO3: CMR
+Country: Cameroon
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 4.04
+G - Index score: 0.00
+H - PILLAR SCORES: 5.46
+I - DIMENSION SCORES: 9.27
+J - COEFFICIENTS: 5.60
+K: 2.68
+L: 4.44
+M: 0.38
+N: 0.37
+O: 0.41
+P: 

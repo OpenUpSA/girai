@@ -1,0 +1,17 @@
+Ranking: 6
+ISO3: EST
+Country: Estonia
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Northern Europe
+Index score: 67.61
+G - Index score: 65.58
+H - PILLAR SCORES: 81.52
+I - DIMENSION SCORES: 43.86
+J - COEFFICIENTS: 65.85
+K: 72.01
+L: 58.54
+M: 0.93
+N: 0.93
+O: 1.00
+P: 

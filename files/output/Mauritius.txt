@@ -1,0 +1,17 @@
+Ranking: 85
+ISO3: MUS
+Country: Mauritius
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 6.29
+G - Index score: 7.53
+H - PILLAR SCORES: 7.40
+I - DIMENSION SCORES: 1.62
+J - COEFFICIENTS: 3.27
+K: 7.62
+L: 9.37
+M: 0.86
+N: 0.78
+O: 0.92
+P: 

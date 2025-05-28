@@ -1,0 +1,17 @@
+Ranking: 87
+ISO3: ETH
+Country: Ethiopia
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 6.1
+G - Index score: 0.00
+H - PILLAR SCORES: 11.33
+I - DIMENSION SCORES: 7.84
+J - COEFFICIENTS: 6.85
+K: 4.73
+L: 8.45
+M: 0.41
+N: 0.48
+O: 0.41
+P: 

@@ -1,0 +1,17 @@
+Ranking: 61
+ISO3: PER
+Country: Peru
+GIRAI_region: South and Central America
+UN_region: Americas
+UN_subregion: Latin America and the Caribbean
+Index score: 16.4
+G - Index score: 12.56
+H - PILLAR SCORES: 16.67
+I - DIMENSION SCORES: 23.53
+J - COEFFICIENTS: 10.99
+K: 18.91
+L: 21.51
+M: 0.60
+N: 0.47
+O: 0.79
+P: 

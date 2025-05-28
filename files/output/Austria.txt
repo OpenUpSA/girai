@@ -1,0 +1,17 @@
+Ranking: 30
+ISO3: AUT
+Country: Austria
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Western Europe
+Index score: 35.76
+G - Index score: 55.85
+H - PILLAR SCORES: 26.87
+I - DIMENSION SCORES: 13.38
+J - COEFFICIENTS: 28.64
+K: 37.01
+L: 48.63
+M: 0.94
+N: 0.91
+O: 0.95
+P: 

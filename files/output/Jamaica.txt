@@ -1,0 +1,17 @@
+Ranking: 83
+ISO3: JAM
+Country: Jamaica
+GIRAI_region: Caribbean
+UN_region: Americas
+UN_subregion: Latin America and the Caribbean
+Index score: 6.76
+G - Index score: 0.00
+H - PILLAR SCORES: 10.26
+I - DIMENSION SCORES: 13.27
+J - COEFFICIENTS: 8.22
+K: 4.29
+L: 10.77
+M: 0.67
+N: 0.72
+O: 0.95
+P: 

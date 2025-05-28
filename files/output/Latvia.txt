@@ -1,0 +1,17 @@
+Ranking: 45
+ISO3: LVA
+Country: Latvia
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Northern Europe
+Index score: 26.74
+G - Index score: 45.65
+H - PILLAR SCORES: 12.00
+I - DIMENSION SCORES: 18.39
+J - COEFFICIENTS: 24.50
+K: 25.72
+L: 35.02
+M: 0.87
+N: 0.81
+O: 0.95
+P: 

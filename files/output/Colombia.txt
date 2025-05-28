@@ -1,0 +1,17 @@
+Ranking: 48
+ISO3: COL
+Country: Colombia
+GIRAI_region: South and Central America
+UN_region: Americas
+UN_subregion: Latin America and the Caribbean
+Index score: 23.84
+G - Index score: 24.51
+H - PILLAR SCORES: 18.17
+I - DIMENSION SCORES: 33.85
+J - COEFFICIENTS: 25.36
+K: 24.38
+L: 18.66
+M: 0.61
+N: 0.61
+O: 0.74
+P: 

@@ -24,6 +24,7 @@
     "@types/node": "^22.15.19",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "cheerio": "^1.0.0",
     "eslint": "^9",
     "eslint-config-next": "15.2.1",
     "tailwindcss": "^4",

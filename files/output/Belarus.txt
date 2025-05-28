@@ -1,0 +1,17 @@
+Ranking: 110
+ISO3: BLR
+Country: Belarus
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Eastern Europe
+Index score: 2.06
+G - Index score: 0.00
+H - PILLAR SCORES: 4.20
+I - DIMENSION SCORES: 1.92
+J - COEFFICIENTS: 0.26
+K: 2.18
+L: 5.92
+M: 0.32
+N: 0.44
+O: 0.27
+P: 

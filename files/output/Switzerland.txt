@@ -1,0 +1,17 @@
+Ranking: 15
+ISO3: CHE
+Country: Switzerland
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Western Europe
+Index score: 48.11
+G - Index score: 56.15
+H - PILLAR SCORES: 50.42
+I - DIMENSION SCORES: 27.41
+J - COEFFICIENTS: 32.92
+K: 57.92
+L: 54.14
+M: 0.97
+N: 0.99
+O: 0.98
+P: 

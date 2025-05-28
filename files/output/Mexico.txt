@@ -1,0 +1,17 @@
+Ranking: 64
+ISO3: MEX
+Country: Mexico
+GIRAI_region: North America
+UN_region: Americas
+UN_subregion: Latin America and the Caribbean
+Index score: 15.77
+G - Index score: 3.53
+H - PILLAR SCORES: 22.73
+I - DIMENSION SCORES: 26.32
+J - COEFFICIENTS: 21.48
+K: 9.22
+L: 22.09
+M: 0.50
+N: 0.47
+O: 0.75
+P: 

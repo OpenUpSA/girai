@@ -1,0 +1,17 @@
+Ranking: 40
+ISO3: SAU
+Country: Saudi Arabia
+GIRAI_region: Middle East
+UN_region: Asia
+UN_subregion: Western Asia
+Index score: 28.95
+G - Index score: 25.60
+H - PILLAR SCORES: 42.87
+I - DIMENSION SCORES: 7.81
+J - COEFFICIENTS: 26.28
+K: 27.69
+L: 38.96
+M: 0.71
+N: 0.75
+O: 0.30
+P: 

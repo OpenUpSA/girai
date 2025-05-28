@@ -1,0 +1,17 @@
+Ranking: 131
+ISO3: MLI
+Country: Mali
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 0.7
+G - Index score: 0.00
+H - PILLAR SCORES: 1.76
+I - DIMENSION SCORES: 0.00
+J - COEFFICIENTS: 0.00
+K: 0.00
+L: 4.46
+M: 0.42
+N: 0.37
+O: 0.57
+P: 

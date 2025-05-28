@@ -1,0 +1,17 @@
+Ranking: 80
+ISO3: NGA
+Country: Nigeria
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 7.21
+G - Index score: 3.90
+H - PILLAR SCORES: 6.97
+I - DIMENSION SCORES: 14.31
+J - COEFFICIENTS: 8.59
+K: 6.10
+L: 7.32
+M: 0.37
+N: 0.36
+O: 0.68
+P: 

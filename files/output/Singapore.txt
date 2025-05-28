@@ -1,0 +1,17 @@
+Ranking: 11
+ISO3: SGP
+Country: Singapore
+GIRAI_region: Asia and Oceania
+UN_region: Asia
+UN_subregion: South-eastern Asia
+Index score: 53.77
+G - Index score: 43.70
+H - PILLAR SCORES: 70.68
+I - DIMENSION SCORES: 40.09
+J - COEFFICIENTS: 48.35
+K: 58.54
+L: 52.10
+M: 1.00
+N: 0.99
+O: 0.51
+P: 

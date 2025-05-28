@@ -1,0 +1,17 @@
+Ranking: 133
+ISO3: LBR
+Country: Liberia
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 0.67
+G - Index score: 0.00
+H - PILLAR SCORES: 1.69
+I - DIMENSION SCORES: 0.00
+J - COEFFICIENTS: 0.00
+K: 0.00
+L: 4.27
+M: 0.38
+N: 0.36
+O: 0.76
+P: 

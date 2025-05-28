@@ -1,0 +1,17 @@
+Ranking: 38
+ISO3: JOR
+Country: Jordan
+GIRAI_region: Middle East
+UN_region: Asia
+UN_subregion: Western Asia
+Index score: 29.6
+G - Index score: 36.88
+H - PILLAR SCORES: 28.78
+I - DIMENSION SCORES: 16.69
+J - COEFFICIENTS: 30.68
+K: 26.75
+L: 35.63
+M: 0.68
+N: 0.69
+O: 0.45
+P: 

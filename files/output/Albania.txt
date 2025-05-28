@@ -1,0 +1,17 @@
+Ranking: 96
+ISO3: ALB
+Country: Albania
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Southern Europe
+Index score: 4.06
+G - Index score: 3.38
+H - PILLAR SCORES: 6.07
+I - DIMENSION SCORES: 1.41
+J - COEFFICIENTS: 0.77
+K: 0.00
+L: 23.95
+M: 0.64
+N: 0.61
+O: 0.80
+P: 

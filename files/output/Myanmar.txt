@@ -1,0 +1,17 @@
+Ranking: 134
+ISO3: MMR
+Country: Myanmar
+GIRAI_region: Asia and Oceania
+UN_region: Asia
+UN_subregion: South-eastern Asia
+Index score: 0.6
+G - Index score: 0.00
+H - PILLAR SCORES: 1.51
+I - DIMENSION SCORES: 0.00
+J - COEFFICIENTS: 0.00
+K: 0.00
+L: 3.83
+M: 0.31
+N: 0.32
+O: 0.38
+P: 

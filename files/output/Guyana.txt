@@ -1,0 +1,17 @@
+Ranking: 89
+ISO3: GUY
+Country: Guyana
+GIRAI_region: Caribbean
+UN_region: Americas
+UN_subregion: Latin America and the Caribbean
+Index score: 5.42
+G - Index score: 0.00
+H - PILLAR SCORES: 2.76
+I - DIMENSION SCORES: 21.56
+J - COEFFICIENTS: 4.50
+K: 3.50
+L: 13.29
+M: 0.53
+N: 0.58
+O: 0.95
+P: 

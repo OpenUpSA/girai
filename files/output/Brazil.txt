@@ -1,0 +1,17 @@
+Ranking: 18
+ISO3: BRA
+Country: Brazil
+GIRAI_region: South and Central America
+UN_region: Americas
+UN_subregion: Latin America and the Caribbean
+Index score: 44.42
+G - Index score: 44.56
+H - PILLAR SCORES: 40.86
+I - DIMENSION SCORES: 51.26
+J - COEFFICIENTS: 44.85
+K: 46.90
+L: 35.97
+M: 0.58
+N: 0.49
+O: 0.86
+P: 

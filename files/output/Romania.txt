@@ -1,0 +1,17 @@
+Ranking: 22
+ISO3: ROU
+Country: Romania
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Eastern Europe
+Index score: 42.11
+G - Index score: 26.61
+H - PILLAR SCORES: 55.81
+I - DIMENSION SCORES: 45.71
+J - COEFFICIENTS: 36.96
+K: 48.63
+L: 34.57
+M: 0.72
+N: 0.66
+O: 0.90
+P: 

@@ -1,0 +1,17 @@
+Ranking: 51
+ISO3: MAR
+Country: Morocco
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Northern Africa
+Index score: 22.99
+G - Index score: 9.51
+H - PILLAR SCORES: 30.97
+I - DIMENSION SCORES: 34.02
+J - COEFFICIENTS: 27.99
+K: 20.24
+L: 19.60
+M: 0.60
+N: 0.58
+O: 0.57
+P: 

@@ -1,0 +1,17 @@
+Ranking: 111
+ISO3: TKM
+Country: Turkmenistan
+GIRAI_region: Asia and Oceania
+UN_region: Asia
+UN_subregion: Central Asia
+Index score: 1.98
+G - Index score: 0.00
+H - PILLAR SCORES: 4.51
+I - DIMENSION SCORES: 0.88
+J - COEFFICIENTS: 3.74
+K: 0.00
+L: 3.81
+M: 0.28
+N: 0.32
+O: 0.25
+P: 

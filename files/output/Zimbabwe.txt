@@ -1,0 +1,17 @@
+Ranking: 98
+ISO3: ZWE
+Country: Zimbabwe
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 3.69
+G - Index score: 3.34
+H - PILLAR SCORES: 3.23
+I - DIMENSION SCORES: 5.35
+J - COEFFICIENTS: 4.92
+K: 0.00
+L: 11.92
+M: 0.32
+N: 0.32
+O: 0.51
+P: 

@@ -1,0 +1,17 @@
+Ranking: 25
+ISO3: IND
+Country: India
+GIRAI_region: Asia and Oceania
+UN_region: Asia
+UN_subregion: Southern Asia
+Index score: 38.51
+G - Index score: 28.42
+H - PILLAR SCORES: 52.95
+I - DIMENSION SCORES: 29.81
+J - COEFFICIENTS: 28.99
+K: 46.74
+L: 36.05
+M: 0.65
+N: 0.65
+O: 0.68
+P: 

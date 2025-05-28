@@ -1,0 +1,17 @@
+Ranking: 21
+ISO3: POL
+Country: Poland
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Eastern Europe
+Index score: 42.73
+G - Index score: 63.50
+H - PILLAR SCORES: 34.97
+I - DIMENSION SCORES: 16.73
+J - COEFFICIENTS: 43.83
+K: 42.07
+L: 42.15
+M: 0.77
+N: 0.74
+O: 0.87
+P: 

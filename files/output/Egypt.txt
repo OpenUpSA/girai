@@ -1,0 +1,17 @@
+Ranking: 63
+ISO3: EGY
+Country: Egypt
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Northern Africa
+Index score: 15.79
+G - Index score: 24.62
+H - PILLAR SCORES: 14.54
+I - DIMENSION SCORES: 0.62
+J - COEFFICIENTS: 18.12
+K: 10.55
+L: 26.07
+M: 0.50
+N: 0.48
+O: 0.35
+P: 

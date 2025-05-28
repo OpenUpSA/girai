@@ -1,0 +1,17 @@
+Ranking: 12
+ISO3: JPN
+Country: Japan
+GIRAI_region: Asia and Oceania
+UN_region: Asia
+UN_subregion: Eastern Asia
+Index score: 52.21
+G - Index score: 28.86
+H - PILLAR SCORES: 72.54
+I - DIMENSION SCORES: 58.25
+J - COEFFICIENTS: 41.67
+K: 63.07
+L: 44.19
+M: 0.94
+N: 0.95
+O: 0.98
+P: 

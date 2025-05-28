@@ -1,0 +1,17 @@
+Ranking: 46
+ISO3: PSE
+Country: Palestine
+GIRAI_region: Middle East
+UN_region: Asia
+UN_subregion: Western Asia
+Index score: 26.38
+G - Index score: 17.37
+H - PILLAR SCORES: 44.06
+I - DIMENSION SCORES: 9.05
+J - COEFFICIENTS: 22.23
+K: 28.54
+L: 29.59
+M: 0.71
+N: 0.70
+O: 0.52
+P: 

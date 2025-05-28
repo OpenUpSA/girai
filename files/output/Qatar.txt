@@ -1,0 +1,17 @@
+Ranking: 37
+ISO3: QAT
+Country: Qatar
+GIRAI_region: Middle East
+UN_region: Asia
+UN_subregion: Western Asia
+Index score: 29.84
+G - Index score: 27.91
+H - PILLAR SCORES: 38.33
+I - DIMENSION SCORES: 16.72
+J - COEFFICIENTS: 42.66
+K: 17.44
+L: 37.10
+M: 0.84
+N: 0.86
+O: 0.48
+P: 

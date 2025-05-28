@@ -1,0 +1,17 @@
+Ranking: 129
+ISO3: HTI
+Country: Haiti
+GIRAI_region: Caribbean
+UN_region: Americas
+UN_subregion: Latin America and the Caribbean
+Index score: 0.71
+G - Index score: 0.00
+H - PILLAR SCORES: 1.29
+I - DIMENSION SCORES: 0.99
+J - COEFFICIENTS: 0.00
+K: 0.00
+L: 4.53
+M: 0.31
+N: 0.27
+O: 0.56
+P: 

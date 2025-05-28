@@ -1,0 +1,17 @@
+Ranking: 119
+ISO3: MWI
+Country: Malawi
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 1.4
+G - Index score: 0.00
+H - PILLAR SCORES: 2.09
+I - DIMENSION SCORES: 2.82
+J - COEFFICIENTS: 0.77
+K: 0.00
+L: 7.08
+M: 0.50
+N: 0.44
+O: 0.80
+P: 

@@ -1,0 +1,17 @@
+Ranking: 2
+ISO3: DEU
+Country: Germany
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Western Europe
+Index score: 82.77
+G - Index score: 72.69
+H - PILLAR SCORES: 93.00
+I - DIMENSION SCORES: 82.48
+J - COEFFICIENTS: 80.30
+K: 90.94
+L: 64.03
+M: 0.94
+N: 0.94
+O: 0.92
+P: 

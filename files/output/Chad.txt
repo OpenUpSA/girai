@@ -1,0 +1,17 @@
+Ranking: 120
+ISO3: TCD
+Country: Chad
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 1.2
+G - Index score: 0.00
+H - PILLAR SCORES: 3.00
+I - DIMENSION SCORES: 0.00
+J - COEFFICIENTS: 0.00
+K: 0.00
+L: 7.59
+M: 0.33
+N: 0.30
+O: 0.52
+P: 

@@ -1,0 +1,17 @@
+Ranking: 14
+ISO3: PRT
+Country: Portugal
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Southern Europe
+Index score: 49.44
+G - Index score: 66.06
+H - PILLAR SCORES: 34.74
+I - DIMENSION SCORES: 45.61
+J - COEFFICIENTS: 54.47
+K: 43.38
+L: 55.89
+M: 0.85
+N: 0.84
+O: 1.00
+P: 

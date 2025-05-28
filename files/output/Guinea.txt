@@ -1,0 +1,17 @@
+Ranking: 128
+ISO3: GIN
+Country: Guinea
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 0.71
+G - Index score: 0.00
+H - PILLAR SCORES: 1.79
+I - DIMENSION SCORES: 0.00
+J - COEFFICIENTS: 0.00
+K: 0.00
+L: 4.53
+M: 0.36
+N: 0.38
+O: 0.59
+P: 

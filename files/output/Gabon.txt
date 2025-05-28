@@ -1,0 +1,17 @@
+Ranking: 115
+ISO3: GAB
+Country: Gabon
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 1.66
+G - Index score: 2.26
+H - PILLAR SCORES: 1.90
+I - DIMENSION SCORES: 0.00
+J - COEFFICIENTS: 2.45
+K: 0.00
+L: 4.83
+M: 0.43
+N: 0.40
+O: 0.51
+P: 

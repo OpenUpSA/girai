@@ -1,0 +1,17 @@
+Ranking: 26
+ISO3: UKR
+Country: Ukraine
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Eastern Europe
+Index score: 38.13
+G - Index score: 25.72
+H - PILLAR SCORES: 39.19
+I - DIMENSION SCORES: 60.81
+J - COEFFICIENTS: 34.35
+K: 39.31
+L: 43.39
+M: 0.47
+N: 0.48
+O: 0.68
+P: 

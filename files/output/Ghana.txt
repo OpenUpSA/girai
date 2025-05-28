@@ -1,0 +1,17 @@
+Ranking: 86
+ISO3: GHA
+Country: Ghana
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 6.26
+G - Index score: 0.00
+H - PILLAR SCORES: 9.39
+I - DIMENSION SCORES: 12.50
+J - COEFFICIENTS: 0.85
+K: 10.00
+L: 7.65
+M: 0.61
+N: 0.64
+O: 0.89
+P: 

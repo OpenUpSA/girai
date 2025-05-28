@@ -1,0 +1,17 @@
+Ranking: 126
+ISO3: SOM
+Country: Somalia
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 0.97
+G - Index score: 0.00
+H - PILLAR SCORES: 2.44
+I - DIMENSION SCORES: 0.00
+J - COEFFICIENTS: 1.32
+K: 0.00
+L: 3.08
+M: 0.26
+N: 0.26
+O: 0.41
+P: 

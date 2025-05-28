@@ -1,0 +1,17 @@
+Ranking: 135
+ISO3: AFG
+Country: Afghanistan
+GIRAI_region: Asia and Oceania
+UN_region: Asia
+UN_subregion: Southern Asia
+Index score: 0.57
+G - Index score: 0.00
+H - PILLAR SCORES: 1.44
+I - DIMENSION SCORES: 0.00
+J - COEFFICIENTS: 0.00
+K: 0.00
+L: 3.64
+M: 0.30
+N: 0.30
+O: 0.34
+P: 

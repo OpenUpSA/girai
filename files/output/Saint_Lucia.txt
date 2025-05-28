@@ -1,0 +1,17 @@
+Ranking: 100
+ISO3: LCA
+Country: Saint Lucia
+GIRAI_region: Caribbean
+UN_region: Americas
+UN_subregion: Latin America and the Caribbean
+Index score: 3.34
+G - Index score: 0.00
+H - PILLAR SCORES: 6.62
+I - DIMENSION SCORES: 3.43
+J - COEFFICIENTS: 0.00
+K: 0.00
+L: 21.12
+M: 0.76
+N: 0.70
+O: 0.98
+P: 

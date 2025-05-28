@@ -1,0 +1,17 @@
+Ranking: 66
+ISO3: OMN
+Country: Oman
+GIRAI_region: Middle East
+UN_region: Asia
+UN_subregion: Western Asia
+Index score: 14.8
+G - Index score: 23.54
+H - PILLAR SCORES: 13.03
+I - DIMENSION SCORES: 0.86
+J - COEFFICIENTS: 13.85
+K: 15.12
+L: 16.06
+M: 0.75
+N: 0.67
+O: 0.49
+P: 

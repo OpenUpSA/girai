@@ -1,0 +1,17 @@
+Ranking: 113
+ISO3: BTN
+Country: Bhutan
+GIRAI_region: Asia and Oceania
+UN_region: Asia
+UN_subregion: Southern Asia
+Index score: 1.83
+G - Index score: 0.00
+H - PILLAR SCORES: 4.02
+I - DIMENSION SCORES: 1.12
+J - COEFFICIENTS: 0.61
+K: 0.00
+L: 10.20
+M: 0.66
+N: 0.85
+O: 0.64
+P: 

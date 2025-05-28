@@ -1,0 +1,17 @@
+Ranking: 23
+ISO3: CHL
+Country: Chile
+GIRAI_region: South and Central America
+UN_region: Americas
+UN_subregion: Latin America and the Caribbean
+Index score: 40.38
+G - Index score: 33.36
+H - PILLAR SCORES: 49.18
+I - DIMENSION SCORES: 36.84
+J - COEFFICIENTS: 42.45
+K: 43.47
+L: 26.30
+M: 0.83
+N: 0.81
+O: 1.00
+P: 

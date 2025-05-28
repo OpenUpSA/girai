@@ -1,0 +1,17 @@
+Ranking: 17
+ISO3: ARE
+Country: United Arab Emirates
+GIRAI_region: Middle East
+UN_region: Asia
+UN_subregion: Western Asia
+Index score: 44.66
+G - Index score: 46.40
+H - PILLAR SCORES: 55.62
+I - DIMENSION SCORES: 19.24
+J - COEFFICIENTS: 40.58
+K: 45.66
+L: 51.15
+M: 0.85
+N: 0.90
+O: 0.41
+P: 

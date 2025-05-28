@@ -1,0 +1,17 @@
+Ranking: 72
+ISO3: LKA
+Country: Sri Lanka
+GIRAI_region: Asia and Oceania
+UN_region: Asia
+UN_subregion: Southern Asia
+Index score: 10.92
+G - Index score: 11.56
+H - PILLAR SCORES: 10.13
+I - DIMENSION SCORES: 11.23
+J - COEFFICIENTS: 9.95
+K: 11.04
+L: 12.83
+M: 0.55
+N: 0.53
+O: 0.71
+P: 

@@ -1,0 +1,17 @@
+Ranking: 56
+ISO3: SEN
+Country: Senegal
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 20.11
+G - Index score: 26.76
+H - PILLAR SCORES: 13.34
+I - DIMENSION SCORES: 20.35
+J - COEFFICIENTS: 16.74
+K: 22.89
+L: 19.63
+M: 0.56
+N: 0.65
+O: 0.77
+P: 

@@ -1,0 +1,17 @@
+Ranking: 124
+ISO3: SLE
+Country: Sierra Leone
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 1.03
+G - Index score: 0.00
+H - PILLAR SCORES: 1.97
+I - DIMENSION SCORES: 1.21
+J - COEFFICIENTS: 0.00
+K: 0.00
+L: 6.52
+M: 0.39
+N: 0.42
+O: 0.69
+P: 

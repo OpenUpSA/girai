@@ -1,0 +1,17 @@
+Ranking: 47
+ISO3: THA
+Country: Thailand
+GIRAI_region: Asia and Oceania
+UN_region: Asia
+UN_subregion: South-eastern Asia
+Index score: 23.87
+G - Index score: 24.26
+H - PILLAR SCORES: 30.73
+I - DIMENSION SCORES: 9.35
+J - COEFFICIENTS: 17.78
+K: 21.00
+L: 46.65
+M: 0.67
+N: 0.60
+O: 0.48
+P: 

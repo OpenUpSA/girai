@@ -1,0 +1,17 @@
+Ranking: 52
+ISO3: HKG
+Country: China, Hong Kong Special Administrative Region
+GIRAI_region: Asia and Oceania
+UN_region: Asia
+UN_subregion: Eastern Asia
+Index score: 22.07
+G - Index score: 26.13
+H - PILLAR SCORES: 24.15
+I - DIMENSION SCORES: 9.80
+J - COEFFICIENTS: 12.66
+K: 28.35
+L: 25.20
+M: 0.93
+N: 0.96
+O: 0.51
+P: 

@@ -1,0 +1,17 @@
+Ranking: 118
+ISO3: GTM
+Country: Guatemala
+GIRAI_region: South and Central America
+UN_region: Americas
+UN_subregion: Latin America and the Caribbean
+Index score: 1.42
+G - Index score: 0.00
+H - PILLAR SCORES: 3.54
+I - DIMENSION SCORES: 0.00
+J - COEFFICIENTS: 2.02
+K: 0.00
+L: 4.25
+M: 0.46
+N: 0.35
+O: 0.67
+P: 

@@ -1,0 +1,17 @@
+Ranking: 77
+ISO3: KEN
+Country: Kenya
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 8.79
+G - Index score: 8.67
+H - PILLAR SCORES: 4.68
+I - DIMENSION SCORES: 17.27
+J - COEFFICIENTS: 6.03
+K: 9.46
+L: 13.25
+M: 0.55
+N: 0.49
+O: 0.70
+P: 

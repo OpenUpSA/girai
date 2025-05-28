@@ -1,0 +1,17 @@
+Ranking: 13
+ISO3: SVN
+Country: Slovenia
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Southern Europe
+Index score: 49.58
+G - Index score: 68.89
+H - PILLAR SCORES: 39.63
+I - DIMENSION SCORES: 30.84
+J - COEFFICIENTS: 51.97
+K: 47.12
+L: 51.35
+M: 0.84
+N: 0.85
+O: 0.98
+P: 

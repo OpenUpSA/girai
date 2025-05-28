@@ -1,0 +1,17 @@
+Ranking: 60
+ISO3: GEO
+Country: Georgia
+GIRAI_region: Europe
+UN_region: Asia
+UN_subregion: Western Asia
+Index score: 17.83
+G - Index score: 28.30
+H - PILLAR SCORES: 7.93
+I - DIMENSION SCORES: 16.69
+J - COEFFICIENTS: 17.20
+K: 20.60
+L: 11.03
+M: 0.77
+N: 0.79
+O: 0.68
+P: 

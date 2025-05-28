@@ -1,0 +1,17 @@
+Ranking: 24
+ISO3: BEL
+Country: Belgium
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Western Europe
+Index score: 38.55
+G - Index score: 57.24
+H - PILLAR SCORES: 27.13
+I - DIMENSION SCORES: 23.99
+J - COEFFICIENTS: 40.35
+K: 41.62
+L: 25.11
+M: 0.91
+N: 0.90
+O: 0.98
+P: 

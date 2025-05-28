@@ -1,0 +1,17 @@
+Ranking: 114
+ISO3: MOZ
+Country: Mozambique
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 1.67
+G - Index score: 0.00
+H - PILLAR SCORES: 2.01
+I - DIMENSION SCORES: 4.33
+J - COEFFICIENTS: 0.00
+K: 1.83
+L: 5.10
+M: 0.40
+N: 0.43
+O: 0.62
+P: 

@@ -1,0 +1,17 @@
+Ranking: 106
+ISO3: UGA
+Country: Uganda
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 2.25
+G - Index score: 0.00
+H - PILLAR SCORES: 2.03
+I - DIMENSION SCORES: 7.20
+J - COEFFICIENTS: 0.56
+K: 2.60
+L: 5.14
+M: 0.52
+N: 0.43
+O: 0.59
+P: 

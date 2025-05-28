@@ -1,0 +1,17 @@
+Ranking: 90
+ISO3: NER
+Country: Niger
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 5.28
+G - Index score: 9.81
+H - PILLAR SCORES: 2.25
+I - DIMENSION SCORES: 2.27
+J - COEFFICIENTS: 5.94
+K: 4.14
+L: 7.14
+M: 0.47
+N: 0.47
+O: 0.65
+P: 

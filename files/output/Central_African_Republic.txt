@@ -1,0 +1,17 @@
+Ranking: 136
+ISO3: CAF
+Country: Central African Republic
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 0.57
+G - Index score: 0.00
+H - PILLAR SCORES: 1.42
+I - DIMENSION SCORES: 0.00
+J - COEFFICIENTS: 0.00
+K: 0.00
+L: 3.59
+M: 0.29
+N: 0.30
+O: 0.35
+P: 

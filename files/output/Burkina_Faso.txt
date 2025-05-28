@@ -1,0 +1,17 @@
+Ranking: 107
+ISO3: BFA
+Country: Burkina Faso
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 2.24
+G - Index score: 2.55
+H - PILLAR SCORES: 2.48
+I - DIMENSION SCORES: 1.11
+J - COEFFICIENTS: 3.38
+K: 0.00
+L: 6.29
+M: 0.49
+N: 0.52
+O: 0.63
+P: 

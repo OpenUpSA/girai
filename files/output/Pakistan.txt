@@ -1,0 +1,17 @@
+Ranking: 68
+ISO3: PAK
+Country: Pakistan
+GIRAI_region: Asia and Oceania
+UN_region: Asia
+UN_subregion: Southern Asia
+Index score: 13.19
+G - Index score: 2.21
+H - PILLAR SCORES: 23.16
+I - DIMENSION SCORES: 15.21
+J - COEFFICIENTS: 16.01
+K: 10.79
+L: 13.83
+M: 0.42
+N: 0.44
+O: 0.58
+P: 

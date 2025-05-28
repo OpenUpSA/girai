@@ -1,0 +1,17 @@
+Ranking: 36
+ISO3: HUN
+Country: Hungary
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Eastern Europe
+Index score: 32
+G - Index score: 44.79
+H - PILLAR SCORES: 21.03
+I - DIMENSION SCORES: 28.34
+J - COEFFICIENTS: 29.89
+K: 25.52
+L: 56.35
+M: 0.73
+N: 0.70
+O: 0.73
+P: 

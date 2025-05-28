@@ -1,0 +1,17 @@
+Ranking: 20
+ISO3: FIN
+Country: Finland
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Northern Europe
+Index score: 43.07
+G - Index score: 36.45
+H - PILLAR SCORES: 49.29
+I - DIMENSION SCORES: 43.86
+J - COEFFICIENTS: 36.58
+K: 47.24
+L: 45.69
+M: 0.99
+N: 0.99
+O: 1.00
+P: 

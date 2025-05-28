@@ -1,0 +1,17 @@
+Ranking: 132
+ISO3: COD
+Country: Democratic Republic of the Congo
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 0.7
+G - Index score: 0.00
+H - PILLAR SCORES: 1.30
+I - DIMENSION SCORES: 0.89
+J - COEFFICIENTS: 0.48
+K: 0.00
+L: 3.30
+M: 0.29
+N: 0.27
+O: 0.51
+P: 

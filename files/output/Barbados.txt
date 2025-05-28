@@ -1,0 +1,17 @@
+Ranking: 112
+ISO3: BRB
+Country: Barbados
+GIRAI_region: Caribbean
+UN_region: Americas
+UN_subregion: Latin America and the Caribbean
+Index score: 1.92
+G - Index score: 0.00
+H - PILLAR SCORES: 3.93
+I - DIMENSION SCORES: 1.75
+J - COEFFICIENTS: 0.95
+K: 0.00
+L: 9.96
+M: 0.73
+N: 0.83
+O: 1.00
+P: 

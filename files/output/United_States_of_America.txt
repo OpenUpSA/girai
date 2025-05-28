@@ -1,0 +1,17 @@
+Ranking: 5
+ISO3: USA
+Country: United States of America
+GIRAI_region: North America
+UN_region: Americas
+UN_subregion: Northern America
+Index score: 72.81
+G - Index score: 62.41
+H - PILLAR SCORES: 79.19
+I - DIMENSION SCORES: 80.87
+J - COEFFICIENTS: 65.37
+K: 74.75
+L: 84.34
+M: 0.92
+N: 0.89
+O: 0.92
+P: 

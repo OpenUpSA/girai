@@ -1,0 +1,17 @@
+Ranking: 42
+ISO3: ZAF
+Country: South Africa
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 27.61
+G - Index score: 3.26
+H - PILLAR SCORES: 31.50
+I - DIMENSION SCORES: 68.53
+J - COEFFICIENTS: 28.93
+K: 24.99
+L: 32.40
+M: 0.62
+N: 0.60
+O: 0.98
+P: 

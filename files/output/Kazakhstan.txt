@@ -1,0 +1,17 @@
+Ranking: 74
+ISO3: KAZ
+Country: Kazakhstan
+GIRAI_region: Asia and Oceania
+UN_region: Asia
+UN_subregion: Central Asia
+Index score: 9.91
+G - Index score: 3.07
+H - PILLAR SCORES: 18.86
+I - DIMENSION SCORES: 5.70
+J - COEFFICIENTS: 14.15
+K: 6.10
+L: 11.43
+M: 0.58
+N: 0.65
+O: 0.41
+P: 
