@@ -42,3 +42,9 @@ next-env.d.ts
 
 # Local Netlify folder
 .netlify
+
+# Produced by npx tsc generate-country-scores.ts
+generate-country-scores.js
+
+files/source/*
+!files/source/.gitkeep

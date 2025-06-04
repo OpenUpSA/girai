@@ -1,0 +1,16 @@
+Ranking: 17
+ISO3: ARE
+Country: United Arab Emirates
+GIRAI_region: Middle East
+UN_region: Asia
+UN_subregion: Western Asia
+Index score: 44.66
+PILLAR SCORES: Government frameworks (0-100): 46.40
+PILLAR SCORES: Government actions (0-100): 55.62
+PILLAR SCORES: Non-state actors (0-100): 19.24
+DIMENSION SCORES: Human Rights and AI (0-100): 40.58
+DIMENSION SCORES: Responsible AI Governance (0-100): 45.66
+DIMENSION SCORES: Responsible AI Capacities (0-100): 51.15
+COEFFICIENTS: Government frameworks (0-1): 0.85
+COEFFICIENTS: Government actions (0-1): 0.90
+COEFFICIENTS: Non-state actors (0-1): 0.41

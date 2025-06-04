@@ -5,13 +5,12 @@ GIRAI_region: Europe
 UN_region: Europe
 UN_subregion: Southern Europe
 Index score: 4.06
-G - Index score: 3.38
-H - PILLAR SCORES: 6.07
-I - DIMENSION SCORES: 1.41
-J - COEFFICIENTS: 0.77
-K: 0.00
-L: 23.95
-M: 0.64
-N: 0.61
-O: 0.80
-P: 
+PILLAR SCORES: Government frameworks (0-100): 3.38
+PILLAR SCORES: Government actions (0-100): 6.07
+PILLAR SCORES: Non-state actors (0-100): 1.41
+DIMENSION SCORES: Human Rights and AI (0-100): 0.77
+DIMENSION SCORES: Responsible AI Governance (0-100): 0.00
+DIMENSION SCORES: Responsible AI Capacities (0-100): 23.95
+COEFFICIENTS: Government frameworks (0-1): 0.64
+COEFFICIENTS: Government actions (0-1): 0.61
+COEFFICIENTS: Non-state actors (0-1): 0.80

@@ -1,0 +1,16 @@
+Ranking: 58
+ISO3: MKD
+Country: North Macedonia
+GIRAI_region: Europe
+UN_region: Europe
+UN_subregion: Southern Europe
+Index score: 18.14
+PILLAR SCORES: Government frameworks (0-100): 12.69
+PILLAR SCORES: Government actions (0-100): 14.85
+PILLAR SCORES: Non-state actors (0-100): 35.64
+DIMENSION SCORES: Human Rights and AI (0-100): 22.47
+DIMENSION SCORES: Responsible AI Governance (0-100): 16.11
+DIMENSION SCORES: Responsible AI Capacities (0-100): 14.15
+COEFFICIENTS: Government frameworks (0-1): 0.69
+COEFFICIENTS: Government actions (0-1): 0.60
+COEFFICIENTS: Non-state actors (0-1): 0.78

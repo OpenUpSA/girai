@@ -1,0 +1,16 @@
+Ranking: 27
+ISO3: KOR
+Country: Republic of Korea
+GIRAI_region: Asia and Oceania
+UN_region: Asia
+UN_subregion: Eastern Asia
+Index score: 36.18
+PILLAR SCORES: Government frameworks (0-100): 35.64
+PILLAR SCORES: Government actions (0-100): 34.59
+PILLAR SCORES: Non-state actors (0-100): 40.43
+DIMENSION SCORES: Human Rights and AI (0-100): 35.08
+DIMENSION SCORES: Responsible AI Governance (0-100): 36.40
+DIMENSION SCORES: Responsible AI Capacities (0-100): 38.07
+COEFFICIENTS: Government frameworks (0-1): 0.88
+COEFFICIENTS: Government actions (0-1): 0.88
+COEFFICIENTS: Non-state actors (0-1): 0.92

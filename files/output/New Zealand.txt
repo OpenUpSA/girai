@@ -1,0 +1,16 @@
+Ranking: 43
+ISO3: NZL
+Country: New Zealand
+GIRAI_region: Asia and Oceania
+UN_region: Oceania
+UN_subregion: Australia and New Zealand
+Index score: 27.33
+PILLAR SCORES: Government frameworks (0-100): 28.49
+PILLAR SCORES: Government actions (0-100): 33.70
+PILLAR SCORES: Non-state actors (0-100): 12.28
+DIMENSION SCORES: Human Rights and AI (0-100): 27.87
+DIMENSION SCORES: Responsible AI Governance (0-100): 32.20
+DIMENSION SCORES: Responsible AI Capacities (0-100): 11.47
+COEFFICIENTS: Government frameworks (0-1): 0.98
+COEFFICIENTS: Government actions (0-1): 0.96
+COEFFICIENTS: Non-state actors (0-1): 1.00

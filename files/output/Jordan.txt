@@ -5,13 +5,12 @@ GIRAI_region: Middle East
 UN_region: Asia
 UN_subregion: Western Asia
 Index score: 29.6
-G - Index score: 36.88
-H - PILLAR SCORES: 28.78
-I - DIMENSION SCORES: 16.69
-J - COEFFICIENTS: 30.68
-K: 26.75
-L: 35.63
-M: 0.68
-N: 0.69
-O: 0.45
-P: 
+PILLAR SCORES: Government frameworks (0-100): 36.88
+PILLAR SCORES: Government actions (0-100): 28.78
+PILLAR SCORES: Non-state actors (0-100): 16.69
+DIMENSION SCORES: Human Rights and AI (0-100): 30.68
+DIMENSION SCORES: Responsible AI Governance (0-100): 26.75
+DIMENSION SCORES: Responsible AI Capacities (0-100): 35.63
+COEFFICIENTS: Government frameworks (0-1): 0.68
+COEFFICIENTS: Government actions (0-1): 0.69
+COEFFICIENTS: Non-state actors (0-1): 0.45

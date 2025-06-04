@@ -1,0 +1,16 @@
+Ranking: 42
+ISO3: ZAF
+Country: South Africa
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 27.61
+PILLAR SCORES: Government frameworks (0-100): 3.26
+PILLAR SCORES: Government actions (0-100): 31.50
+PILLAR SCORES: Non-state actors (0-100): 68.53
+DIMENSION SCORES: Human Rights and AI (0-100): 28.93
+DIMENSION SCORES: Responsible AI Governance (0-100): 24.99
+DIMENSION SCORES: Responsible AI Capacities (0-100): 32.40
+COEFFICIENTS: Government frameworks (0-1): 0.62
+COEFFICIENTS: Government actions (0-1): 0.60
+COEFFICIENTS: Non-state actors (0-1): 0.98

@@ -1,0 +1,16 @@
+Ranking: 5
+ISO3: USA
+Country: United States of America
+GIRAI_region: North America
+UN_region: Americas
+UN_subregion: Northern America
+Index score: 72.81
+PILLAR SCORES: Government frameworks (0-100): 62.41
+PILLAR SCORES: Government actions (0-100): 79.19
+PILLAR SCORES: Non-state actors (0-100): 80.87
+DIMENSION SCORES: Human Rights and AI (0-100): 65.37
+DIMENSION SCORES: Responsible AI Governance (0-100): 74.75
+DIMENSION SCORES: Responsible AI Capacities (0-100): 84.34
+COEFFICIENTS: Government frameworks (0-1): 0.92
+COEFFICIENTS: Government actions (0-1): 0.89
+COEFFICIENTS: Non-state actors (0-1): 0.92

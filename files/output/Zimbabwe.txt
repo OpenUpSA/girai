@@ -5,13 +5,12 @@ GIRAI_region: Africa
 UN_region: Africa
 UN_subregion: Sub-Saharan Africa
 Index score: 3.69
-G - Index score: 3.34
-H - PILLAR SCORES: 3.23
-I - DIMENSION SCORES: 5.35
-J - COEFFICIENTS: 4.92
-K: 0.00
-L: 11.92
-M: 0.32
-N: 0.32
-O: 0.51
-P: 
+PILLAR SCORES: Government frameworks (0-100): 3.34
+PILLAR SCORES: Government actions (0-100): 3.23
+PILLAR SCORES: Non-state actors (0-100): 5.35
+DIMENSION SCORES: Human Rights and AI (0-100): 4.92
+DIMENSION SCORES: Responsible AI Governance (0-100): 0.00
+DIMENSION SCORES: Responsible AI Capacities (0-100): 11.92
+COEFFICIENTS: Government frameworks (0-1): 0.32
+COEFFICIENTS: Government actions (0-1): 0.32
+COEFFICIENTS: Non-state actors (0-1): 0.51

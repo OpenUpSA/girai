@@ -1,8 +1,19 @@
-import { OpenAI } from 'openai';
-import { CoreMessage, generateText } from 'ai';
-import { openai, OpenAIResponsesProviderOptions } from '@ai-sdk/openai';
+import { OpenAI } from 'openai'
+import { CoreMessage, generateText } from 'ai'
+import { openai, OpenAIResponsesProviderOptions } from '@ai-sdk/openai'
+import { inspect } from 'util'
 
-const openaiInstance = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+inspect.defaultOptions.depth = null
+
+type FileSearchResult = {
+  output: {
+    results: {
+      text: string
+    }[]
+  }[]
+}
+
+const openaiInstance = new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
 
 async function searchFiles(vectorStoreIds: string[], query: string) {
   const response = await openaiInstance.responses.create({
@@ -14,26 +25,30 @@ async function searchFiles(vectorStoreIds: string[], query: string) {
       max_num_results: 1
     }],
     include: ["file_search_call.results"]
-  });
-  return response;
+  })
+  console.log(inspect(response))
+  return response
 }
 
 export async function POST(req: Request) {
-  const { messages }: { messages: CoreMessage[] } = await req.json();
-  const vectorStoreIds = process.env.OPENAI_VECTOR_STORE_ID ? [process.env.OPENAI_VECTOR_STORE_ID] : [];
-  const query = messages.map(msg => msg.content).join(' ');
+  const { messages }: { messages: CoreMessage[] } = await req.json()
+  const vectorStoreIds = process.env.OPENAI_VECTOR_STORE_ID ? [process.env.OPENAI_VECTOR_STORE_ID] : []
+  const query = messages.map(msg => msg.content).join(' ')
 
-  let fileSearchResults: unknown = null;
+  let fileSearchResults: unknown = null
   try {
-    fileSearchResults = await searchFiles(vectorStoreIds, query);
+    fileSearchResults = await searchFiles(vectorStoreIds, query)
   } catch (error) {
-    console.error('Error during file search:', error);
+    console.error('Error during file search:', error)
   }
+
+  const results = fileSearchResults as FileSearchResult;
+  const searchOutput = results?.output?.[0]?.results?.[0]?.text || '';
 
   const fileMessages: CoreMessage[] = [{
     role: 'system',
-    content: `Results from fileSearch: ${fileSearchResults as { output_text: string }}`
-  }];
+    content: `Here are the relevant file search results:\n\n${searchOutput}`
+  }]
 
   const gt = await generateText({
     model: openai.responses('gpt-4o-mini'),
@@ -53,7 +68,7 @@ The 2024 1st edition report can be downloaded from https://girai-report-2024-cor
 You have many files in a vector store to use to answer specific questions.
 `,
     messages: [...messages, ...fileMessages],
-  });
+  })
 
-  return Response.json({ messages: gt.response.messages });
+  return Response.json({ messages: gt.response.messages })
 }

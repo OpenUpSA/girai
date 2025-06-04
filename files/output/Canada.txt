@@ -5,13 +5,12 @@ GIRAI_region: North America
 UN_region: Americas
 UN_subregion: Northern America
 Index score: 57.39
-G - Index score: 37.80
-H - PILLAR SCORES: 80.84
-I - DIMENSION SCORES: 49.68
-J - COEFFICIENTS: 55.37
-K: 59.07
-L: 57.06
-M: 0.96
-N: 0.95
-O: 0.98
-P: 
+PILLAR SCORES: Government frameworks (0-100): 37.80
+PILLAR SCORES: Government actions (0-100): 80.84
+PILLAR SCORES: Non-state actors (0-100): 49.68
+DIMENSION SCORES: Human Rights and AI (0-100): 55.37
+DIMENSION SCORES: Responsible AI Governance (0-100): 59.07
+DIMENSION SCORES: Responsible AI Capacities (0-100): 57.06
+COEFFICIENTS: Government frameworks (0-1): 0.96
+COEFFICIENTS: Government actions (0-1): 0.95
+COEFFICIENTS: Non-state actors (0-1): 0.98

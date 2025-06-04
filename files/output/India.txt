@@ -5,13 +5,12 @@ GIRAI_region: Asia and Oceania
 UN_region: Asia
 UN_subregion: Southern Asia
 Index score: 38.51
-G - Index score: 28.42
-H - PILLAR SCORES: 52.95
-I - DIMENSION SCORES: 29.81
-J - COEFFICIENTS: 28.99
-K: 46.74
-L: 36.05
-M: 0.65
-N: 0.65
-O: 0.68
-P: 
+PILLAR SCORES: Government frameworks (0-100): 28.42
+PILLAR SCORES: Government actions (0-100): 52.95
+PILLAR SCORES: Non-state actors (0-100): 29.81
+DIMENSION SCORES: Human Rights and AI (0-100): 28.99
+DIMENSION SCORES: Responsible AI Governance (0-100): 46.74
+DIMENSION SCORES: Responsible AI Capacities (0-100): 36.05
+COEFFICIENTS: Government frameworks (0-1): 0.65
+COEFFICIENTS: Government actions (0-1): 0.65
+COEFFICIENTS: Non-state actors (0-1): 0.68

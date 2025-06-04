@@ -1,0 +1,16 @@
+Ranking: 79
+ISO3: KGZ
+Country: Kyrgyz Republic
+GIRAI_region: Asia and Oceania
+UN_region: Asia
+UN_subregion: Central Asia
+Index score: 7.4
+PILLAR SCORES: Government frameworks (0-100): 2.14
+PILLAR SCORES: Government actions (0-100): 10.50
+PILLAR SCORES: Non-state actors (0-100): 11.76
+DIMENSION SCORES: Human Rights and AI (0-100): 8.88
+DIMENSION SCORES: Responsible AI Governance (0-100): 3.62
+DIMENSION SCORES: Responsible AI Capacities (0-100): 15.32
+COEFFICIENTS: Government frameworks (0-1): 0.41
+COEFFICIENTS: Government actions (0-1): 0.36
+COEFFICIENTS: Non-state actors (0-1): 0.61

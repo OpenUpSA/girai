@@ -1,0 +1,16 @@
+Ranking: 108
+ISO3: TZA
+Country: United Republic of Tanzania
+GIRAI_region: Africa
+UN_region: Africa
+UN_subregion: Sub-Saharan Africa
+Index score: 2.23
+PILLAR SCORES: Government frameworks (0-100): 0.00
+PILLAR SCORES: Government actions (0-100): 2.57
+PILLAR SCORES: Non-state actors (0-100): 6.00
+DIMENSION SCORES: Human Rights and AI (0-100): 0.54
+DIMENSION SCORES: Responsible AI Governance (0-100): 1.69
+DIMENSION SCORES: Responsible AI Capacities (0-100): 7.77
+COEFFICIENTS: Government frameworks (0-1): 0.51
+COEFFICIENTS: Government actions (0-1): 0.54
+COEFFICIENTS: Non-state actors (0-1): 0.57

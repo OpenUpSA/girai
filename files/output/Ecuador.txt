@@ -5,13 +5,12 @@ GIRAI_region: South and Central America
 UN_region: Americas
 UN_subregion: Latin America and the Caribbean
 Index score: 4.51
-G - Index score: 0.00
-H - PILLAR SCORES: 4.85
-I - DIMENSION SCORES: 12.83
-J - COEFFICIENTS: 5.42
-K: 2.05
-L: 9.75
-M: 0.48
-N: 0.51
-O: 0.81
-P: 
+PILLAR SCORES: Government frameworks (0-100): 0.00
+PILLAR SCORES: Government actions (0-100): 4.85
+PILLAR SCORES: Non-state actors (0-100): 12.83
+DIMENSION SCORES: Human Rights and AI (0-100): 5.42
+DIMENSION SCORES: Responsible AI Governance (0-100): 2.05
+DIMENSION SCORES: Responsible AI Capacities (0-100): 9.75
+COEFFICIENTS: Government frameworks (0-1): 0.48
+COEFFICIENTS: Government actions (0-1): 0.51
+COEFFICIENTS: Non-state actors (0-1): 0.81

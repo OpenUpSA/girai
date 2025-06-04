@@ -1,0 +1,16 @@
+Ranking: 40
+ISO3: SAU
+Country: Saudi Arabia
+GIRAI_region: Middle East
+UN_region: Asia
+UN_subregion: Western Asia
+Index score: 28.95
+PILLAR SCORES: Government frameworks (0-100): 25.60
+PILLAR SCORES: Government actions (0-100): 42.87
+PILLAR SCORES: Non-state actors (0-100): 7.81
+DIMENSION SCORES: Human Rights and AI (0-100): 26.28
+DIMENSION SCORES: Responsible AI Governance (0-100): 27.69
+DIMENSION SCORES: Responsible AI Capacities (0-100): 38.96
+COEFFICIENTS: Government frameworks (0-1): 0.71
+COEFFICIENTS: Government actions (0-1): 0.75
+COEFFICIENTS: Non-state actors (0-1): 0.30
