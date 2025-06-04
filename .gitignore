@@ -44,7 +44,7 @@ next-env.d.ts
 .netlify
 
 # Produced by npx tsc generate-country-scores.ts
-generate-country-scores.js
+utils/generate-country-scores.js
 
 files/source/*
 !files/source/.gitkeep

@@ -1,74 +1,41 @@
-const fs = require('fs');
-const path = require('path');
-const cheerio = require('cheerio');
-
-// Paths
-const inputPath = path.join(__dirname, '../files/openai-store/GIRAI_2024_Edition_Rankings_And_Scores.html');
-const outputDir = path.join(__dirname, '../files/output');
-
-// Ensure output directory exists
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var fs = require("fs");
+var path = require("path");
+var cheerio = require("cheerio");
+// Load the HTML file
+var html = fs.readFileSync('./files/source/GIRAI_2024_Edition_Rankings_And_Scores.html', 'utf8');
+var $ = cheerio.load(html);
+// Select the first table in the document
+var table = $('table').first();
+// Extract headers from the table
+var headers = [];
+table.find('thead tr').last().find('th').each(function (_, th) {
+    headers.push($(th).text().trim());
+});
+// Extract rows from the table
+var rows = [];
+table.find('tbody tr').each(function (_, tr) {
+    var rowData = {};
+    $(tr).find('td').each(function (i, td) {
+        rowData[headers[i]] = $(td).text().trim();
+    });
+    if (Object.keys(rowData).length > 0) {
+        rows.push(rowData);
+    }
+});
+// Create the output directory if it doesn't exist
+var outputDir = path.join(__dirname, '../files/output');
 if (!fs.existsSync(outputDir)) {
-  fs.mkdirSync(outputDir, { recursive: true });
+    fs.mkdirSync(outputDir);
 }
-
-// Load and parse HTML
-const html = fs.readFileSync(inputPath, 'utf8');
-const $ = cheerio.load(html);
-
-// --- Extract full headers (2-row headers) ---
-const headerRows = $('table.waffle tr').slice(0, 2);
-const headers = [];
-
-// First pass: collect merged headers from row 0
-let colIdx = 0;
-headerRows.eq(0).find('td, th').each((_, cell) => {
-  const colspan = parseInt($(cell).attr('colspan')) || 1;
-  const baseHeader = $(cell).text().trim().replace(/\s+/g, ' ');
-  for (let i = 0; i < colspan; i++) {
-    headers[colIdx++] = baseHeader; // Base for now
-  }
+// Write each country's data to a separate text file
+rows.forEach(function (row) {
+    console.log(row, row['']);
+    var countryName = row['Country'] || 'Unknown';
+    var safeCountryName = countryName.replace(/[\\/:*?"<>|]/g, '');
+    var filePath = path.join(outputDir, "".concat(safeCountryName, ".txt"));
+    var content = headers.map(function (header) { return "".concat(header, ": ").concat(row[header] || ''); }).join('\n');
+    fs.writeFileSync(filePath, content, 'utf8');
 });
-
-// Second pass: append second row (subheaders)
-colIdx = 0;
-headerRows.eq(1).find('td, th').each((_, cell) => {
-  const text = $(cell).text().trim().replace(/\s+/g, ' ');
-  if (headers[colIdx]) {
-    headers[colIdx] = `${headers[colIdx]} - ${text}`;
-  } else {
-    headers[colIdx] = text; // fill in if missing
-  }
-  colIdx++;
-});
-
-// Clean headers (e.g., fix first few that aren't merged)
-headers[0] = 'Ranking';
-headers[1] = 'ISO3';
-headers[2] = 'Country';
-headers[3] = 'GIRAI_region';
-headers[4] = 'UN_region';
-headers[5] = 'UN_subregion';
-headers[6] = 'Index score';
-
-// --- Process each country row ---
-$('table.waffle tr').slice(3).each((_, row) => {
-  const cells = $(row).find('td');
-  if (cells.length < 3) return;
-
-  const values = [];
-  cells.each((i, cell) => {
-    const text = $(cell).text().trim().replace(/\s+/g, ' ');
-    values.push(text);
-  });
-
-  const countryName = values[2]; // Column C = index 2
-  if (!countryName) return;
-
-  const safeFileName = countryName.replace(/[^a-z0-9]/gi, '_');
-  const filePath = path.join(outputDir, `${safeFileName}.txt`);
-
-  const content = headers.map((header, i) => `${header}: ${values[i] || ''}`).join('\n');
-
-  fs.writeFileSync(filePath, content, 'utf8');
-  console.log(`✔ Created: ${safeFileName}.txt`);
-});
+console.log("\u2705 Successfully generated ".concat(rows.length, " country files in the 'output' directory."));

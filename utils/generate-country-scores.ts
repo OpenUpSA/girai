@@ -3,7 +3,7 @@ import * as path from 'path';
 import * as cheerio from 'cheerio';
 
 // Load the HTML file
-const html = fs.readFileSync('GIRAI_2024_Edition_Rankings_And_Scores.html', 'utf8');
+const html = fs.readFileSync('./files/source/GIRAI_2024_Edition_Rankings_And_Scores.html', 'utf8');
 const $ = cheerio.load(html);
 
 // Select the first table in the document
@@ -28,13 +28,14 @@ table.find('tbody tr').each((_, tr) => {
 });
 
 // Create the output directory if it doesn't exist
-const outputDir = path.join(__dirname, 'output');
+const outputDir = path.join(__dirname, '../files/output');
 if (!fs.existsSync(outputDir)) {
   fs.mkdirSync(outputDir);
 }
 
 // Write each country's data to a separate text file
 rows.forEach((row) => {
+  console.log(row, row[''])
   const countryName = row['Country'] || 'Unknown';
   const safeCountryName = countryName.replace(/[\\/:*?"<>|]/g, '');
   const filePath = path.join(outputDir, `${safeCountryName}.txt`);
