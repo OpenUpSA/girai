@@ -37,7 +37,7 @@ async function main() {
   const records1: Row[] = parse(file1Content, { columns: true, skip_empty_lines: true })
   const records2: Row[] = parse(file2Content, { columns: true, skip_empty_lines: true })
 
-  const countryMap = new Map<string, { row1?: Row row2?: Row }>()
+  const countryMap = new Map<string, { row1?: Row, row2?: Row }>()
 
   for (const row of records1) {
     const country = row['Country']
@@ -73,7 +73,7 @@ async function main() {
     .filter(file => file.endsWith('.txt'))
     .map(file => path.join(outputDir, file))
 
-  for (let i = 0 i < countryFiles.length i += chunkSize) {
+  for (let i = 0; i < countryFiles.length; i += chunkSize) {
     const batchFiles = countryFiles.slice(i, i + chunkSize)
 
     console.log(`Uploading batch ${i / chunkSize + 1} with ${batchFiles.length} files`)
