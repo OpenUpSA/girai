@@ -93,7 +93,7 @@ async function uploadFiles() {
   }
 
   const allFiles = (await fs.readdir(outputDir))
-    .filter(file => file.endsWith('.txt') || file.endsWith('.json'))
+    .filter(file => file.endsWith('.txt') || file.endsWith('.json') || file.endsWith('.docx'))
     .slice(0, 200)
 
   const files = allFiles.map(file => path.join(outputDir, file))
