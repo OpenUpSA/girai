@@ -22,7 +22,7 @@ async function searchFiles(vectorStoreIds: string[], query: string) {
     tools: [{
       type: 'file_search',
       vector_store_ids: vectorStoreIds,
-      max_num_results: 1
+      max_num_results: 3
     }],
     include: ["file_search_call.results"]
   })
@@ -42,8 +42,10 @@ export async function POST(req: Request) {
     console.error('Error during file search:', error)
   }
 
-  const results = fileSearchResults as FileSearchResult;
-  const searchOutput = results?.output?.[0]?.results?.[0]?.text || '';
+  const results = fileSearchResults as FileSearchResult
+  const searchOutput = results?.output?.[0]?.results
+    ?.map((res, i) => `Result ${i + 1}:\n${res.text}`)
+    ?.join('\n\n') || ''
 
   const fileMessages: CoreMessage[] = [{
     role: 'system',
@@ -63,7 +65,7 @@ export async function POST(req: Request) {
     system: `
 You are a helpful AI assistant for [The Global Index on Responsible AI](https://www.global-index.ai) website. 
 You provide insights about AI governance, infrastructure, innovation, and skills across different countries. 
-You only talk about AI, and no other topics.
+You only talk about AI and no other topics.
 The 2024 1st edition report can be downloaded from https://girai-report-2024-corrected-edition.tiiny.site/
 You have many files in a vector store to use to answer specific questions.
 `,

@@ -46,5 +46,6 @@ next-env.d.ts
 # Produced by npx tsc generate-country-scores.ts
 utils/generate-country-scores.js
 
-files/source/*
+files/*
 !files/source/.gitkeep
+!files/output/.gitkeep
