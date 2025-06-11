@@ -7,8 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "vectore-store:generate-countr-files": "npx ts-node --project tsconfig.node.json utils/generate-country-files.ts",
-    "vectore-store:upload": "npx ts-node --project tsconfig.node.json utils/upload-files.ts"
+    "vector-store:generate-country-files": "npx ts-node --project tsconfig.node.json utils/generate-country-files.ts",
+    "vector-store:upload": "npx ts-node --project tsconfig.node.json utils/upload-files.ts"
   },
   "dependencies": {
     "@ai-sdk/openai": "^1.2.1",
