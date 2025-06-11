@@ -6,14 +6,16 @@
     "dev": "next dev & cd embed && yarn build --watch",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "vectore-store:generate-countr-files": "npx ts-node --project tsconfig.node.json utils/generate-country-files.ts",
+    "vectore-store:upload": "npx ts-node --project tsconfig.node.json utils/upload-files.ts"
   },
   "dependencies": {
     "@ai-sdk/openai": "^1.2.1",
     "@ai-sdk/react": "^1.1.21",
     "ai": "^4.1.53",
     "next": "15.2.1",
-    "openai": "^4.89.0",
+    "openai": "^5.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "zod": "^3.24.2"
@@ -21,12 +23,19 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
+    "@types/fs-extra": "^11.0.4",
     "@types/node": "^22.15.19",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "cheerio": "^1.0.0",
+    "csv-parse": "^5.6.0",
+    "csv-stringify": "^6.5.2",
+    "dotenv": "^16.5.0",
     "eslint": "^9",
     "eslint-config-next": "15.2.1",
+    "fs-extra": "^11.3.0",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
   }
 }
