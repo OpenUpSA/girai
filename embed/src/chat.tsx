@@ -42,7 +42,18 @@ export default function Chat() {
   const [waiting, setWaiting] = useState<boolean>(false);
   const [input, setInput] = useState('');
   const [messages, setMessages] = useState<CoreMessage[]>([
-    { role: 'assistant', content: 'Hello, I am GIRAI, a knowlegeable AI bot from [The Global Index on Responsible AI](https://www.global-index.ai/) here to guide you through the progress of different countries in implementing responsible AI practices. How can I help you?' },
+    {
+      role: 'assistant',
+      content: `How can I assist you regarding AI governance, infrastructure, innovation, or skills?
+
+You can ask me about:\n
+* AI governance frameworks and policies in different countries.
+* Infrastructure supporting AI development and deployment.
+* Innovation trends in AI technology.
+* Skills development and education related to AI.
+* Insights from the 2024 1st edition report on responsible AI.
+* Feel free to ask anything specific within these topics!`
+    },
   ]);
 
   const [open, setOpen] = useState<boolean>(false);
