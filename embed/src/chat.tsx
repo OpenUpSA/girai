@@ -1,7 +1,12 @@
-import './chat.scss';
-import { CoreMessage } from 'ai';
-import { SetStateAction, useState } from 'react';
-import ReactMarkdown from 'react-markdown';
+import './chat.scss'
+import { CoreMessage } from 'ai'
+import { SetStateAction, useState } from 'react'
+import ReactMarkdown from 'react-markdown'
+
+const API_BASE_URL =
+  typeof window !== 'undefined' && window.location.hostname === 'localhost'
+    ? 'http://localhost:3000'
+    : 'https://girai.openup.org.za'
 
 const PersonSvg = () => (
   <svg
@@ -39,8 +44,8 @@ const ChatSvg = () => (
 )
 
 export default function Chat() {
-  const [waiting, setWaiting] = useState<boolean>(false);
-  const [input, setInput] = useState('');
+  const [waiting, setWaiting] = useState<boolean>(false)
+  const [input, setInput] = useState('')
   const [messages, setMessages] = useState<CoreMessage[]>([
     {
       role: 'assistant',
@@ -54,81 +59,108 @@ You can ask me about:\n
 * Insights from the 2024 1st edition report on responsible AI.
 * Feel free to ask anything specific within these topics!`
     },
-  ]);
+  ])
 
-  const [open, setOpen] = useState<boolean>(false);
+  const [open, setOpen] = useState<boolean>(false)
 
   const toggleChat = () => {
     setOpen(!open)
   }
 
   const inputKeydown = async (event: { key: string }) => {
-    if (event.key === 'Enter') {
-      setWaiting(true);
+    if (event.key !== 'Enter') return
 
-      const userMessage: CoreMessage = { role: 'user', content: input };
-      setMessages((currentMessages: CoreMessage[]) => [userMessage, ...currentMessages]);
+    setWaiting(true)
 
-      setInput('');
+    const userMessage: CoreMessage = { role: 'user', content: input }
+    setMessages((currentMessages: CoreMessage[]) => [userMessage, ...currentMessages])
+    setInput('')
 
-      //const response = await fetch('https://girai.openup.org.za/api/chat', {
-      const response = await fetch('http://localhost:3000/api/chat', {
+    const controller = new AbortController()
+    const timeout = setTimeout(() => controller.abort(), 20000)
+
+    try {
+      const response = await fetch(`${API_BASE_URL}/api/chat`, {
         method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
         body: JSON.stringify({
           messages: [...messages, userMessage],
         }),
-      });
+        signal: controller.signal,
+      })
 
-      const responseJson = await response.json();
+      clearTimeout(timeout)
 
-      const { messages: newMessages } = responseJson;
+      const responseJson = await response.json()
+      setWaiting(false)
+      await handleBotMessages(responseJson.messages)
 
-      setWaiting(false);
-
-      for (const botMessage of newMessages) {
-        await typeMessage(botMessage);
-      }
-
+    } catch {
+      setWaiting(false)
+      clearTimeout(timeout)
+      await handleBotMessages(null)
     }
-  };
+  }
+
+  async function handleBotMessages(newMessages: CoreMessage[] | null) {
+    const fallback: CoreMessage[] = [
+      {
+        role: 'assistant',
+        content: [
+          {
+            type: 'text',
+            text: 'Something went wrong, please ask again.',
+          },
+        ],
+        id: 'msg-fallback-error',
+      },
+    ]
+
+    for (const botMessage of newMessages || fallback) {
+      await typeMessage(botMessage)
+    }
+  }
+
 
   const typeMessage = async (message: CoreMessage) => {
     return new Promise<void>((resolve) => {
-      let currentText = '';
+      let currentText = ''
 
       const contentStr = typeof message.content === 'string'
         ? message.content
-        : extractTextContent(message.content);
+        : extractTextContent(message.content)
 
       if (!contentStr) {
-        resolve();
-        return;
+        resolve()
+        return
       }
 
-      const characters = contentStr.split('');
+      const characters = contentStr.split('')
 
       setMessages((currentMessages: CoreMessage[]) => [
         { role: 'assistant', content: '' },
         ...currentMessages
-      ]);
+      ])
 
       characters.forEach((char, index) => {
         setTimeout(() => {
-          currentText += char;
+          currentText += char
 
           setMessages((currentMessages: CoreMessage[]) => {
-            const updatedMessages = [...currentMessages];
-            updatedMessages[0] = { role: 'assistant', content: currentText };
-            return updatedMessages;
-          });
+            const updatedMessages = [...currentMessages]
+            updatedMessages[0] = { role: 'assistant', content: currentText }
+            return updatedMessages
+          })
 
           if (index === characters.length - 1) {
-            resolve();
+            resolve()
           }
-        }, index * 10);
-      });
-    });
-  };
+        }, index * 10)
+      })
+    })
+  }
 
 
 
@@ -137,18 +169,18 @@ You can ask me about:\n
       return content
         .filter(part => typeof part === 'object' && 'text' in part)
         .map(part => part.text)
-        .join(' ');
+        .join(' ')
     }
 
     if (typeof content === 'object' && 'text' in content) {
-      return content.text;
+      return content.text
     }
 
-    return '';
-  };
+    return ''
+  }
 
-  const inputOnchange = (event: { target: { value: SetStateAction<string>; }; }) => {
-    setInput(event.target.value);
+  const inputOnchange = (event: { target: { value: SetStateAction<string> } }) => {
+    setInput(event.target.value)
   }
 
   return (
@@ -202,5 +234,5 @@ You can ask me about:\n
         <ChatSvg />
       </div>
     </div>
-  );
+  )
 }

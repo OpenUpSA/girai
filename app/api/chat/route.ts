@@ -26,7 +26,7 @@ async function searchFiles(vectorStoreIds: string[], query: string) {
     }],
     include: ["file_search_call.results"]
   })
-  console.log(inspect(response))
+  //console.log(inspect(response))
   return response
 }
 
