@@ -114,7 +114,6 @@ You can ask me about:\n
             text: 'Something went wrong, please ask again.',
           },
         ],
-        id: 'msg-fallback-error',
       },
     ]
 
