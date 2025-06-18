@@ -17,7 +17,7 @@ const openaiInstance = new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
 
 async function searchFiles(vectorStoreIds: string[], query: string) {
   const response = await openaiInstance.responses.create({
-    model: 'gpt-4o-mini',
+    model: 'gpt-4.1-nano',
     input: query,
     tools: [{
       type: 'file_search',
@@ -53,7 +53,7 @@ export async function POST(req: Request) {
   }]
 
   const gt = await generateText({
-    model: openai.responses('gpt-4o-mini'),
+    model: openai.responses('gpt-4.1-nano'),
     maxTokens: 2048,
     temperature: 1,
     topP: 1,
