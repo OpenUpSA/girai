@@ -2,57 +2,55 @@ import fs from 'fs-extra'
 import { parse } from 'csv-parse/sync'
 import path from 'path'
 
-const file1Path = './files/source/GIRAI_2024_Edition_Data - Rankings and Scores.csv'
-const file2Path = './files/source/GIRAI_2024_regional_rankings - Regional rankings.csv'
-const file3Path = './files/source/GIRAI_2024_Edition_Data_Links_fix - frameworks.csv'
-const file4Path = './files/source/GIRAI_2024_Edition_Data_Links_fix - gov. actions.csv'
 const outputDir = './files/output/'
 
 type Row = Record<string, string>
 type LinkEntry = { Title: string; URL: string }
 
-function mergeRows(row1?: Row, row2?: Row): Row {
-  return { ...(row2 || {}), ...(row1 || {}) }
+function mergeRows(rankingsScores?: Row, regionalRankings?: Row): Row {
+  return { ...(regionalRankings || {}), ...(rankingsScores || {}) }
 }
 
 async function main() {
-  const file1Content = await fs.readFile(file1Path, 'utf8')
-  const file2Content = await fs.readFile(file2Path, 'utf8')
-  const file3Content = await fs.readFile(file3Path, 'utf8')
-  const file4Content = await fs.readFile(file4Path, 'utf8')
+  const countryRankingsScoresContent = await fs.readFile('./files/source/Country_Rankings_Scores.csv', 'utf8')
+  const countryRegionalRankingsContent = await fs.readFile('./files/source/Country_Regional_Rankings.csv', 'utf8')
+  const countryFrameworksContent = await fs.readFile('./files/source/Country_Frameworks.csv', 'utf8')
+  const countryGovActionsContent = await fs.readFile('./files/source/Country_Gov_Actions.csv', 'utf8')
+  const countryThematicRankingContent = await fs.readFile('./files/source/Country_Thematic_Scores_Ranking.csv', 'utf8')
 
-  const records1: Row[] = parse(file1Content, { columns: true, skip_empty_lines: true })
-  const records2: Row[] = parse(file2Content, { columns: true, skip_empty_lines: true })
-  const records3: Row[] = parse(file3Content, { columns: true, skip_empty_lines: true })
-  const records4: Row[] = parse(file4Content, { columns: true, skip_empty_lines: true })
+  const records1: Row[] = parse(countryRankingsScoresContent, { columns: true, skip_empty_lines: true })
+  const records2: Row[] = parse(countryRegionalRankingsContent, { columns: true, skip_empty_lines: true })
+  const records3: Row[] = parse(countryFrameworksContent, { columns: true, skip_empty_lines: true })
+  const records4: Row[] = parse(countryGovActionsContent, { columns: true, skip_empty_lines: true })
+  const records5: Row[] = parse(countryThematicRankingContent, { columns: true, skip_empty_lines: true })
+
+  console.log(records5)
 
   const countryMap = new Map<
     string,
     {
-      row1?: Row
-      row2?: Row
+      rankingsScores?: Row
+      regionalRankings?: Row
       frameworks?: LinkEntry[]
       govActions?: LinkEntry[]
+      thematicData?: Row
     }
   >()
 
-  // Load file 1
   for (const row of records1) {
     const country = row['Country']
     if (country) {
-      countryMap.set(country, { ...(countryMap.get(country) || {}), row1: row })
+      countryMap.set(country, { ...(countryMap.get(country) || {}), rankingsScores: row })
     }
   }
 
-  // Load file 2
   for (const row of records2) {
     const country = row['Country']
     if (country) {
-      countryMap.set(country, { ...(countryMap.get(country) || {}), row2: row })
+      countryMap.set(country, { ...(countryMap.get(country) || {}), regionalRankings: row })
     }
   }
 
-  // Load file 3 (frameworks)
   for (const row of records3) {
     const country = row['Country']
     const title = row['Title']
@@ -65,7 +63,6 @@ async function main() {
     }
   }
 
-  // Load file 4 (government actions)
   for (const row of records4) {
     const country = row['Country']
     const title = row['Title']
@@ -74,18 +71,32 @@ async function main() {
       const current = countryMap.get(country) || {}
       const govActions = current.govActions || []
       govActions.push({ Title: title, URL: url })
-      console.log(govActions)
       countryMap.set(country, { ...current, govActions })
+    }
+  }
+
+  for (const row of records5) {
+    console.log(row)
+    const country = row['Country']
+    if (country) {
+      countryMap.set(country, { ...(countryMap.get(country) || {}), thematicData: row })
     }
   }
 
   await fs.ensureDir(outputDir)
 
-  for (const [country, { row1, row2, frameworks, govActions }] of countryMap.entries()) {
-    console.log(govActions)
-    const merged = mergeRows(row1, row2)
-
+  for (const [country, { rankingsScores, regionalRankings, frameworks, govActions, thematicData }] of countryMap.entries()) {
+    const merged = mergeRows(rankingsScores, regionalRankings)
     const lines = Object.entries(merged).map(([key, value]) => `${key}: ${value}`)
+
+    if (thematicData) {
+      lines.push('\nThematic Scores And Rankings:')
+      for (const [key, value] of Object.entries(thematicData)) {
+        if (key !== 'Country') {
+          lines.push(`- ${key}: ${value}`)
+        }
+      }
+    }
 
     if (frameworks?.length) {
       lines.push('\nFrameworks:')
@@ -105,7 +116,7 @@ async function main() {
     const safeCountryName = country.replace(/[^a-z0-9]/gi, '_')
     const filePath = path.join(outputDir, `${safeCountryName}.txt`)
     await fs.writeFile(filePath, content)
-    console.log('Generated:', filePath)
+    //console.log('Generated:', filePath)
   }
 }
 
